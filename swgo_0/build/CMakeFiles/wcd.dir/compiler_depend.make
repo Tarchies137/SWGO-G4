@@ -4,14 +4,14 @@
 CMakeFiles/wcd.dir/action.cc.o: ../action.cc \
   /usr/include/stdc-predef.h \
   ../action.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserActionInitialization.hh \
+  /usr/local/include/Geant4/G4VUserActionInitialization.hh \
   ../generator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleGun.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GlobalConfig.hh \
+  /usr/local/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
+  /usr/local/include/Geant4/G4ParticleGun.hh \
+  /usr/local/include/Geant4/globals.hh \
+  /usr/local/include/Geant4/G4ios.hh \
+  /usr/local/include/Geant4/G4Types.hh \
+  /usr/local/include/Geant4/G4GlobalConfig.hh \
   /usr/include/c++/11/complex \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -217,7 +217,7 @@ CMakeFiles/wcd.dir/action.cc.o: ../action.cc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/bits/istream.tcc \
   /usr/include/c++/11/bits/sstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tls.hh \
+  /usr/local/include/Geant4/tls.hh \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/utility \
@@ -249,12 +249,12 @@ CMakeFiles/wcd.dir/action.cc.o: ../action.cc \
   /usr/include/c++/11/bits/stl_bvector.h \
   /usr/include/c++/11/bits/vector.tcc \
   /usr/include/c++/11/pstl/execution_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.hh \
+  /usr/local/include/Geant4/G4String.hh \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/templates.hh \
+  /usr/local/include/Geant4/G4String.icc \
+  /usr/local/include/Geant4/templates.hh \
   /usr/include/c++/11/climits \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -265,9 +265,9 @@ CMakeFiles/wcd.dir/action.cc.o: ../action.cc \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exception.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ExceptionSeverity.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EnvironmentUtils.hh \
+  /usr/local/include/Geant4/G4Exception.hh \
+  /usr/local/include/Geant4/G4ExceptionSeverity.hh \
+  /usr/local/include/Geant4/G4EnvironmentUtils.hh \
   /usr/include/c++/11/iomanip \
   /usr/include/c++/11/locale \
   /usr/include/c++/11/bits/locale_facets_nonio.h \
@@ -290,19 +290,19 @@ CMakeFiles/wcd.dir/action.cc.o: ../action.cc \
   /usr/include/c++/11/bits/parse_numbers.h \
   /usr/include/c++/11/bits/std_mutex.h \
   /usr/include/c++/11/bits/unique_lock.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPrimaryGenerator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PDefManager.hh \
+  /usr/local/include/Geant4/G4VPrimaryGenerator.hh \
+  /usr/local/include/Geant4/G4ThreeVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.h \
+  /usr/local/include/Geant4/CLHEP/Utility/defs.h \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.icc \
+  /usr/local/include/Geant4/G4ParticleDefinition.hh \
+  /usr/local/include/Geant4/CLHEP/Units/PhysicalConstants.h \
+  /usr/local/include/Geant4/CLHEP/Units/SystemOfUnits.h \
+  /usr/local/include/Geant4/G4PDefManager.hh \
   /usr/include/c++/11/stdlib.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/pwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Threading.hh \
+  /usr/local/include/Geant4/pwdefs.hh \
+  /usr/local/include/Geant4/G4AutoLock.hh \
+  /usr/local/include/Geant4/G4Threading.hh \
   /usr/include/c++/11/condition_variable \
   /usr/include/c++/11/bits/shared_ptr.h \
   /usr/include/c++/11/bits/shared_ptr_base.h \
@@ -316,25 +316,25 @@ CMakeFiles/wcd.dir/action.cc.o: ../action.cc \
   /usr/include/c++/11/bits/std_thread.h \
   /usr/include/c++/11/thread \
   /usr/include/c++/11/bits/this_thread_sleep.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryVertex.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Allocator.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.icc \
+  /usr/local/include/Geant4/G4PrimaryVertex.hh \
+  /usr/local/include/Geant4/G4Allocator.hh \
   /usr/include/c++/11/cstddef \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AllocatorPool.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryParticle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleMomentum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SystemOfUnits.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTableIterator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.icc \
+  /usr/local/include/Geant4/G4AllocatorPool.hh \
+  /usr/local/include/Geant4/G4PrimaryParticle.hh \
+  /usr/local/include/Geant4/G4ParticleMomentum.hh \
+  /usr/local/include/Geant4/G4SystemOfUnits.hh \
+  /usr/local/include/Geant4/G4ParticleTable.hh \
+  /usr/local/include/Geant4/G4ParticleTableIterator.hh \
+  /usr/local/include/Geant4/G4ParticleTable.icc \
   ../run.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserRunAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManagerState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisVerbose.hh \
+  /usr/local/include/Geant4/G4UserRunAction.hh \
+  /usr/local/include/Geant4/G4AnalysisManager.hh \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.hh \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.hh \
+  /usr/local/include/Geant4/G4AnalysisManagerState.hh \
+  /usr/local/include/Geant4/G4AnalysisVerbose.hh \
   /usr/include/c++/11/fstream \
   /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
@@ -346,71 +346,71 @@ CMakeFiles/wcd.dir/action.cc.o: ../action.cc \
   /usr/include/c++/11/bits/shared_ptr_atomic.h \
   /usr/include/c++/11/backward/auto_ptr.h \
   /usr/include/c++/11/pstl/glue_memory_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTBaseHnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisUtilities.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BinScheme.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Fcn.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/ntuple_booking \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cids \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cid \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/typedefs \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/forit \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VNtupleManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTHnFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UImessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIdirectory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIcommand.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIparameter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UItokenNum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ApplicationState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tokenizer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH3ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/base_histo \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/histo_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axes \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axis \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/eqT \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/profile_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.icc
+  /usr/local/include/Geant4/G4VTBaseHnManager.hh \
+  /usr/local/include/Geant4/G4HnInformation.hh \
+  /usr/local/include/Geant4/G4AnalysisUtilities.hh \
+  /usr/local/include/Geant4/G4BinScheme.hh \
+  /usr/local/include/Geant4/G4Fcn.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.icc \
+  /usr/local/include/Geant4/G4HnManager.hh \
+  /usr/local/include/Geant4/G4BaseAnalysisManager.hh \
+  /usr/local/include/Geant4/G4NtupleBookingManager.hh \
+  /usr/local/include/Geant4/tools/ntuple_booking \
+  /usr/local/include/Geant4/tools/cids \
+  /usr/local/include/Geant4/tools/cid \
+  /usr/local/include/Geant4/tools/typedefs \
+  /usr/local/include/Geant4/tools/forit \
+  /usr/local/include/Geant4/G4NtupleBookingManager.icc \
+  /usr/local/include/Geant4/G4VNtupleManager.hh \
+  /usr/local/include/Geant4/G4VFileManager.hh \
+  /usr/local/include/Geant4/G4BaseFileManager.hh \
+  /usr/local/include/Geant4/G4VTHnFileManager.hh \
+  /usr/local/include/Geant4/G4TH1ToolsManager.hh \
+  /usr/local/include/Geant4/G4THnToolsManager.hh \
+  /usr/local/include/Geant4/G4THnManager.hh \
+  /usr/local/include/Geant4/G4THnManager.icc \
+  /usr/local/include/Geant4/G4THnMessenger.hh \
+  /usr/local/include/Geant4/G4UImessenger.hh \
+  /usr/local/include/Geant4/G4UIdirectory.hh \
+  /usr/local/include/Geant4/G4UIcommand.hh \
+  /usr/local/include/Geant4/G4UIparameter.hh \
+  /usr/local/include/Geant4/G4UItokenNum.hh \
+  /usr/local/include/Geant4/G4ApplicationState.hh \
+  /usr/local/include/Geant4/G4THnToolsManager.icc \
+  /usr/local/include/Geant4/G4THnMessenger.icc \
+  /usr/local/include/Geant4/G4Tokenizer.hh \
+  /usr/local/include/Geant4/G4TH2ToolsManager.hh \
+  /usr/local/include/Geant4/G4TH3ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP1ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP2ToolsManager.hh \
+  /usr/local/include/Geant4/tools/histo/h1d \
+  /usr/local/include/Geant4/tools/histo/h1 \
+  /usr/local/include/Geant4/tools/histo/b1 \
+  /usr/local/include/Geant4/tools/histo/base_histo \
+  /usr/local/include/Geant4/tools/histo/histo_data \
+  /usr/local/include/Geant4/tools/histo/axes \
+  /usr/local/include/Geant4/tools/histo/axis \
+  /usr/local/include/Geant4/tools/eqT \
+  /usr/local/include/Geant4/tools/histo/h2d \
+  /usr/local/include/Geant4/tools/histo/h2 \
+  /usr/local/include/Geant4/tools/histo/b2 \
+  /usr/local/include/Geant4/tools/histo/h3d \
+  /usr/local/include/Geant4/tools/histo/h3 \
+  /usr/local/include/Geant4/tools/histo/b3 \
+  /usr/local/include/Geant4/tools/histo/p1d \
+  /usr/local/include/Geant4/tools/histo/p1 \
+  /usr/local/include/Geant4/tools/histo/profile_data \
+  /usr/local/include/Geant4/tools/histo/p2d \
+  /usr/local/include/Geant4/tools/histo/p2 \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericFileManager.hh \
+  /usr/local/include/Geant4/G4GenericFileManager.icc
 
 CMakeFiles/wcd.dir/construction.cc.o: ../construction.cc \
   /usr/include/stdc-predef.h \
   ../construction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserDetectorConstruction.hh \
+  /usr/local/include/Geant4/G4VUserDetectorConstruction.hh \
   /usr/include/c++/11/vector \
   /usr/include/c++/11/bits/stl_algobase.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -458,10 +458,10 @@ CMakeFiles/wcd.dir/construction.cc.o: ../construction.cc \
   /usr/include/c++/11/bits/hash_bytes.h \
   /usr/include/c++/11/bits/range_access.h \
   /usr/include/c++/11/bits/vector.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GlobalConfig.hh \
+  /usr/local/include/Geant4/globals.hh \
+  /usr/local/include/Geant4/G4ios.hh \
+  /usr/local/include/Geant4/G4Types.hh \
+  /usr/local/include/Geant4/G4GlobalConfig.hh \
   /usr/include/c++/11/complex \
   /usr/include/c++/11/cmath \
   /usr/include/math.h \
@@ -625,7 +625,7 @@ CMakeFiles/wcd.dir/construction.cc.o: ../construction.cc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/bits/istream.tcc \
   /usr/include/c++/11/bits/sstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tls.hh \
+  /usr/local/include/Geant4/tls.hh \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/utility \
@@ -652,12 +652,12 @@ CMakeFiles/wcd.dir/construction.cc.o: ../construction.cc \
   /usr/include/c++/11/bits/unordered_map.h \
   /usr/include/c++/11/bits/erase_if.h \
   /usr/include/c++/11/pstl/execution_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.hh \
+  /usr/local/include/Geant4/G4String.hh \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/templates.hh \
+  /usr/local/include/Geant4/G4String.icc \
+  /usr/local/include/Geant4/templates.hh \
   /usr/include/c++/11/climits \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -668,9 +668,9 @@ CMakeFiles/wcd.dir/construction.cc.o: ../construction.cc \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exception.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ExceptionSeverity.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EnvironmentUtils.hh \
+  /usr/local/include/Geant4/G4Exception.hh \
+  /usr/local/include/Geant4/G4ExceptionSeverity.hh \
+  /usr/local/include/Geant4/G4EnvironmentUtils.hh \
   /usr/include/c++/11/iomanip \
   /usr/include/c++/11/locale \
   /usr/include/c++/11/bits/locale_facets_nonio.h \
@@ -693,33 +693,33 @@ CMakeFiles/wcd.dir/construction.cc.o: ../construction.cc \
   /usr/include/c++/11/bits/parse_numbers.h \
   /usr/include/c++/11/bits/std_mutex.h \
   /usr/include/c++/11/bits/unique_lock.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/geomdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RotationMatrix.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/Rotation.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/LorentzVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/LorentzVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/AxisAngle.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/AxisAngle.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationX.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationX.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationY.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationY.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationZ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationZ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/Rotation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomSplitter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/geomwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Threading.hh \
+  /usr/local/include/Geant4/G4VPhysicalVolume.hh \
+  /usr/local/include/Geant4/geomdefs.hh \
+  /usr/local/include/Geant4/G4RotationMatrix.hh \
+  /usr/local/include/Geant4/G4ThreeVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.h \
+  /usr/local/include/Geant4/CLHEP/Utility/defs.h \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/Rotation.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.h \
+  /usr/local/include/Geant4/CLHEP/Vector/LorentzVector.h \
+  /usr/local/include/Geant4/CLHEP/Vector/LorentzVector.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/AxisAngle.h \
+  /usr/local/include/Geant4/CLHEP/Vector/AxisAngle.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationX.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationX.icc \
+  /usr/local/include/Geant4/CLHEP/Units/PhysicalConstants.h \
+  /usr/local/include/Geant4/CLHEP/Units/SystemOfUnits.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationY.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationY.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationZ.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationZ.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/Rotation.icc \
+  /usr/local/include/Geant4/G4GeomSplitter.hh \
+  /usr/local/include/Geant4/geomwdefs.hh \
+  /usr/local/include/Geant4/G4AutoLock.hh \
+  /usr/local/include/Geant4/G4Threading.hh \
   /usr/include/c++/11/condition_variable \
   /usr/include/c++/11/bits/shared_ptr.h \
   /usr/include/c++/11/bits/shared_ptr_base.h \
@@ -733,8 +733,8 @@ CMakeFiles/wcd.dir/construction.cc.o: ../construction.cc \
   /usr/include/c++/11/bits/std_thread.h \
   /usr/include/c++/11/thread \
   /usr/include/c++/11/bits/this_thread_sleep.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.hh \
+  /usr/local/include/Geant4/G4VPhysicalVolume.icc \
+  /usr/local/include/Geant4/G4LogicalVolume.hh \
   /usr/include/c++/11/memory \
   /usr/include/c++/11/bits/stl_raw_storage_iter.h \
   /usr/include/c++/11/bits/align.h \
@@ -742,338 +742,340 @@ CMakeFiles/wcd.dir/construction.cc.o: ../construction.cc \
   /usr/include/c++/11/bits/shared_ptr_atomic.h \
   /usr/include/c++/11/backward/auto_ptr.h \
   /usr/include/c++/11/pstl/glue_memory_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Box.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomTypes.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomConfig.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CSGSolid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSolid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSolid.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polyhedron.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/HepPolyhedron.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TwoVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/TwoVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/TwoVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Point3D.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Point3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Normal3D.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Transform3D.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Transform3D.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Vector3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Visible.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Visible.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Box.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tubs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tubs.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PVPlacement.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NistManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Material.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Element.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Isotope.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IonisParamElm.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IsotopeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElementTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElementVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertiesTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertiesIndex.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertyVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsFreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVector.hh \
+  /usr/local/include/Geant4/G4Region.hh \
+  /usr/local/include/Geant4/G4Region.icc \
+  /usr/local/include/Geant4/G4VPhysicalVolume.hh \
+  /usr/local/include/Geant4/G4LogicalVolume.icc \
+  /usr/local/include/Geant4/G4Box.hh \
+  /usr/local/include/Geant4/G4GeomTypes.hh \
+  /usr/local/include/Geant4/G4GeomConfig.hh \
+  /usr/local/include/Geant4/G4CSGSolid.hh \
+  /usr/local/include/Geant4/G4VSolid.hh \
+  /usr/local/include/Geant4/G4VSolid.icc \
+  /usr/local/include/Geant4/G4Polyhedron.hh \
+  /usr/local/include/Geant4/HepPolyhedron.h \
+  /usr/local/include/Geant4/G4TwoVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/TwoVector.h \
+  /usr/local/include/Geant4/CLHEP/Vector/TwoVector.icc \
+  /usr/local/include/Geant4/G4Point3D.hh \
+  /usr/local/include/Geant4/CLHEP/Geometry/Point3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
+  /usr/local/include/Geant4/G4Normal3D.hh \
+  /usr/local/include/Geant4/CLHEP/Geometry/Normal3D.h \
+  /usr/local/include/Geant4/G4Transform3D.hh \
+  /usr/local/include/Geant4/CLHEP/Geometry/Transform3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/Transform3D.icc \
+  /usr/local/include/Geant4/CLHEP/Geometry/Vector3D.h \
+  /usr/local/include/Geant4/G4Visible.hh \
+  /usr/local/include/Geant4/G4Visible.icc \
+  /usr/local/include/Geant4/G4Box.icc \
+  /usr/local/include/Geant4/G4Tubs.hh \
+  /usr/local/include/Geant4/G4Tubs.icc \
+  /usr/local/include/Geant4/G4PVPlacement.hh \
+  /usr/local/include/Geant4/G4NistManager.hh \
+  /usr/local/include/Geant4/G4Material.hh \
+  /usr/local/include/Geant4/G4Element.hh \
+  /usr/local/include/Geant4/G4Isotope.hh \
+  /usr/local/include/Geant4/G4IonisParamElm.hh \
+  /usr/local/include/Geant4/G4IsotopeVector.hh \
+  /usr/local/include/Geant4/G4ElementTable.hh \
+  /usr/local/include/Geant4/G4ElementVector.hh \
+  /usr/local/include/Geant4/G4MaterialPropertiesTable.hh \
+  /usr/local/include/Geant4/G4MaterialPropertiesIndex.hh \
+  /usr/local/include/Geant4/G4MaterialPropertyVector.hh \
+  /usr/local/include/Geant4/G4PhysicsFreeVector.hh \
+  /usr/local/include/Geant4/G4PhysicsVector.hh \
   /usr/include/c++/11/fstream \
   /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
   /usr/include/c++/11/bits/fstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Log.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVectorType.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IonisParamMat.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DensityEffectCalculator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SandiaTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OrderedTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DataVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DataVector.icc \
+  /usr/local/include/Geant4/G4Log.hh \
+  /usr/local/include/Geant4/G4PhysicsVectorType.hh \
+  /usr/local/include/Geant4/G4PhysicsVector.icc \
+  /usr/local/include/Geant4/G4IonisParamMat.hh \
+  /usr/local/include/Geant4/G4DensityEffectCalculator.hh \
+  /usr/local/include/Geant4/G4SandiaTable.hh \
+  /usr/local/include/Geant4/G4OrderedTable.hh \
+  /usr/local/include/Geant4/G4DataVector.hh \
+  /usr/local/include/Geant4/G4DataVector.icc \
   /usr/include/assert.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NistElementBuilder.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NistMaterialBuilder.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ICRU90StoppingData.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Pow.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exp.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SystemOfUnits.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalSurface.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Physics2DVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Physics2DVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SurfaceProperty.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalBorderSurface.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalSurface.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalSurface.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalBorderSurface.icc \
+  /usr/local/include/Geant4/G4MaterialTable.hh \
+  /usr/local/include/Geant4/G4NistElementBuilder.hh \
+  /usr/local/include/Geant4/G4NistMaterialBuilder.hh \
+  /usr/local/include/Geant4/G4ICRU90StoppingData.hh \
+  /usr/local/include/Geant4/G4Pow.hh \
+  /usr/local/include/Geant4/G4Exp.hh \
+  /usr/local/include/Geant4/G4SystemOfUnits.hh \
+  /usr/local/include/Geant4/G4OpticalSurface.hh \
+  /usr/local/include/Geant4/G4Physics2DVector.hh \
+  /usr/local/include/Geant4/G4Physics2DVector.icc \
+  /usr/local/include/Geant4/G4SurfaceProperty.hh \
+  /usr/local/include/Geant4/G4LogicalBorderSurface.hh \
+  /usr/local/include/Geant4/G4LogicalSurface.hh \
+  /usr/local/include/Geant4/G4LogicalSurface.icc \
+  /usr/local/include/Geant4/G4LogicalBorderSurface.icc \
+  /usr/local/include/Geant4/G4PhysicalConstants.hh \
+  /usr/local/include/Geant4/G4ProductionCuts.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.hh \
+  /usr/local/include/Geant4/G4PDefManager.hh \
+  /usr/include/c++/11/stdlib.h \
+  /usr/local/include/Geant4/pwdefs.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.icc \
   ../detector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSensitiveDetector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VHit.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Step.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepPoint.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Allocator.hh \
+  /usr/local/include/Geant4/G4VSensitiveDetector.hh \
+  /usr/local/include/Geant4/G4VHit.hh \
+  /usr/local/include/Geant4/G4Step.hh \
+  /usr/local/include/Geant4/G4StepPoint.hh \
+  /usr/local/include/Geant4/G4Allocator.hh \
   /usr/include/c++/11/cstddef \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AllocatorPool.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SteppingControl.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepStatus.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHandle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTouchable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTouchable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReferenceCountedHandle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepPoint.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Profiler.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Profiler.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Globals.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Utility.hh \
+  /usr/local/include/Geant4/G4AllocatorPool.hh \
+  /usr/local/include/Geant4/G4SteppingControl.hh \
+  /usr/local/include/Geant4/G4StepStatus.hh \
+  /usr/local/include/Geant4/G4TouchableHandle.hh \
+  /usr/local/include/Geant4/G4VTouchable.hh \
+  /usr/local/include/Geant4/G4VTouchable.icc \
+  /usr/local/include/Geant4/G4ReferenceCountedHandle.hh \
+  /usr/local/include/Geant4/G4LogicalVolume.hh \
+  /usr/local/include/Geant4/G4StepPoint.icc \
+  /usr/local/include/Geant4/G4TrackVector.hh \
+  /usr/local/include/Geant4/G4Profiler.hh \
+  /usr/local/include/Geant4/G4Profiler.icc \
+  /usr/local/include/Geant4/PTL/Globals.hh \
+  /usr/local/include/Geant4/PTL/Types.hh \
+  /usr/local/include/Geant4/PTL/Utility.hh \
   /usr/include/c++/11/set \
   /usr/include/c++/11/bits/stl_set.h \
   /usr/include/c++/11/bits/stl_multiset.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Step.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Track.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/trkdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DynamicParticle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PDefManager.hh \
-  /usr/include/c++/11/stdlib.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/pwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LorentzVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleMomentum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElectronOccupancy.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DynamicParticle.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackStatus.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserTrackInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsModelCatalog.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Track.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HCofThisEvent.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VHitsCollection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VReadOutGeometry.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SensitiveVolumeList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AffineTransform.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AffineTransform.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevelRep.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevelRep.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevel.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistoryPool.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistory.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistory.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CollectionNameVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSDFilter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RunManager.hh \
+  /usr/local/include/Geant4/G4Step.icc \
+  /usr/local/include/Geant4/G4Track.hh \
+  /usr/local/include/Geant4/trkdefs.hh \
+  /usr/local/include/Geant4/G4DynamicParticle.hh \
+  /usr/local/include/Geant4/G4LorentzVector.hh \
+  /usr/local/include/Geant4/G4ParticleMomentum.hh \
+  /usr/local/include/Geant4/G4ElectronOccupancy.hh \
+  /usr/local/include/Geant4/G4DynamicParticle.icc \
+  /usr/local/include/Geant4/G4TrackStatus.hh \
+  /usr/local/include/Geant4/G4VUserTrackInformation.hh \
+  /usr/local/include/Geant4/G4PhysicsModelCatalog.hh \
+  /usr/local/include/Geant4/G4Track.icc \
+  /usr/local/include/Geant4/G4HCofThisEvent.hh \
+  /usr/local/include/Geant4/G4VHitsCollection.hh \
+  /usr/local/include/Geant4/G4VReadOutGeometry.hh \
+  /usr/local/include/Geant4/G4SensitiveVolumeList.hh \
+  /usr/local/include/Geant4/G4TouchableHistory.hh \
+  /usr/local/include/Geant4/G4NavigationHistory.hh \
+  /usr/local/include/Geant4/G4AffineTransform.hh \
+  /usr/local/include/Geant4/G4AffineTransform.icc \
+  /usr/local/include/Geant4/G4NavigationLevel.hh \
+  /usr/local/include/Geant4/G4NavigationLevelRep.hh \
+  /usr/local/include/Geant4/G4NavigationLevelRep.icc \
+  /usr/local/include/Geant4/G4NavigationLevel.icc \
+  /usr/local/include/Geant4/G4NavigationHistoryPool.hh \
+  /usr/local/include/Geant4/G4NavigationHistory.icc \
+  /usr/local/include/Geant4/G4TouchableHistory.icc \
+  /usr/local/include/Geant4/G4CollectionNameVector.hh \
+  /usr/local/include/Geant4/G4VSDFilter.hh \
+  /usr/local/include/Geant4/G4RunManager.hh \
   /usr/include/c++/11/list \
   /usr/include/c++/11/bits/stl_list.h \
   /usr/include/c++/11/bits/list.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/rundefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Event.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/evtdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryVertex.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryParticle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DCofThisEvent.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VDigiCollection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoryContainer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTrajectory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserEventInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EventManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StackManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserStackingAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ClassificationOfNewTrack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StackedTrack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackStack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartTrackStack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryTransformer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTableIterator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SteppingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/Randomize.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Randomize.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/DualRand.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/JamesRandom.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MixMaxRng.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MTwistEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanecuEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxppEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanshiEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/memory.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/thread_local.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Navigator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSVolume.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSSolid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSSolid.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistoryHandle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NormalNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AuxiliaryNavServices.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AuxiliaryNavServices.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NormalNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VoxelNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLogger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BlockingList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BlockingList.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelProxy.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelProxy.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelNode.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelNode.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelHeader.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelHeader.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VoxelNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParameterisedNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPVParameterisation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VVolumeMaterialScanner.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParameterisedNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReplicaNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReplicaNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RegularNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VExternalNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Navigator.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VProcess.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsTable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VParticleChange.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VParticleChange.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ForceCondition.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GPILSelection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleChange.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleChange.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessType.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NoProcess.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserSteppingAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSteppingVerbose.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/trkgdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackingMessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UImessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIdirectory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIcommand.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIparameter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UItokenNum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ApplicationState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserTrackingAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RunManagerKernel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManagerState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisVerbose.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTBaseHnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisUtilities.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BinScheme.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Fcn.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/ntuple_booking \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cids \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cid \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/typedefs \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/forit \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VNtupleManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTHnFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tokenizer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH3ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/base_histo \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/histo_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axes \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axis \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/eqT \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/profile_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.icc
+  /usr/local/include/Geant4/rundefs.hh \
+  /usr/local/include/Geant4/G4Event.hh \
+  /usr/local/include/Geant4/evtdefs.hh \
+  /usr/local/include/Geant4/G4PrimaryVertex.hh \
+  /usr/local/include/Geant4/G4PrimaryParticle.hh \
+  /usr/local/include/Geant4/G4DCofThisEvent.hh \
+  /usr/local/include/Geant4/G4VDigiCollection.hh \
+  /usr/local/include/Geant4/G4TrajectoryContainer.hh \
+  /usr/local/include/Geant4/G4VTrajectory.hh \
+  /usr/local/include/Geant4/G4VUserEventInformation.hh \
+  /usr/local/include/Geant4/G4EventManager.hh \
+  /usr/local/include/Geant4/G4StackManager.hh \
+  /usr/local/include/Geant4/G4UserStackingAction.hh \
+  /usr/local/include/Geant4/G4ClassificationOfNewTrack.hh \
+  /usr/local/include/Geant4/G4StackedTrack.hh \
+  /usr/local/include/Geant4/G4TrackStack.hh \
+  /usr/local/include/Geant4/G4SmartTrackStack.hh \
+  /usr/local/include/Geant4/G4PrimaryTransformer.hh \
+  /usr/local/include/Geant4/G4ParticleTable.hh \
+  /usr/local/include/Geant4/G4ParticleTableIterator.hh \
+  /usr/local/include/Geant4/G4ParticleTable.icc \
+  /usr/local/include/Geant4/G4TrackingManager.hh \
+  /usr/local/include/Geant4/G4SteppingManager.hh \
+  /usr/local/include/Geant4/Randomize.hh \
+  /usr/local/include/Geant4/CLHEP/Random/Randomize.h \
+  /usr/local/include/Geant4/CLHEP/Random/DualRand.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.icc \
+  /usr/local/include/Geant4/CLHEP/Random/JamesRandom.h \
+  /usr/local/include/Geant4/CLHEP/Random/MixMaxRng.h \
+  /usr/local/include/Geant4/CLHEP/Random/MTwistEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanecuEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxppEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanshiEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.icc \
+  /usr/local/include/Geant4/CLHEP/Utility/memory.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.h \
+  /usr/local/include/Geant4/CLHEP/Utility/thread_local.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.icc \
+  /usr/local/include/Geant4/G4Navigator.hh \
+  /usr/local/include/Geant4/G4GRSVolume.hh \
+  /usr/local/include/Geant4/G4GRSVolume.icc \
+  /usr/local/include/Geant4/G4GRSSolid.hh \
+  /usr/local/include/Geant4/G4GRSSolid.icc \
+  /usr/local/include/Geant4/G4TouchableHistoryHandle.hh \
+  /usr/local/include/Geant4/G4NormalNavigation.hh \
+  /usr/local/include/Geant4/G4AuxiliaryNavServices.hh \
+  /usr/local/include/Geant4/G4AuxiliaryNavServices.icc \
+  /usr/local/include/Geant4/G4NormalNavigation.icc \
+  /usr/local/include/Geant4/G4VoxelNavigation.hh \
+  /usr/local/include/Geant4/G4NavigationLogger.hh \
+  /usr/local/include/Geant4/G4BlockingList.hh \
+  /usr/local/include/Geant4/G4BlockingList.icc \
+  /usr/local/include/Geant4/G4SmartVoxelProxy.hh \
+  /usr/local/include/Geant4/G4SmartVoxelProxy.icc \
+  /usr/local/include/Geant4/G4SmartVoxelNode.hh \
+  /usr/local/include/Geant4/G4SmartVoxelNode.icc \
+  /usr/local/include/Geant4/G4SmartVoxelHeader.hh \
+  /usr/local/include/Geant4/G4SmartVoxelHeader.icc \
+  /usr/local/include/Geant4/G4VoxelNavigation.icc \
+  /usr/local/include/Geant4/G4ParameterisedNavigation.hh \
+  /usr/local/include/Geant4/G4VPVParameterisation.hh \
+  /usr/local/include/Geant4/G4VVolumeMaterialScanner.hh \
+  /usr/local/include/Geant4/G4ParameterisedNavigation.icc \
+  /usr/local/include/Geant4/G4ReplicaNavigation.hh \
+  /usr/local/include/Geant4/G4ReplicaNavigation.icc \
+  /usr/local/include/Geant4/G4RegularNavigation.hh \
+  /usr/local/include/Geant4/G4VExternalNavigation.hh \
+  /usr/local/include/Geant4/G4Navigator.icc \
+  /usr/local/include/Geant4/G4ProcessManager.hh \
+  /usr/local/include/Geant4/G4VProcess.hh \
+  /usr/local/include/Geant4/G4PhysicsTable.hh \
+  /usr/local/include/Geant4/G4PhysicsTable.icc \
+  /usr/local/include/Geant4/G4VParticleChange.hh \
+  /usr/local/include/Geant4/G4VParticleChange.icc \
+  /usr/local/include/Geant4/G4ForceCondition.hh \
+  /usr/local/include/Geant4/G4GPILSelection.hh \
+  /usr/local/include/Geant4/G4ParticleChange.hh \
+  /usr/local/include/Geant4/G4ParticleChange.icc \
+  /usr/local/include/Geant4/G4ProcessType.hh \
+  /usr/local/include/Geant4/G4ProcessVector.hh \
+  /usr/local/include/Geant4/G4ProcessVector.icc \
+  /usr/local/include/Geant4/G4ProcessManager.icc \
+  /usr/local/include/Geant4/G4NoProcess.hh \
+  /usr/local/include/Geant4/G4UserSteppingAction.hh \
+  /usr/local/include/Geant4/G4VSteppingVerbose.hh \
+  /usr/local/include/Geant4/trkgdefs.hh \
+  /usr/local/include/Geant4/G4TrackingMessenger.hh \
+  /usr/local/include/Geant4/G4UImessenger.hh \
+  /usr/local/include/Geant4/G4UIdirectory.hh \
+  /usr/local/include/Geant4/G4UIcommand.hh \
+  /usr/local/include/Geant4/G4UIparameter.hh \
+  /usr/local/include/Geant4/G4UItokenNum.hh \
+  /usr/local/include/Geant4/G4ApplicationState.hh \
+  /usr/local/include/Geant4/G4UserTrackingAction.hh \
+  /usr/local/include/Geant4/G4RunManagerKernel.hh \
+  /usr/local/include/Geant4/G4AnalysisManager.hh \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.hh \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.hh \
+  /usr/local/include/Geant4/G4AnalysisManagerState.hh \
+  /usr/local/include/Geant4/G4AnalysisVerbose.hh \
+  /usr/local/include/Geant4/G4VTBaseHnManager.hh \
+  /usr/local/include/Geant4/G4HnInformation.hh \
+  /usr/local/include/Geant4/G4AnalysisUtilities.hh \
+  /usr/local/include/Geant4/G4BinScheme.hh \
+  /usr/local/include/Geant4/G4Fcn.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.icc \
+  /usr/local/include/Geant4/G4HnManager.hh \
+  /usr/local/include/Geant4/G4BaseAnalysisManager.hh \
+  /usr/local/include/Geant4/G4NtupleBookingManager.hh \
+  /usr/local/include/Geant4/tools/ntuple_booking \
+  /usr/local/include/Geant4/tools/cids \
+  /usr/local/include/Geant4/tools/cid \
+  /usr/local/include/Geant4/tools/typedefs \
+  /usr/local/include/Geant4/tools/forit \
+  /usr/local/include/Geant4/G4NtupleBookingManager.icc \
+  /usr/local/include/Geant4/G4VNtupleManager.hh \
+  /usr/local/include/Geant4/G4VFileManager.hh \
+  /usr/local/include/Geant4/G4BaseFileManager.hh \
+  /usr/local/include/Geant4/G4VTHnFileManager.hh \
+  /usr/local/include/Geant4/G4TH1ToolsManager.hh \
+  /usr/local/include/Geant4/G4THnToolsManager.hh \
+  /usr/local/include/Geant4/G4THnManager.hh \
+  /usr/local/include/Geant4/G4THnManager.icc \
+  /usr/local/include/Geant4/G4THnMessenger.hh \
+  /usr/local/include/Geant4/G4THnToolsManager.icc \
+  /usr/local/include/Geant4/G4THnMessenger.icc \
+  /usr/local/include/Geant4/G4Tokenizer.hh \
+  /usr/local/include/Geant4/G4TH2ToolsManager.hh \
+  /usr/local/include/Geant4/G4TH3ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP1ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP2ToolsManager.hh \
+  /usr/local/include/Geant4/tools/histo/h1d \
+  /usr/local/include/Geant4/tools/histo/h1 \
+  /usr/local/include/Geant4/tools/histo/b1 \
+  /usr/local/include/Geant4/tools/histo/base_histo \
+  /usr/local/include/Geant4/tools/histo/histo_data \
+  /usr/local/include/Geant4/tools/histo/axes \
+  /usr/local/include/Geant4/tools/histo/axis \
+  /usr/local/include/Geant4/tools/eqT \
+  /usr/local/include/Geant4/tools/histo/h2d \
+  /usr/local/include/Geant4/tools/histo/h2 \
+  /usr/local/include/Geant4/tools/histo/b2 \
+  /usr/local/include/Geant4/tools/histo/h3d \
+  /usr/local/include/Geant4/tools/histo/h3 \
+  /usr/local/include/Geant4/tools/histo/b3 \
+  /usr/local/include/Geant4/tools/histo/p1d \
+  /usr/local/include/Geant4/tools/histo/p1 \
+  /usr/local/include/Geant4/tools/histo/profile_data \
+  /usr/local/include/Geant4/tools/histo/p2d \
+  /usr/local/include/Geant4/tools/histo/p2 \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericFileManager.hh \
+  /usr/local/include/Geant4/G4GenericFileManager.icc
 
 CMakeFiles/wcd.dir/detector.cc.o: ../detector.cc \
   /usr/include/stdc-predef.h \
   ../detector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSensitiveDetector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VHit.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GlobalConfig.hh \
+  /usr/local/include/Geant4/G4VSensitiveDetector.hh \
+  /usr/local/include/Geant4/G4VHit.hh \
+  /usr/local/include/Geant4/globals.hh \
+  /usr/local/include/Geant4/G4ios.hh \
+  /usr/local/include/Geant4/G4Types.hh \
+  /usr/local/include/Geant4/G4GlobalConfig.hh \
   /usr/include/c++/11/complex \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -1279,7 +1281,7 @@ CMakeFiles/wcd.dir/detector.cc.o: ../detector.cc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/bits/istream.tcc \
   /usr/include/c++/11/bits/sstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tls.hh \
+  /usr/local/include/Geant4/tls.hh \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/utility \
@@ -1311,12 +1313,12 @@ CMakeFiles/wcd.dir/detector.cc.o: ../detector.cc \
   /usr/include/c++/11/bits/stl_bvector.h \
   /usr/include/c++/11/bits/vector.tcc \
   /usr/include/c++/11/pstl/execution_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.hh \
+  /usr/local/include/Geant4/G4String.hh \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/templates.hh \
+  /usr/local/include/Geant4/G4String.icc \
+  /usr/local/include/Geant4/templates.hh \
   /usr/include/c++/11/climits \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -1327,9 +1329,9 @@ CMakeFiles/wcd.dir/detector.cc.o: ../detector.cc \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exception.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ExceptionSeverity.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EnvironmentUtils.hh \
+  /usr/local/include/Geant4/G4Exception.hh \
+  /usr/local/include/Geant4/G4ExceptionSeverity.hh \
+  /usr/local/include/Geant4/G4EnvironmentUtils.hh \
   /usr/include/c++/11/iomanip \
   /usr/include/c++/11/locale \
   /usr/include/c++/11/bits/locale_facets_nonio.h \
@@ -1352,34 +1354,34 @@ CMakeFiles/wcd.dir/detector.cc.o: ../detector.cc \
   /usr/include/c++/11/bits/parse_numbers.h \
   /usr/include/c++/11/bits/std_mutex.h \
   /usr/include/c++/11/bits/unique_lock.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Step.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/geomdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RotationMatrix.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/Rotation.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/LorentzVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/LorentzVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/AxisAngle.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/AxisAngle.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationX.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationX.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationY.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationY.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationZ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationZ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/Rotation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomSplitter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/geomwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Threading.hh \
+  /usr/local/include/Geant4/G4Step.hh \
+  /usr/local/include/Geant4/G4ThreeVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.h \
+  /usr/local/include/Geant4/CLHEP/Utility/defs.h \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.icc \
+  /usr/local/include/Geant4/G4VPhysicalVolume.hh \
+  /usr/local/include/Geant4/geomdefs.hh \
+  /usr/local/include/Geant4/G4RotationMatrix.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/Rotation.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.h \
+  /usr/local/include/Geant4/CLHEP/Vector/LorentzVector.h \
+  /usr/local/include/Geant4/CLHEP/Vector/LorentzVector.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/AxisAngle.h \
+  /usr/local/include/Geant4/CLHEP/Vector/AxisAngle.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationX.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationX.icc \
+  /usr/local/include/Geant4/CLHEP/Units/PhysicalConstants.h \
+  /usr/local/include/Geant4/CLHEP/Units/SystemOfUnits.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationY.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationY.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationZ.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationZ.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/Rotation.icc \
+  /usr/local/include/Geant4/G4GeomSplitter.hh \
+  /usr/local/include/Geant4/geomwdefs.hh \
+  /usr/local/include/Geant4/G4AutoLock.hh \
+  /usr/local/include/Geant4/G4Threading.hh \
   /usr/include/c++/11/condition_variable \
   /usr/include/c++/11/bits/shared_ptr.h \
   /usr/include/c++/11/bits/shared_ptr_base.h \
@@ -1393,45 +1395,45 @@ CMakeFiles/wcd.dir/detector.cc.o: ../detector.cc \
   /usr/include/c++/11/bits/std_thread.h \
   /usr/include/c++/11/thread \
   /usr/include/c++/11/bits/this_thread_sleep.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepPoint.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Allocator.hh \
+  /usr/local/include/Geant4/G4VPhysicalVolume.icc \
+  /usr/local/include/Geant4/G4StepPoint.hh \
+  /usr/local/include/Geant4/G4Allocator.hh \
   /usr/include/c++/11/cstddef \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AllocatorPool.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SteppingControl.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepStatus.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHandle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTouchable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTouchable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReferenceCountedHandle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Material.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Element.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Isotope.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IonisParamElm.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IsotopeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElementTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElementVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertiesTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertiesIndex.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertyVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsFreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVector.hh \
+  /usr/local/include/Geant4/G4AllocatorPool.hh \
+  /usr/local/include/Geant4/G4SteppingControl.hh \
+  /usr/local/include/Geant4/G4StepStatus.hh \
+  /usr/local/include/Geant4/G4TouchableHandle.hh \
+  /usr/local/include/Geant4/G4VTouchable.hh \
+  /usr/local/include/Geant4/G4VTouchable.icc \
+  /usr/local/include/Geant4/G4ReferenceCountedHandle.hh \
+  /usr/local/include/Geant4/G4Material.hh \
+  /usr/local/include/Geant4/G4Element.hh \
+  /usr/local/include/Geant4/G4Isotope.hh \
+  /usr/local/include/Geant4/G4IonisParamElm.hh \
+  /usr/local/include/Geant4/G4IsotopeVector.hh \
+  /usr/local/include/Geant4/G4ElementTable.hh \
+  /usr/local/include/Geant4/G4ElementVector.hh \
+  /usr/local/include/Geant4/G4MaterialPropertiesTable.hh \
+  /usr/local/include/Geant4/G4MaterialPropertiesIndex.hh \
+  /usr/local/include/Geant4/G4MaterialPropertyVector.hh \
+  /usr/local/include/Geant4/G4PhysicsFreeVector.hh \
+  /usr/local/include/Geant4/G4PhysicsVector.hh \
   /usr/include/c++/11/fstream \
   /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
   /usr/include/c++/11/bits/fstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Log.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVectorType.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IonisParamMat.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DensityEffectCalculator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SandiaTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OrderedTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DataVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DataVector.icc \
+  /usr/local/include/Geant4/G4Log.hh \
+  /usr/local/include/Geant4/G4PhysicsVectorType.hh \
+  /usr/local/include/Geant4/G4PhysicsVector.icc \
+  /usr/local/include/Geant4/G4IonisParamMat.hh \
+  /usr/local/include/Geant4/G4DensityEffectCalculator.hh \
+  /usr/local/include/Geant4/G4SandiaTable.hh \
+  /usr/local/include/Geant4/G4OrderedTable.hh \
+  /usr/local/include/Geant4/G4DataVector.hh \
+  /usr/local/include/Geant4/G4DataVector.icc \
   /usr/include/assert.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.hh \
+  /usr/local/include/Geant4/G4MaterialTable.hh \
+  /usr/local/include/Geant4/G4LogicalVolume.hh \
   /usr/include/c++/11/memory \
   /usr/include/c++/11/bits/stl_raw_storage_iter.h \
   /usr/include/c++/11/bits/align.h \
@@ -1439,263 +1441,263 @@ CMakeFiles/wcd.dir/detector.cc.o: ../detector.cc \
   /usr/include/c++/11/bits/shared_ptr_atomic.h \
   /usr/include/c++/11/backward/auto_ptr.h \
   /usr/include/c++/11/pstl/glue_memory_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepPoint.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Profiler.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Profiler.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Globals.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Utility.hh \
+  /usr/local/include/Geant4/G4Region.hh \
+  /usr/local/include/Geant4/G4Region.icc \
+  /usr/local/include/Geant4/G4LogicalVolume.icc \
+  /usr/local/include/Geant4/G4StepPoint.icc \
+  /usr/local/include/Geant4/G4TrackVector.hh \
+  /usr/local/include/Geant4/G4Profiler.hh \
+  /usr/local/include/Geant4/G4Profiler.icc \
+  /usr/local/include/Geant4/PTL/Globals.hh \
+  /usr/local/include/Geant4/PTL/Types.hh \
+  /usr/local/include/Geant4/PTL/Utility.hh \
   /usr/include/c++/11/set \
   /usr/include/c++/11/bits/stl_set.h \
   /usr/include/c++/11/bits/stl_multiset.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Step.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Track.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/trkdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DynamicParticle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PDefManager.hh \
+  /usr/local/include/Geant4/G4Step.icc \
+  /usr/local/include/Geant4/G4Track.hh \
+  /usr/local/include/Geant4/trkdefs.hh \
+  /usr/local/include/Geant4/G4DynamicParticle.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.hh \
+  /usr/local/include/Geant4/G4PDefManager.hh \
   /usr/include/c++/11/stdlib.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/pwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LorentzVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleMomentum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElectronOccupancy.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DynamicParticle.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackStatus.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserTrackInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsModelCatalog.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Track.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HCofThisEvent.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VHitsCollection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VReadOutGeometry.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SensitiveVolumeList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AffineTransform.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Transform3D.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Transform3D.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Point3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Vector3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AffineTransform.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevelRep.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevelRep.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevel.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistoryPool.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistory.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistory.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CollectionNameVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSDFilter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RunManager.hh \
+  /usr/local/include/Geant4/pwdefs.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.icc \
+  /usr/local/include/Geant4/G4LorentzVector.hh \
+  /usr/local/include/Geant4/G4ParticleMomentum.hh \
+  /usr/local/include/Geant4/G4ElectronOccupancy.hh \
+  /usr/local/include/Geant4/G4DynamicParticle.icc \
+  /usr/local/include/Geant4/G4TrackStatus.hh \
+  /usr/local/include/Geant4/G4VUserTrackInformation.hh \
+  /usr/local/include/Geant4/G4PhysicsModelCatalog.hh \
+  /usr/local/include/Geant4/G4Track.icc \
+  /usr/local/include/Geant4/G4HCofThisEvent.hh \
+  /usr/local/include/Geant4/G4VHitsCollection.hh \
+  /usr/local/include/Geant4/G4VReadOutGeometry.hh \
+  /usr/local/include/Geant4/G4SensitiveVolumeList.hh \
+  /usr/local/include/Geant4/G4TouchableHistory.hh \
+  /usr/local/include/Geant4/G4NavigationHistory.hh \
+  /usr/local/include/Geant4/G4AffineTransform.hh \
+  /usr/local/include/Geant4/G4Transform3D.hh \
+  /usr/local/include/Geant4/CLHEP/Geometry/Transform3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/Transform3D.icc \
+  /usr/local/include/Geant4/CLHEP/Geometry/Point3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/Vector3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/Normal3D.h \
+  /usr/local/include/Geant4/G4AffineTransform.icc \
+  /usr/local/include/Geant4/G4NavigationLevel.hh \
+  /usr/local/include/Geant4/G4NavigationLevelRep.hh \
+  /usr/local/include/Geant4/G4NavigationLevelRep.icc \
+  /usr/local/include/Geant4/G4NavigationLevel.icc \
+  /usr/local/include/Geant4/G4NavigationHistoryPool.hh \
+  /usr/local/include/Geant4/G4NavigationHistory.icc \
+  /usr/local/include/Geant4/G4TouchableHistory.icc \
+  /usr/local/include/Geant4/G4CollectionNameVector.hh \
+  /usr/local/include/Geant4/G4VSDFilter.hh \
+  /usr/local/include/Geant4/G4RunManager.hh \
   /usr/include/c++/11/list \
   /usr/include/c++/11/bits/stl_list.h \
   /usr/include/c++/11/bits/list.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/rundefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Event.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/evtdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryVertex.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryParticle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DCofThisEvent.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VDigiCollection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoryContainer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTrajectory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserEventInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EventManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StackManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserStackingAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ClassificationOfNewTrack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StackedTrack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackStack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartTrackStack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryTransformer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTableIterator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SteppingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/Randomize.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Randomize.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/DualRand.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/JamesRandom.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MixMaxRng.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MTwistEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanecuEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxppEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanshiEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/memory.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/thread_local.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Navigator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSVolume.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSSolid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSSolid.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistoryHandle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NormalNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSolid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSolid.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AuxiliaryNavServices.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AuxiliaryNavServices.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NormalNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VoxelNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLogger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BlockingList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BlockingList.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelProxy.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelProxy.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelNode.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelNode.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelHeader.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelHeader.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VoxelNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParameterisedNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPVParameterisation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VVolumeMaterialScanner.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParameterisedNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReplicaNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReplicaNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RegularNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VExternalNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Navigator.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VProcess.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsTable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VParticleChange.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VParticleChange.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ForceCondition.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GPILSelection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleChange.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleChange.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessType.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NoProcess.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserSteppingAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSteppingVerbose.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/trkgdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackingMessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UImessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIdirectory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIcommand.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIparameter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UItokenNum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ApplicationState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserTrackingAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RunManagerKernel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManagerState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisVerbose.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTBaseHnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisUtilities.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BinScheme.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Fcn.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/ntuple_booking \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cids \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cid \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/typedefs \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/forit \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VNtupleManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTHnFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tokenizer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH3ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/base_histo \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/histo_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axes \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axis \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/eqT \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/profile_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.icc
+  /usr/local/include/Geant4/rundefs.hh \
+  /usr/local/include/Geant4/G4Event.hh \
+  /usr/local/include/Geant4/evtdefs.hh \
+  /usr/local/include/Geant4/G4PrimaryVertex.hh \
+  /usr/local/include/Geant4/G4PrimaryParticle.hh \
+  /usr/local/include/Geant4/G4DCofThisEvent.hh \
+  /usr/local/include/Geant4/G4VDigiCollection.hh \
+  /usr/local/include/Geant4/G4TrajectoryContainer.hh \
+  /usr/local/include/Geant4/G4VTrajectory.hh \
+  /usr/local/include/Geant4/G4VUserEventInformation.hh \
+  /usr/local/include/Geant4/G4EventManager.hh \
+  /usr/local/include/Geant4/G4StackManager.hh \
+  /usr/local/include/Geant4/G4UserStackingAction.hh \
+  /usr/local/include/Geant4/G4ClassificationOfNewTrack.hh \
+  /usr/local/include/Geant4/G4StackedTrack.hh \
+  /usr/local/include/Geant4/G4TrackStack.hh \
+  /usr/local/include/Geant4/G4SmartTrackStack.hh \
+  /usr/local/include/Geant4/G4PrimaryTransformer.hh \
+  /usr/local/include/Geant4/G4ParticleTable.hh \
+  /usr/local/include/Geant4/G4ParticleTableIterator.hh \
+  /usr/local/include/Geant4/G4ParticleTable.icc \
+  /usr/local/include/Geant4/G4TrackingManager.hh \
+  /usr/local/include/Geant4/G4SteppingManager.hh \
+  /usr/local/include/Geant4/Randomize.hh \
+  /usr/local/include/Geant4/CLHEP/Random/Randomize.h \
+  /usr/local/include/Geant4/CLHEP/Random/DualRand.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.icc \
+  /usr/local/include/Geant4/CLHEP/Random/JamesRandom.h \
+  /usr/local/include/Geant4/CLHEP/Random/MixMaxRng.h \
+  /usr/local/include/Geant4/CLHEP/Random/MTwistEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanecuEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxppEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanshiEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.icc \
+  /usr/local/include/Geant4/CLHEP/Utility/memory.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.h \
+  /usr/local/include/Geant4/CLHEP/Utility/thread_local.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.icc \
+  /usr/local/include/Geant4/G4Navigator.hh \
+  /usr/local/include/Geant4/G4GRSVolume.hh \
+  /usr/local/include/Geant4/G4GRSVolume.icc \
+  /usr/local/include/Geant4/G4GRSSolid.hh \
+  /usr/local/include/Geant4/G4GRSSolid.icc \
+  /usr/local/include/Geant4/G4TouchableHistoryHandle.hh \
+  /usr/local/include/Geant4/G4NormalNavigation.hh \
+  /usr/local/include/Geant4/G4VSolid.hh \
+  /usr/local/include/Geant4/G4VSolid.icc \
+  /usr/local/include/Geant4/G4AuxiliaryNavServices.hh \
+  /usr/local/include/Geant4/G4AuxiliaryNavServices.icc \
+  /usr/local/include/Geant4/G4NormalNavigation.icc \
+  /usr/local/include/Geant4/G4VoxelNavigation.hh \
+  /usr/local/include/Geant4/G4NavigationLogger.hh \
+  /usr/local/include/Geant4/G4BlockingList.hh \
+  /usr/local/include/Geant4/G4BlockingList.icc \
+  /usr/local/include/Geant4/G4SmartVoxelProxy.hh \
+  /usr/local/include/Geant4/G4SmartVoxelProxy.icc \
+  /usr/local/include/Geant4/G4SmartVoxelNode.hh \
+  /usr/local/include/Geant4/G4SmartVoxelNode.icc \
+  /usr/local/include/Geant4/G4SmartVoxelHeader.hh \
+  /usr/local/include/Geant4/G4SmartVoxelHeader.icc \
+  /usr/local/include/Geant4/G4VoxelNavigation.icc \
+  /usr/local/include/Geant4/G4ParameterisedNavigation.hh \
+  /usr/local/include/Geant4/G4VPVParameterisation.hh \
+  /usr/local/include/Geant4/G4VVolumeMaterialScanner.hh \
+  /usr/local/include/Geant4/G4ParameterisedNavigation.icc \
+  /usr/local/include/Geant4/G4ReplicaNavigation.hh \
+  /usr/local/include/Geant4/G4ReplicaNavigation.icc \
+  /usr/local/include/Geant4/G4RegularNavigation.hh \
+  /usr/local/include/Geant4/G4VExternalNavigation.hh \
+  /usr/local/include/Geant4/G4Navigator.icc \
+  /usr/local/include/Geant4/G4ProcessManager.hh \
+  /usr/local/include/Geant4/G4VProcess.hh \
+  /usr/local/include/Geant4/G4PhysicsTable.hh \
+  /usr/local/include/Geant4/G4PhysicsTable.icc \
+  /usr/local/include/Geant4/G4VParticleChange.hh \
+  /usr/local/include/Geant4/G4VParticleChange.icc \
+  /usr/local/include/Geant4/G4ForceCondition.hh \
+  /usr/local/include/Geant4/G4GPILSelection.hh \
+  /usr/local/include/Geant4/G4ParticleChange.hh \
+  /usr/local/include/Geant4/G4ParticleChange.icc \
+  /usr/local/include/Geant4/G4ProcessType.hh \
+  /usr/local/include/Geant4/G4ProcessVector.hh \
+  /usr/local/include/Geant4/G4ProcessVector.icc \
+  /usr/local/include/Geant4/G4ProcessManager.icc \
+  /usr/local/include/Geant4/G4NoProcess.hh \
+  /usr/local/include/Geant4/G4UserSteppingAction.hh \
+  /usr/local/include/Geant4/G4VSteppingVerbose.hh \
+  /usr/local/include/Geant4/trkgdefs.hh \
+  /usr/local/include/Geant4/G4TrackingMessenger.hh \
+  /usr/local/include/Geant4/G4UImessenger.hh \
+  /usr/local/include/Geant4/G4UIdirectory.hh \
+  /usr/local/include/Geant4/G4UIcommand.hh \
+  /usr/local/include/Geant4/G4UIparameter.hh \
+  /usr/local/include/Geant4/G4UItokenNum.hh \
+  /usr/local/include/Geant4/G4ApplicationState.hh \
+  /usr/local/include/Geant4/G4UserTrackingAction.hh \
+  /usr/local/include/Geant4/G4RunManagerKernel.hh \
+  /usr/local/include/Geant4/G4AnalysisManager.hh \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.hh \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.hh \
+  /usr/local/include/Geant4/G4AnalysisManagerState.hh \
+  /usr/local/include/Geant4/G4AnalysisVerbose.hh \
+  /usr/local/include/Geant4/G4VTBaseHnManager.hh \
+  /usr/local/include/Geant4/G4HnInformation.hh \
+  /usr/local/include/Geant4/G4AnalysisUtilities.hh \
+  /usr/local/include/Geant4/G4BinScheme.hh \
+  /usr/local/include/Geant4/G4Fcn.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.icc \
+  /usr/local/include/Geant4/G4HnManager.hh \
+  /usr/local/include/Geant4/G4BaseAnalysisManager.hh \
+  /usr/local/include/Geant4/G4NtupleBookingManager.hh \
+  /usr/local/include/Geant4/tools/ntuple_booking \
+  /usr/local/include/Geant4/tools/cids \
+  /usr/local/include/Geant4/tools/cid \
+  /usr/local/include/Geant4/tools/typedefs \
+  /usr/local/include/Geant4/tools/forit \
+  /usr/local/include/Geant4/G4NtupleBookingManager.icc \
+  /usr/local/include/Geant4/G4VNtupleManager.hh \
+  /usr/local/include/Geant4/G4VFileManager.hh \
+  /usr/local/include/Geant4/G4BaseFileManager.hh \
+  /usr/local/include/Geant4/G4VTHnFileManager.hh \
+  /usr/local/include/Geant4/G4TH1ToolsManager.hh \
+  /usr/local/include/Geant4/G4THnToolsManager.hh \
+  /usr/local/include/Geant4/G4THnManager.hh \
+  /usr/local/include/Geant4/G4THnManager.icc \
+  /usr/local/include/Geant4/G4THnMessenger.hh \
+  /usr/local/include/Geant4/G4THnToolsManager.icc \
+  /usr/local/include/Geant4/G4THnMessenger.icc \
+  /usr/local/include/Geant4/G4Tokenizer.hh \
+  /usr/local/include/Geant4/G4TH2ToolsManager.hh \
+  /usr/local/include/Geant4/G4TH3ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP1ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP2ToolsManager.hh \
+  /usr/local/include/Geant4/tools/histo/h1d \
+  /usr/local/include/Geant4/tools/histo/h1 \
+  /usr/local/include/Geant4/tools/histo/b1 \
+  /usr/local/include/Geant4/tools/histo/base_histo \
+  /usr/local/include/Geant4/tools/histo/histo_data \
+  /usr/local/include/Geant4/tools/histo/axes \
+  /usr/local/include/Geant4/tools/histo/axis \
+  /usr/local/include/Geant4/tools/eqT \
+  /usr/local/include/Geant4/tools/histo/h2d \
+  /usr/local/include/Geant4/tools/histo/h2 \
+  /usr/local/include/Geant4/tools/histo/b2 \
+  /usr/local/include/Geant4/tools/histo/h3d \
+  /usr/local/include/Geant4/tools/histo/h3 \
+  /usr/local/include/Geant4/tools/histo/b3 \
+  /usr/local/include/Geant4/tools/histo/p1d \
+  /usr/local/include/Geant4/tools/histo/p1 \
+  /usr/local/include/Geant4/tools/histo/profile_data \
+  /usr/local/include/Geant4/tools/histo/p2d \
+  /usr/local/include/Geant4/tools/histo/p2 \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericFileManager.hh \
+  /usr/local/include/Geant4/G4GenericFileManager.icc
 
 CMakeFiles/wcd.dir/generator.cc.o: ../generator.cc \
   /usr/include/stdc-predef.h \
   ../generator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleGun.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GlobalConfig.hh \
+  /usr/local/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
+  /usr/local/include/Geant4/G4ParticleGun.hh \
+  /usr/local/include/Geant4/globals.hh \
+  /usr/local/include/Geant4/G4ios.hh \
+  /usr/local/include/Geant4/G4Types.hh \
+  /usr/local/include/Geant4/G4GlobalConfig.hh \
   /usr/include/c++/11/complex \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -1901,7 +1903,7 @@ CMakeFiles/wcd.dir/generator.cc.o: ../generator.cc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/bits/istream.tcc \
   /usr/include/c++/11/bits/sstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tls.hh \
+  /usr/local/include/Geant4/tls.hh \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/utility \
@@ -1933,12 +1935,12 @@ CMakeFiles/wcd.dir/generator.cc.o: ../generator.cc \
   /usr/include/c++/11/bits/stl_bvector.h \
   /usr/include/c++/11/bits/vector.tcc \
   /usr/include/c++/11/pstl/execution_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.hh \
+  /usr/local/include/Geant4/G4String.hh \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/templates.hh \
+  /usr/local/include/Geant4/G4String.icc \
+  /usr/local/include/Geant4/templates.hh \
   /usr/include/c++/11/climits \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -1949,9 +1951,9 @@ CMakeFiles/wcd.dir/generator.cc.o: ../generator.cc \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exception.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ExceptionSeverity.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EnvironmentUtils.hh \
+  /usr/local/include/Geant4/G4Exception.hh \
+  /usr/local/include/Geant4/G4ExceptionSeverity.hh \
+  /usr/local/include/Geant4/G4EnvironmentUtils.hh \
   /usr/include/c++/11/iomanip \
   /usr/include/c++/11/locale \
   /usr/include/c++/11/bits/locale_facets_nonio.h \
@@ -1974,19 +1976,19 @@ CMakeFiles/wcd.dir/generator.cc.o: ../generator.cc \
   /usr/include/c++/11/bits/parse_numbers.h \
   /usr/include/c++/11/bits/std_mutex.h \
   /usr/include/c++/11/bits/unique_lock.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPrimaryGenerator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PDefManager.hh \
+  /usr/local/include/Geant4/G4VPrimaryGenerator.hh \
+  /usr/local/include/Geant4/G4ThreeVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.h \
+  /usr/local/include/Geant4/CLHEP/Utility/defs.h \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.icc \
+  /usr/local/include/Geant4/G4ParticleDefinition.hh \
+  /usr/local/include/Geant4/CLHEP/Units/PhysicalConstants.h \
+  /usr/local/include/Geant4/CLHEP/Units/SystemOfUnits.h \
+  /usr/local/include/Geant4/G4PDefManager.hh \
   /usr/include/c++/11/stdlib.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/pwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Threading.hh \
+  /usr/local/include/Geant4/pwdefs.hh \
+  /usr/local/include/Geant4/G4AutoLock.hh \
+  /usr/local/include/Geant4/G4Threading.hh \
   /usr/include/c++/11/condition_variable \
   /usr/include/c++/11/bits/shared_ptr.h \
   /usr/include/c++/11/bits/shared_ptr_base.h \
@@ -2000,38 +2002,38 @@ CMakeFiles/wcd.dir/generator.cc.o: ../generator.cc \
   /usr/include/c++/11/bits/std_thread.h \
   /usr/include/c++/11/thread \
   /usr/include/c++/11/bits/this_thread_sleep.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryVertex.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Allocator.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.icc \
+  /usr/local/include/Geant4/G4PrimaryVertex.hh \
+  /usr/local/include/Geant4/G4Allocator.hh \
   /usr/include/c++/11/cstddef \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AllocatorPool.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryParticle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleMomentum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SystemOfUnits.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTableIterator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/Randomize.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Randomize.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/DualRand.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.h \
+  /usr/local/include/Geant4/G4AllocatorPool.hh \
+  /usr/local/include/Geant4/G4PrimaryParticle.hh \
+  /usr/local/include/Geant4/G4ParticleMomentum.hh \
+  /usr/local/include/Geant4/G4SystemOfUnits.hh \
+  /usr/local/include/Geant4/G4ParticleTable.hh \
+  /usr/local/include/Geant4/G4ParticleTableIterator.hh \
+  /usr/local/include/Geant4/G4ParticleTable.icc \
+  /usr/local/include/Geant4/Randomize.hh \
+  /usr/local/include/Geant4/CLHEP/Random/Randomize.h \
+  /usr/local/include/Geant4/CLHEP/Random/DualRand.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.h \
   /usr/include/c++/11/fstream \
   /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
   /usr/include/c++/11/bits/fstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/JamesRandom.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MixMaxRng.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MTwistEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanecuEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxppEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanshiEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/memory.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.icc \
+  /usr/local/include/Geant4/CLHEP/Random/JamesRandom.h \
+  /usr/local/include/Geant4/CLHEP/Random/MixMaxRng.h \
+  /usr/local/include/Geant4/CLHEP/Random/MTwistEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanecuEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxppEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanshiEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.icc \
+  /usr/local/include/Geant4/CLHEP/Utility/memory.h \
   /usr/include/c++/11/memory \
   /usr/include/c++/11/bits/stl_raw_storage_iter.h \
   /usr/include/c++/11/bits/align.h \
@@ -2039,41 +2041,41 @@ CMakeFiles/wcd.dir/generator.cc.o: ../generator.cc \
   /usr/include/c++/11/bits/shared_ptr_atomic.h \
   /usr/include/c++/11/backward/auto_ptr.h \
   /usr/include/c++/11/pstl/glue_memory_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/thread_local.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.icc
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.h \
+  /usr/local/include/Geant4/CLHEP/Utility/thread_local.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.icc
 
 CMakeFiles/wcd.dir/physics.cc.o: ../physics.cc \
   /usr/include/stdc-predef.h \
   ../physics.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModularPhysicsList.hh \
+  /usr/local/include/Geant4/G4VModularPhysicsList.hh \
   /usr/include/c++/11/vector \
   /usr/include/c++/11/bits/stl_algobase.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -2121,9 +2123,9 @@ CMakeFiles/wcd.dir/physics.cc.o: ../physics.cc \
   /usr/include/c++/11/bits/hash_bytes.h \
   /usr/include/c++/11/bits/range_access.h \
   /usr/include/c++/11/bits/vector.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GlobalConfig.hh \
+  /usr/local/include/Geant4/G4ios.hh \
+  /usr/local/include/Geant4/G4Types.hh \
+  /usr/local/include/Geant4/G4GlobalConfig.hh \
   /usr/include/c++/11/complex \
   /usr/include/c++/11/cmath \
   /usr/include/math.h \
@@ -2287,9 +2289,9 @@ CMakeFiles/wcd.dir/physics.cc.o: ../physics.cc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/bits/istream.tcc \
   /usr/include/c++/11/bits/sstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tls.hh \
+  /usr/local/include/Geant4/tls.hh \
   /usr/include/c++/11/iostream \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh \
+  /usr/local/include/Geant4/globals.hh \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/utility \
   /usr/include/c++/11/bits/stl_relops.h \
@@ -2315,12 +2317,12 @@ CMakeFiles/wcd.dir/physics.cc.o: ../physics.cc \
   /usr/include/c++/11/bits/unordered_map.h \
   /usr/include/c++/11/bits/erase_if.h \
   /usr/include/c++/11/pstl/execution_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.hh \
+  /usr/local/include/Geant4/G4String.hh \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/templates.hh \
+  /usr/local/include/Geant4/G4String.icc \
+  /usr/local/include/Geant4/templates.hh \
   /usr/include/c++/11/climits \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -2331,9 +2333,9 @@ CMakeFiles/wcd.dir/physics.cc.o: ../physics.cc \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exception.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ExceptionSeverity.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EnvironmentUtils.hh \
+  /usr/local/include/Geant4/G4Exception.hh \
+  /usr/local/include/Geant4/G4ExceptionSeverity.hh \
+  /usr/local/include/Geant4/G4EnvironmentUtils.hh \
   /usr/include/c++/11/iomanip \
   /usr/include/c++/11/locale \
   /usr/include/c++/11/bits/locale_facets_nonio.h \
@@ -2356,10 +2358,10 @@ CMakeFiles/wcd.dir/physics.cc.o: ../physics.cc \
   /usr/include/c++/11/bits/parse_numbers.h \
   /usr/include/c++/11/bits/std_mutex.h \
   /usr/include/c++/11/bits/unique_lock.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/rundefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicsConstructor.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Threading.hh \
+  /usr/local/include/Geant4/rundefs.hh \
+  /usr/local/include/Geant4/G4VPhysicsConstructor.hh \
+  /usr/local/include/Geant4/G4ParticleTable.hh \
+  /usr/local/include/Geant4/G4Threading.hh \
   /usr/include/c++/11/condition_variable \
   /usr/include/c++/11/bits/shared_ptr.h \
   /usr/include/c++/11/bits/shared_ptr_base.h \
@@ -2373,22 +2375,22 @@ CMakeFiles/wcd.dir/physics.cc.o: ../physics.cc \
   /usr/include/c++/11/bits/std_thread.h \
   /usr/include/c++/11/thread \
   /usr/include/c++/11/bits/this_thread_sleep.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PDefManager.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.hh \
+  /usr/local/include/Geant4/CLHEP/Units/PhysicalConstants.h \
+  /usr/local/include/Geant4/CLHEP/Units/SystemOfUnits.h \
+  /usr/local/include/Geant4/G4PDefManager.hh \
   /usr/include/c++/11/stdlib.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/pwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTableIterator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsListHelper.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsListOrderingParameter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreadLocalSingleton.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Cache.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CacheDetails.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Backtrace.hh \
+  /usr/local/include/Geant4/pwdefs.hh \
+  /usr/local/include/Geant4/G4AutoLock.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.icc \
+  /usr/local/include/Geant4/G4ParticleTableIterator.hh \
+  /usr/local/include/Geant4/G4ParticleTable.icc \
+  /usr/local/include/Geant4/G4PhysicsListHelper.hh \
+  /usr/local/include/Geant4/G4PhysicsListOrderingParameter.hh \
+  /usr/local/include/Geant4/G4ThreadLocalSingleton.hh \
+  /usr/local/include/Geant4/G4Cache.hh \
+  /usr/local/include/Geant4/G4CacheDetails.hh \
+  /usr/local/include/Geant4/G4Backtrace.hh \
   /usr/include/c++/11/cxxabi.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/cxxabi_tweaks.h \
   /usr/include/execinfo.h \
@@ -2461,31 +2463,165 @@ CMakeFiles/wcd.dir/physics.cc.o: ../physics.cc \
   /usr/include/c++/11/list \
   /usr/include/c++/11/bits/stl_list.h \
   /usr/include/c++/11/bits/list.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUPLSplitter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserPhysicsList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProductionCutsTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialCutsCouple.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProductionCuts.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MCCIndexConversionTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomSplitter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/geomwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsModelCatalog.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EmStandardPhysics.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalPhysics.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalParameters.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc
+  /usr/local/include/Geant4/G4VUPLSplitter.hh \
+  /usr/local/include/Geant4/G4VUserPhysicsList.hh \
+  /usr/local/include/Geant4/G4ProductionCutsTable.hh \
+  /usr/local/include/Geant4/G4MaterialCutsCouple.hh \
+  /usr/local/include/Geant4/G4ProductionCuts.hh \
+  /usr/local/include/Geant4/G4MCCIndexConversionTable.hh \
+  /usr/local/include/Geant4/G4Region.hh \
+  /usr/local/include/Geant4/G4GeomSplitter.hh \
+  /usr/local/include/Geant4/geomwdefs.hh \
+  /usr/local/include/Geant4/G4Region.icc \
+  /usr/local/include/Geant4/G4PhysicsModelCatalog.hh \
+  /usr/local/include/Geant4/G4EmStandardPhysics.hh \
+  /usr/local/include/Geant4/G4OpticalPhysics.hh \
+  /usr/local/include/Geant4/G4OpticalParameters.hh \
+  /usr/local/include/Geant4/G4ThreeVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.h \
+  /usr/local/include/Geant4/CLHEP/Utility/defs.h \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.icc \
+  /usr/local/include/Geant4/G4Cerenkov.hh \
+  /usr/local/include/Geant4/G4DynamicParticle.hh \
+  /usr/local/include/Geant4/G4Allocator.hh \
+  /usr/include/c++/11/cstddef \
+  /usr/local/include/Geant4/G4AllocatorPool.hh \
+  /usr/local/include/Geant4/G4LorentzVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/LorentzVector.h \
+  /usr/local/include/Geant4/CLHEP/Vector/LorentzVector.icc \
+  /usr/local/include/Geant4/G4Log.hh \
+  /usr/local/include/Geant4/G4ParticleMomentum.hh \
+  /usr/local/include/Geant4/G4ElectronOccupancy.hh \
+  /usr/local/include/Geant4/G4DynamicParticle.icc \
+  /usr/local/include/Geant4/G4ForceCondition.hh \
+  /usr/local/include/Geant4/G4GPILSelection.hh \
+  /usr/local/include/Geant4/G4MaterialPropertyVector.hh \
+  /usr/local/include/Geant4/G4PhysicsFreeVector.hh \
+  /usr/local/include/Geant4/G4PhysicsVector.hh \
+  /usr/include/c++/11/fstream \
+  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
+  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
+  /usr/include/c++/11/bits/fstream.tcc \
+  /usr/local/include/Geant4/G4PhysicsVectorType.hh \
+  /usr/local/include/Geant4/G4PhysicsVector.icc \
+  /usr/local/include/Geant4/G4VProcess.hh \
+  /usr/local/include/Geant4/Randomize.hh \
+  /usr/local/include/Geant4/CLHEP/Random/Randomize.h \
+  /usr/local/include/Geant4/CLHEP/Random/DualRand.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.icc \
+  /usr/local/include/Geant4/CLHEP/Random/JamesRandom.h \
+  /usr/local/include/Geant4/CLHEP/Random/MixMaxRng.h \
+  /usr/local/include/Geant4/CLHEP/Random/MTwistEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanecuEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxppEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanshiEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.icc \
+  /usr/local/include/Geant4/CLHEP/Utility/memory.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.h \
+  /usr/local/include/Geant4/CLHEP/Utility/thread_local.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.icc \
+  /usr/local/include/Geant4/G4PhysicsTable.hh \
+  /usr/local/include/Geant4/G4PhysicsTable.icc \
+  /usr/local/include/Geant4/G4VParticleChange.hh \
+  /usr/local/include/Geant4/G4TrackStatus.hh \
+  /usr/local/include/Geant4/G4SteppingControl.hh \
+  /usr/local/include/Geant4/G4Step.hh \
+  /usr/local/include/Geant4/G4VPhysicalVolume.hh \
+  /usr/local/include/Geant4/geomdefs.hh \
+  /usr/local/include/Geant4/G4RotationMatrix.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/Rotation.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.h \
+  /usr/local/include/Geant4/CLHEP/Vector/AxisAngle.h \
+  /usr/local/include/Geant4/CLHEP/Vector/AxisAngle.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationX.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationX.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationY.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationY.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationZ.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationZ.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/Rotation.icc \
+  /usr/local/include/Geant4/G4VPhysicalVolume.icc \
+  /usr/local/include/Geant4/G4StepPoint.hh \
+  /usr/local/include/Geant4/G4StepStatus.hh \
+  /usr/local/include/Geant4/G4TouchableHandle.hh \
+  /usr/local/include/Geant4/G4VTouchable.hh \
+  /usr/local/include/Geant4/G4VTouchable.icc \
+  /usr/local/include/Geant4/G4ReferenceCountedHandle.hh \
+  /usr/local/include/Geant4/G4Material.hh \
+  /usr/local/include/Geant4/G4Element.hh \
+  /usr/local/include/Geant4/G4Isotope.hh \
+  /usr/local/include/Geant4/G4IonisParamElm.hh \
+  /usr/local/include/Geant4/G4IsotopeVector.hh \
+  /usr/local/include/Geant4/G4ElementTable.hh \
+  /usr/local/include/Geant4/G4ElementVector.hh \
+  /usr/local/include/Geant4/G4MaterialPropertiesTable.hh \
+  /usr/local/include/Geant4/G4MaterialPropertiesIndex.hh \
+  /usr/local/include/Geant4/G4IonisParamMat.hh \
+  /usr/local/include/Geant4/G4DensityEffectCalculator.hh \
+  /usr/local/include/Geant4/G4SandiaTable.hh \
+  /usr/local/include/Geant4/G4OrderedTable.hh \
+  /usr/local/include/Geant4/G4DataVector.hh \
+  /usr/local/include/Geant4/G4DataVector.icc \
+  /usr/include/assert.h \
+  /usr/local/include/Geant4/G4MaterialTable.hh \
+  /usr/local/include/Geant4/G4LogicalVolume.hh \
+  /usr/local/include/Geant4/G4LogicalVolume.icc \
+  /usr/local/include/Geant4/G4StepPoint.icc \
+  /usr/local/include/Geant4/G4TrackVector.hh \
+  /usr/local/include/Geant4/G4Profiler.hh \
+  /usr/local/include/Geant4/G4Profiler.icc \
+  /usr/local/include/Geant4/PTL/Globals.hh \
+  /usr/local/include/Geant4/PTL/Types.hh \
+  /usr/local/include/Geant4/PTL/Utility.hh \
+  /usr/local/include/Geant4/G4Step.icc \
+  /usr/local/include/Geant4/G4Track.hh \
+  /usr/local/include/Geant4/trkdefs.hh \
+  /usr/local/include/Geant4/G4VUserTrackInformation.hh \
+  /usr/local/include/Geant4/G4Track.icc \
+  /usr/local/include/Geant4/G4VParticleChange.icc \
+  /usr/local/include/Geant4/G4ParticleChange.hh \
+  /usr/local/include/Geant4/G4ParticleChange.icc \
+  /usr/local/include/Geant4/G4ProcessType.hh
 
 CMakeFiles/wcd.dir/run.cc.o: ../run.cc \
   /usr/include/stdc-predef.h \
   ../run.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserRunAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GlobalConfig.hh \
+  /usr/local/include/Geant4/G4UserRunAction.hh \
+  /usr/local/include/Geant4/G4Types.hh \
+  /usr/local/include/Geant4/G4GlobalConfig.hh \
   /usr/include/c++/11/complex \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -2691,15 +2827,15 @@ CMakeFiles/wcd.dir/run.cc.o: ../run.cc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/bits/istream.tcc \
   /usr/include/c++/11/bits/sstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tls.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManagerState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisVerbose.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh \
+  /usr/local/include/Geant4/tls.hh \
+  /usr/local/include/Geant4/G4AnalysisManager.hh \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.hh \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.hh \
+  /usr/local/include/Geant4/G4AnalysisManagerState.hh \
+  /usr/local/include/Geant4/G4AnalysisVerbose.hh \
+  /usr/local/include/Geant4/globals.hh \
+  /usr/local/include/Geant4/G4ios.hh \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/utility \
@@ -2731,12 +2867,12 @@ CMakeFiles/wcd.dir/run.cc.o: ../run.cc \
   /usr/include/c++/11/bits/stl_bvector.h \
   /usr/include/c++/11/bits/vector.tcc \
   /usr/include/c++/11/pstl/execution_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.hh \
+  /usr/local/include/Geant4/G4String.hh \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/templates.hh \
+  /usr/local/include/Geant4/G4String.icc \
+  /usr/local/include/Geant4/templates.hh \
   /usr/include/c++/11/climits \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -2747,9 +2883,9 @@ CMakeFiles/wcd.dir/run.cc.o: ../run.cc \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exception.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ExceptionSeverity.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EnvironmentUtils.hh \
+  /usr/local/include/Geant4/G4Exception.hh \
+  /usr/local/include/Geant4/G4ExceptionSeverity.hh \
+  /usr/local/include/Geant4/G4EnvironmentUtils.hh \
   /usr/include/c++/11/iomanip \
   /usr/include/c++/11/locale \
   /usr/include/c++/11/bits/locale_facets_nonio.h \
@@ -2772,7 +2908,7 @@ CMakeFiles/wcd.dir/run.cc.o: ../run.cc \
   /usr/include/c++/11/bits/parse_numbers.h \
   /usr/include/c++/11/bits/std_mutex.h \
   /usr/include/c++/11/bits/unique_lock.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Threading.hh \
+  /usr/local/include/Geant4/G4Threading.hh \
   /usr/include/c++/11/condition_variable \
   /usr/include/c++/11/bits/shared_ptr.h \
   /usr/include/c++/11/bits/shared_ptr_base.h \
@@ -2797,71 +2933,71 @@ CMakeFiles/wcd.dir/run.cc.o: ../run.cc \
   /usr/include/c++/11/bits/shared_ptr_atomic.h \
   /usr/include/c++/11/backward/auto_ptr.h \
   /usr/include/c++/11/pstl/glue_memory_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTBaseHnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisUtilities.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BinScheme.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Fcn.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/ntuple_booking \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cids \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cid \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/typedefs \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/forit \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VNtupleManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTHnFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UImessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIdirectory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIcommand.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIparameter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UItokenNum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ApplicationState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tokenizer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH3ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/base_histo \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/histo_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axes \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axis \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/eqT \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/profile_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.icc
+  /usr/local/include/Geant4/G4VTBaseHnManager.hh \
+  /usr/local/include/Geant4/G4HnInformation.hh \
+  /usr/local/include/Geant4/G4AnalysisUtilities.hh \
+  /usr/local/include/Geant4/G4BinScheme.hh \
+  /usr/local/include/Geant4/G4Fcn.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.icc \
+  /usr/local/include/Geant4/G4HnManager.hh \
+  /usr/local/include/Geant4/G4BaseAnalysisManager.hh \
+  /usr/local/include/Geant4/G4NtupleBookingManager.hh \
+  /usr/local/include/Geant4/tools/ntuple_booking \
+  /usr/local/include/Geant4/tools/cids \
+  /usr/local/include/Geant4/tools/cid \
+  /usr/local/include/Geant4/tools/typedefs \
+  /usr/local/include/Geant4/tools/forit \
+  /usr/local/include/Geant4/G4NtupleBookingManager.icc \
+  /usr/local/include/Geant4/G4VNtupleManager.hh \
+  /usr/local/include/Geant4/G4VFileManager.hh \
+  /usr/local/include/Geant4/G4BaseFileManager.hh \
+  /usr/local/include/Geant4/G4VTHnFileManager.hh \
+  /usr/local/include/Geant4/G4TH1ToolsManager.hh \
+  /usr/local/include/Geant4/G4THnToolsManager.hh \
+  /usr/local/include/Geant4/G4THnManager.hh \
+  /usr/local/include/Geant4/G4THnManager.icc \
+  /usr/local/include/Geant4/G4AutoLock.hh \
+  /usr/local/include/Geant4/G4THnMessenger.hh \
+  /usr/local/include/Geant4/G4UImessenger.hh \
+  /usr/local/include/Geant4/G4UIdirectory.hh \
+  /usr/local/include/Geant4/G4UIcommand.hh \
+  /usr/local/include/Geant4/G4UIparameter.hh \
+  /usr/local/include/Geant4/G4UItokenNum.hh \
+  /usr/local/include/Geant4/G4ApplicationState.hh \
+  /usr/local/include/Geant4/G4ThreeVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.h \
+  /usr/local/include/Geant4/CLHEP/Utility/defs.h \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.icc \
+  /usr/local/include/Geant4/G4THnToolsManager.icc \
+  /usr/local/include/Geant4/G4THnMessenger.icc \
+  /usr/local/include/Geant4/G4Tokenizer.hh \
+  /usr/local/include/Geant4/G4TH2ToolsManager.hh \
+  /usr/local/include/Geant4/G4TH3ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP1ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP2ToolsManager.hh \
+  /usr/local/include/Geant4/tools/histo/h1d \
+  /usr/local/include/Geant4/tools/histo/h1 \
+  /usr/local/include/Geant4/tools/histo/b1 \
+  /usr/local/include/Geant4/tools/histo/base_histo \
+  /usr/local/include/Geant4/tools/histo/histo_data \
+  /usr/local/include/Geant4/tools/histo/axes \
+  /usr/local/include/Geant4/tools/histo/axis \
+  /usr/local/include/Geant4/tools/eqT \
+  /usr/local/include/Geant4/tools/histo/h2d \
+  /usr/local/include/Geant4/tools/histo/h2 \
+  /usr/local/include/Geant4/tools/histo/b2 \
+  /usr/local/include/Geant4/tools/histo/h3d \
+  /usr/local/include/Geant4/tools/histo/h3 \
+  /usr/local/include/Geant4/tools/histo/b3 \
+  /usr/local/include/Geant4/tools/histo/p1d \
+  /usr/local/include/Geant4/tools/histo/p1 \
+  /usr/local/include/Geant4/tools/histo/profile_data \
+  /usr/local/include/Geant4/tools/histo/p2d \
+  /usr/local/include/Geant4/tools/histo/p2 \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericFileManager.hh \
+  /usr/local/include/Geant4/G4GenericFileManager.icc
 
 CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
   /usr/include/stdc-predef.h \
@@ -3043,7 +3179,7 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
   /usr/include/c++/11/bits/ostream.tcc \
   /usr/include/c++/11/istream \
   /usr/include/c++/11/bits/istream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RunManager.hh \
+  /usr/local/include/Geant4/G4RunManager.hh \
   /usr/include/c++/11/algorithm \
   /usr/include/c++/11/utility \
   /usr/include/c++/11/bits/stl_relops.h \
@@ -3078,9 +3214,9 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
   /usr/include/c++/11/bits/stl_list.h \
   /usr/include/c++/11/bits/allocated_ptr.h \
   /usr/include/c++/11/bits/list.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/rundefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GlobalConfig.hh \
+  /usr/local/include/Geant4/rundefs.hh \
+  /usr/local/include/Geant4/G4Types.hh \
+  /usr/local/include/Geant4/G4GlobalConfig.hh \
   /usr/include/c++/11/complex \
   /usr/include/c++/11/cmath \
   /usr/include/math.h \
@@ -3109,15 +3245,15 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
   /usr/include/c++/11/tr1/riemann_zeta.tcc \
   /usr/include/c++/11/sstream \
   /usr/include/c++/11/bits/sstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tls.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.hh \
+  /usr/local/include/Geant4/tls.hh \
+  /usr/local/include/Geant4/globals.hh \
+  /usr/local/include/Geant4/G4ios.hh \
+  /usr/local/include/Geant4/G4String.hh \
   /usr/include/c++/11/cstring \
   /usr/include/string.h \
   /usr/include/strings.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/templates.hh \
+  /usr/local/include/Geant4/G4String.icc \
+  /usr/local/include/Geant4/templates.hh \
   /usr/include/c++/11/climits \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h \
   /usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h \
@@ -3128,9 +3264,9 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
   /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
   /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
   /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exception.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ExceptionSeverity.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EnvironmentUtils.hh \
+  /usr/local/include/Geant4/G4Exception.hh \
+  /usr/local/include/Geant4/G4ExceptionSeverity.hh \
+  /usr/local/include/Geant4/G4EnvironmentUtils.hh \
   /usr/include/c++/11/iomanip \
   /usr/include/c++/11/locale \
   /usr/include/c++/11/bits/locale_facets_nonio.h \
@@ -3153,45 +3289,45 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
   /usr/include/c++/11/bits/parse_numbers.h \
   /usr/include/c++/11/bits/std_mutex.h \
   /usr/include/c++/11/bits/unique_lock.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Event.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/evtdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Allocator.hh \
+  /usr/local/include/Geant4/G4Event.hh \
+  /usr/local/include/Geant4/evtdefs.hh \
+  /usr/local/include/Geant4/G4Allocator.hh \
   /usr/include/c++/11/cstddef \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AllocatorPool.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryVertex.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/pwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryParticle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HCofThisEvent.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VHitsCollection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DCofThisEvent.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VDigiCollection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoryContainer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTrajectory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserEventInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Profiler.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Profiler.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Globals.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Types.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Utility.hh \
+  /usr/local/include/Geant4/G4AllocatorPool.hh \
+  /usr/local/include/Geant4/G4PrimaryVertex.hh \
+  /usr/local/include/Geant4/pwdefs.hh \
+  /usr/local/include/Geant4/G4ThreeVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.h \
+  /usr/local/include/Geant4/CLHEP/Utility/defs.h \
+  /usr/local/include/Geant4/CLHEP/Vector/ThreeVector.icc \
+  /usr/local/include/Geant4/G4PrimaryParticle.hh \
+  /usr/local/include/Geant4/G4HCofThisEvent.hh \
+  /usr/local/include/Geant4/G4VHitsCollection.hh \
+  /usr/local/include/Geant4/G4DCofThisEvent.hh \
+  /usr/local/include/Geant4/G4VDigiCollection.hh \
+  /usr/local/include/Geant4/G4TrajectoryContainer.hh \
+  /usr/local/include/Geant4/G4VTrajectory.hh \
+  /usr/local/include/Geant4/G4VUserEventInformation.hh \
+  /usr/local/include/Geant4/G4Profiler.hh \
+  /usr/local/include/Geant4/G4Profiler.icc \
+  /usr/local/include/Geant4/PTL/Globals.hh \
+  /usr/local/include/Geant4/PTL/Types.hh \
+  /usr/local/include/Geant4/PTL/Utility.hh \
   /usr/include/c++/11/set \
   /usr/include/c++/11/bits/stl_set.h \
   /usr/include/c++/11/bits/stl_multiset.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EventManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StackManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserStackingAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ClassificationOfNewTrack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StackedTrack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackStack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartTrackStack.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Track.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/trkdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.hh \
+  /usr/local/include/Geant4/G4EventManager.hh \
+  /usr/local/include/Geant4/G4StackManager.hh \
+  /usr/local/include/Geant4/G4UserStackingAction.hh \
+  /usr/local/include/Geant4/G4ClassificationOfNewTrack.hh \
+  /usr/local/include/Geant4/G4StackedTrack.hh \
+  /usr/local/include/Geant4/G4TrackStack.hh \
+  /usr/local/include/Geant4/G4SmartTrackStack.hh \
+  /usr/local/include/Geant4/G4Track.hh \
+  /usr/local/include/Geant4/CLHEP/Units/PhysicalConstants.h \
+  /usr/local/include/Geant4/CLHEP/Units/SystemOfUnits.h \
+  /usr/local/include/Geant4/trkdefs.hh \
+  /usr/local/include/Geant4/G4LogicalVolume.hh \
   /usr/include/c++/11/memory \
   /usr/include/c++/11/bits/stl_raw_storage_iter.h \
   /usr/include/c++/11/bits/align.h \
@@ -3204,11 +3340,11 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
   /usr/include/c++/11/bits/atomic_lockfree_defines.h \
   /usr/include/c++/11/backward/auto_ptr.h \
   /usr/include/c++/11/pstl/glue_memory_defs.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomSplitter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/geomwdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Threading.hh \
+  /usr/local/include/Geant4/G4Region.hh \
+  /usr/local/include/Geant4/G4GeomSplitter.hh \
+  /usr/local/include/Geant4/geomwdefs.hh \
+  /usr/local/include/Geant4/G4AutoLock.hh \
+  /usr/local/include/Geant4/G4Threading.hh \
   /usr/include/c++/11/condition_variable \
   /usr/include/c++/11/future \
   /usr/include/c++/11/atomic \
@@ -3216,425 +3352,419 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
   /usr/include/c++/11/bits/std_thread.h \
   /usr/include/c++/11/thread \
   /usr/include/c++/11/bits/this_thread_sleep.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/geomdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RotationMatrix.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/Rotation.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/LorentzVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/LorentzVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/AxisAngle.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/AxisAngle.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationX.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationX.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationY.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationY.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationZ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationZ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/Rotation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DynamicParticle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PDefManager.hh \
+  /usr/local/include/Geant4/G4Region.icc \
+  /usr/local/include/Geant4/G4VPhysicalVolume.hh \
+  /usr/local/include/Geant4/geomdefs.hh \
+  /usr/local/include/Geant4/G4RotationMatrix.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/Rotation.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.h \
+  /usr/local/include/Geant4/CLHEP/Vector/LorentzVector.h \
+  /usr/local/include/Geant4/CLHEP/Vector/LorentzVector.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/AxisAngle.h \
+  /usr/local/include/Geant4/CLHEP/Vector/AxisAngle.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationX.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationX.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationY.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationY.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationZ.h \
+  /usr/local/include/Geant4/CLHEP/Vector/RotationZ.icc \
+  /usr/local/include/Geant4/CLHEP/Vector/Rotation.icc \
+  /usr/local/include/Geant4/G4VPhysicalVolume.icc \
+  /usr/local/include/Geant4/G4LogicalVolume.icc \
+  /usr/local/include/Geant4/G4DynamicParticle.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.hh \
+  /usr/local/include/Geant4/G4PDefManager.hh \
   /usr/include/c++/11/stdlib.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LorentzVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Log.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleMomentum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElectronOccupancy.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DynamicParticle.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackStatus.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHandle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTouchable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTouchable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReferenceCountedHandle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserTrackInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsModelCatalog.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Material.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Element.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Isotope.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IonisParamElm.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IsotopeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElementTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElementVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertiesTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertiesIndex.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertyVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsFreeVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVector.hh \
+  /usr/local/include/Geant4/G4ParticleDefinition.icc \
+  /usr/local/include/Geant4/G4LorentzVector.hh \
+  /usr/local/include/Geant4/G4Log.hh \
+  /usr/local/include/Geant4/G4ParticleMomentum.hh \
+  /usr/local/include/Geant4/G4ElectronOccupancy.hh \
+  /usr/local/include/Geant4/G4DynamicParticle.icc \
+  /usr/local/include/Geant4/G4TrackStatus.hh \
+  /usr/local/include/Geant4/G4TouchableHandle.hh \
+  /usr/local/include/Geant4/G4VTouchable.hh \
+  /usr/local/include/Geant4/G4VTouchable.icc \
+  /usr/local/include/Geant4/G4ReferenceCountedHandle.hh \
+  /usr/local/include/Geant4/G4VUserTrackInformation.hh \
+  /usr/local/include/Geant4/G4PhysicsModelCatalog.hh \
+  /usr/local/include/Geant4/G4Material.hh \
+  /usr/local/include/Geant4/G4Element.hh \
+  /usr/local/include/Geant4/G4Isotope.hh \
+  /usr/local/include/Geant4/G4IonisParamElm.hh \
+  /usr/local/include/Geant4/G4IsotopeVector.hh \
+  /usr/local/include/Geant4/G4ElementTable.hh \
+  /usr/local/include/Geant4/G4ElementVector.hh \
+  /usr/local/include/Geant4/G4MaterialPropertiesTable.hh \
+  /usr/local/include/Geant4/G4MaterialPropertiesIndex.hh \
+  /usr/local/include/Geant4/G4MaterialPropertyVector.hh \
+  /usr/local/include/Geant4/G4PhysicsFreeVector.hh \
+  /usr/local/include/Geant4/G4PhysicsVector.hh \
   /usr/include/c++/11/fstream \
   /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
   /usr/include/c++/11/bits/fstream.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVectorType.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IonisParamMat.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DensityEffectCalculator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SandiaTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OrderedTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DataVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DataVector.icc \
+  /usr/local/include/Geant4/G4PhysicsVectorType.hh \
+  /usr/local/include/Geant4/G4PhysicsVector.icc \
+  /usr/local/include/Geant4/G4IonisParamMat.hh \
+  /usr/local/include/Geant4/G4DensityEffectCalculator.hh \
+  /usr/local/include/Geant4/G4SandiaTable.hh \
+  /usr/local/include/Geant4/G4OrderedTable.hh \
+  /usr/local/include/Geant4/G4DataVector.hh \
+  /usr/local/include/Geant4/G4DataVector.icc \
   /usr/include/assert.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Track.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Step.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepPoint.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SteppingControl.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepStatus.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepPoint.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Step.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryTransformer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTableIterator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SteppingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/Randomize.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Randomize.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/DualRand.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/JamesRandom.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MixMaxRng.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MTwistEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanecuEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxppEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanshiEngine.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/memory.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/thread_local.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Navigator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AffineTransform.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Transform3D.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Transform3D.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Point3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Vector3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AffineTransform.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSVolume.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSSolid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSSolid.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistoryHandle.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevelRep.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevelRep.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevel.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistoryPool.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistory.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistory.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NormalNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSolid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSolid.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AuxiliaryNavServices.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AuxiliaryNavServices.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NormalNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VoxelNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLogger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BlockingList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BlockingList.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelProxy.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelProxy.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelNode.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelNode.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelHeader.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelHeader.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VoxelNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParameterisedNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPVParameterisation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VVolumeMaterialScanner.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParameterisedNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReplicaNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReplicaNavigation.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RegularNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VExternalNavigation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Navigator.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VProcess.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsTable.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VParticleChange.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VParticleChange.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ForceCondition.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GPILSelection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleChange.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleChange.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessType.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NoProcess.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserSteppingAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSteppingVerbose.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/trkgdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackingMessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UImessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIdirectory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIcommand.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIparameter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UItokenNum.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ApplicationState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserTrackingAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RunManagerKernel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UImanager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/icomsdefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VStateDependent.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIcommandStatus.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VVisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GraphicsSystemList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VGraphicsSystem.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ModelingParameters.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisExtent.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Point3D.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisAttributes.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/graphics_reps_defs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Colour.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Color.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisAttributes.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ModelingParameters.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NullModel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModel.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SceneHandlerList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSceneHandler.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VGraphicsScene.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ViewerList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VViewer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ViewParameters.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Vector3D.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Plane3D.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Plane3D.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VMarker.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Visible.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Visible.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VMarker.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ViewParameters.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicalVolumeModel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VViewer.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THitsMap.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THitsCollection.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PseudoScene.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Box.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomTypes.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomConfig.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CSGSolid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polyhedron.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/HepPolyhedron.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TwoVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/TwoVector.h \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/TwoVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Normal3D.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Box.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Cons.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Cons.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Orb.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Orb.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Para.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Para.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Sphere.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Sphere.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Torus.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Torus.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Trap.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Trap.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Trd.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Trd.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tubs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tubs.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Ellipsoid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Ellipsoid.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polycone.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VCSGfaceted.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PolyconeSide.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VCSGface.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PolyconeHistorical.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polycone.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polyhedra.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PolyhedraSide.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PolyhedraHistorical.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polyhedra.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TessellatedSolid.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Voxelizer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SurfBits.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFacet.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/windefs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Voxelizer.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSceneHandler.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SceneList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Scene.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Scene.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoriesModel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisExecutive.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisExecutive.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HitFilterFactories.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFilter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModelFactory.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VHit.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DigiFilterFactories.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VDigi.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoryFilterFactories.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoryModelFactories.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTrajectoryModel.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ASCIITree.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTree.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DAWNFILE.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HepRepFile.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HepRepFileXMLWriter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RayTracer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VRML2File.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GMocrenFile.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsSGOffscreen.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLImmediateX.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLStoredX.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLImmediateQt.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLQt.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLStoredQt.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RayTracerX.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsSGX11GLES.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsSGQtGLES.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIExecutive.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUIshell.hh \
+  /usr/local/include/Geant4/G4MaterialTable.hh \
+  /usr/local/include/Geant4/G4Track.icc \
+  /usr/local/include/Geant4/G4Step.hh \
+  /usr/local/include/Geant4/G4StepPoint.hh \
+  /usr/local/include/Geant4/G4SteppingControl.hh \
+  /usr/local/include/Geant4/G4StepStatus.hh \
+  /usr/local/include/Geant4/G4StepPoint.icc \
+  /usr/local/include/Geant4/G4TrackVector.hh \
+  /usr/local/include/Geant4/G4Step.icc \
+  /usr/local/include/Geant4/G4PrimaryTransformer.hh \
+  /usr/local/include/Geant4/G4ParticleTable.hh \
+  /usr/local/include/Geant4/G4ParticleTableIterator.hh \
+  /usr/local/include/Geant4/G4ParticleTable.icc \
+  /usr/local/include/Geant4/G4TrackingManager.hh \
+  /usr/local/include/Geant4/G4SteppingManager.hh \
+  /usr/local/include/Geant4/Randomize.hh \
+  /usr/local/include/Geant4/CLHEP/Random/Randomize.h \
+  /usr/local/include/Geant4/CLHEP/Random/DualRand.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandomEngine.icc \
+  /usr/local/include/Geant4/CLHEP/Random/JamesRandom.h \
+  /usr/local/include/Geant4/CLHEP/Random/MixMaxRng.h \
+  /usr/local/include/Geant4/CLHEP/Random/MTwistEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanecuEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanluxppEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RanshiEngine.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.h \
+  /usr/local/include/Geant4/CLHEP/Random/Random.icc \
+  /usr/local/include/Geant4/CLHEP/Utility/memory.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBinomial.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.h \
+  /usr/local/include/Geant4/CLHEP/Utility/thread_local.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandFlat.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandChiSquare.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandExponential.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandBit.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGamma.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGauss.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandGeneral.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandLandau.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoisson.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.h \
+  /usr/local/include/Geant4/CLHEP/Random/RandStudentT.icc \
+  /usr/local/include/Geant4/G4Navigator.hh \
+  /usr/local/include/Geant4/G4AffineTransform.hh \
+  /usr/local/include/Geant4/G4Transform3D.hh \
+  /usr/local/include/Geant4/CLHEP/Geometry/Transform3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/Transform3D.icc \
+  /usr/local/include/Geant4/CLHEP/Geometry/Point3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/BasicVector3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/Vector3D.h \
+  /usr/local/include/Geant4/CLHEP/Geometry/Normal3D.h \
+  /usr/local/include/Geant4/G4AffineTransform.icc \
+  /usr/local/include/Geant4/G4GRSVolume.hh \
+  /usr/local/include/Geant4/G4GRSVolume.icc \
+  /usr/local/include/Geant4/G4GRSSolid.hh \
+  /usr/local/include/Geant4/G4GRSSolid.icc \
+  /usr/local/include/Geant4/G4TouchableHistoryHandle.hh \
+  /usr/local/include/Geant4/G4TouchableHistory.hh \
+  /usr/local/include/Geant4/G4NavigationHistory.hh \
+  /usr/local/include/Geant4/G4NavigationLevel.hh \
+  /usr/local/include/Geant4/G4NavigationLevelRep.hh \
+  /usr/local/include/Geant4/G4NavigationLevelRep.icc \
+  /usr/local/include/Geant4/G4NavigationLevel.icc \
+  /usr/local/include/Geant4/G4NavigationHistoryPool.hh \
+  /usr/local/include/Geant4/G4NavigationHistory.icc \
+  /usr/local/include/Geant4/G4TouchableHistory.icc \
+  /usr/local/include/Geant4/G4NormalNavigation.hh \
+  /usr/local/include/Geant4/G4VSolid.hh \
+  /usr/local/include/Geant4/G4VSolid.icc \
+  /usr/local/include/Geant4/G4AuxiliaryNavServices.hh \
+  /usr/local/include/Geant4/G4AuxiliaryNavServices.icc \
+  /usr/local/include/Geant4/G4NormalNavigation.icc \
+  /usr/local/include/Geant4/G4VoxelNavigation.hh \
+  /usr/local/include/Geant4/G4NavigationLogger.hh \
+  /usr/local/include/Geant4/G4BlockingList.hh \
+  /usr/local/include/Geant4/G4BlockingList.icc \
+  /usr/local/include/Geant4/G4SmartVoxelProxy.hh \
+  /usr/local/include/Geant4/G4SmartVoxelProxy.icc \
+  /usr/local/include/Geant4/G4SmartVoxelNode.hh \
+  /usr/local/include/Geant4/G4SmartVoxelNode.icc \
+  /usr/local/include/Geant4/G4SmartVoxelHeader.hh \
+  /usr/local/include/Geant4/G4SmartVoxelHeader.icc \
+  /usr/local/include/Geant4/G4VoxelNavigation.icc \
+  /usr/local/include/Geant4/G4ParameterisedNavigation.hh \
+  /usr/local/include/Geant4/G4VPVParameterisation.hh \
+  /usr/local/include/Geant4/G4VVolumeMaterialScanner.hh \
+  /usr/local/include/Geant4/G4ParameterisedNavigation.icc \
+  /usr/local/include/Geant4/G4ReplicaNavigation.hh \
+  /usr/local/include/Geant4/G4ReplicaNavigation.icc \
+  /usr/local/include/Geant4/G4RegularNavigation.hh \
+  /usr/local/include/Geant4/G4VExternalNavigation.hh \
+  /usr/local/include/Geant4/G4Navigator.icc \
+  /usr/local/include/Geant4/G4ProcessManager.hh \
+  /usr/local/include/Geant4/G4VProcess.hh \
+  /usr/local/include/Geant4/G4PhysicsTable.hh \
+  /usr/local/include/Geant4/G4PhysicsTable.icc \
+  /usr/local/include/Geant4/G4VParticleChange.hh \
+  /usr/local/include/Geant4/G4VParticleChange.icc \
+  /usr/local/include/Geant4/G4ForceCondition.hh \
+  /usr/local/include/Geant4/G4GPILSelection.hh \
+  /usr/local/include/Geant4/G4ParticleChange.hh \
+  /usr/local/include/Geant4/G4ParticleChange.icc \
+  /usr/local/include/Geant4/G4ProcessType.hh \
+  /usr/local/include/Geant4/G4ProcessVector.hh \
+  /usr/local/include/Geant4/G4ProcessVector.icc \
+  /usr/local/include/Geant4/G4ProcessManager.icc \
+  /usr/local/include/Geant4/G4NoProcess.hh \
+  /usr/local/include/Geant4/G4UserSteppingAction.hh \
+  /usr/local/include/Geant4/G4VSteppingVerbose.hh \
+  /usr/local/include/Geant4/trkgdefs.hh \
+  /usr/local/include/Geant4/G4TrackingMessenger.hh \
+  /usr/local/include/Geant4/G4UImessenger.hh \
+  /usr/local/include/Geant4/G4UIdirectory.hh \
+  /usr/local/include/Geant4/G4UIcommand.hh \
+  /usr/local/include/Geant4/G4UIparameter.hh \
+  /usr/local/include/Geant4/G4UItokenNum.hh \
+  /usr/local/include/Geant4/G4ApplicationState.hh \
+  /usr/local/include/Geant4/G4UserTrackingAction.hh \
+  /usr/local/include/Geant4/G4RunManagerKernel.hh \
+  /usr/local/include/Geant4/G4UImanager.hh \
+  /usr/local/include/Geant4/icomsdefs.hh \
+  /usr/local/include/Geant4/G4VStateDependent.hh \
+  /usr/local/include/Geant4/G4UIcommandStatus.hh \
+  /usr/local/include/Geant4/G4VisManager.hh \
+  /usr/local/include/Geant4/G4VVisManager.hh \
+  /usr/local/include/Geant4/G4GraphicsSystemList.hh \
+  /usr/local/include/Geant4/G4VGraphicsSystem.hh \
+  /usr/local/include/Geant4/G4ModelingParameters.hh \
+  /usr/local/include/Geant4/G4VisExtent.hh \
+  /usr/local/include/Geant4/G4Point3D.hh \
+  /usr/local/include/Geant4/G4VisAttributes.hh \
+  /usr/local/include/Geant4/graphics_reps_defs.hh \
+  /usr/local/include/Geant4/G4Colour.hh \
+  /usr/local/include/Geant4/G4Color.hh \
+  /usr/local/include/Geant4/G4VisAttributes.icc \
+  /usr/local/include/Geant4/G4ModelingParameters.icc \
+  /usr/local/include/Geant4/G4NullModel.hh \
+  /usr/local/include/Geant4/G4VModel.hh \
+  /usr/local/include/Geant4/G4VModel.icc \
+  /usr/local/include/Geant4/G4SceneHandlerList.hh \
+  /usr/local/include/Geant4/G4VSceneHandler.hh \
+  /usr/local/include/Geant4/G4VGraphicsScene.hh \
+  /usr/local/include/Geant4/G4ViewerList.hh \
+  /usr/local/include/Geant4/G4VViewer.hh \
+  /usr/local/include/Geant4/G4ViewParameters.hh \
+  /usr/local/include/Geant4/G4Vector3D.hh \
+  /usr/local/include/Geant4/G4Plane3D.hh \
+  /usr/local/include/Geant4/CLHEP/Geometry/Plane3D.h \
+  /usr/local/include/Geant4/G4VMarker.hh \
+  /usr/local/include/Geant4/G4Visible.hh \
+  /usr/local/include/Geant4/G4Visible.icc \
+  /usr/local/include/Geant4/G4VMarker.icc \
+  /usr/local/include/Geant4/G4ViewParameters.icc \
+  /usr/local/include/Geant4/G4PhysicalVolumeModel.hh \
+  /usr/local/include/Geant4/G4VViewer.icc \
+  /usr/local/include/Geant4/G4THitsMap.hh \
+  /usr/local/include/Geant4/G4THitsCollection.hh \
+  /usr/local/include/Geant4/G4PseudoScene.hh \
+  /usr/local/include/Geant4/G4Box.hh \
+  /usr/local/include/Geant4/G4GeomTypes.hh \
+  /usr/local/include/Geant4/G4GeomConfig.hh \
+  /usr/local/include/Geant4/G4CSGSolid.hh \
+  /usr/local/include/Geant4/G4Polyhedron.hh \
+  /usr/local/include/Geant4/HepPolyhedron.h \
+  /usr/local/include/Geant4/G4TwoVector.hh \
+  /usr/local/include/Geant4/CLHEP/Vector/TwoVector.h \
+  /usr/local/include/Geant4/CLHEP/Vector/TwoVector.icc \
+  /usr/local/include/Geant4/G4Normal3D.hh \
+  /usr/local/include/Geant4/G4Box.icc \
+  /usr/local/include/Geant4/G4Cons.hh \
+  /usr/local/include/Geant4/G4Cons.icc \
+  /usr/local/include/Geant4/G4Orb.hh \
+  /usr/local/include/Geant4/G4Orb.icc \
+  /usr/local/include/Geant4/G4Para.hh \
+  /usr/local/include/Geant4/G4Para.icc \
+  /usr/local/include/Geant4/G4Sphere.hh \
+  /usr/local/include/Geant4/G4Sphere.icc \
+  /usr/local/include/Geant4/G4Torus.hh \
+  /usr/local/include/Geant4/G4Torus.icc \
+  /usr/local/include/Geant4/G4Trap.hh \
+  /usr/local/include/Geant4/G4Trap.icc \
+  /usr/local/include/Geant4/G4Trd.hh \
+  /usr/local/include/Geant4/G4Trd.icc \
+  /usr/local/include/Geant4/G4Tubs.hh \
+  /usr/local/include/Geant4/G4Tubs.icc \
+  /usr/local/include/Geant4/G4Ellipsoid.hh \
+  /usr/local/include/Geant4/G4Ellipsoid.icc \
+  /usr/local/include/Geant4/G4Polycone.hh \
+  /usr/local/include/Geant4/G4VCSGfaceted.hh \
+  /usr/local/include/Geant4/G4PolyconeSide.hh \
+  /usr/local/include/Geant4/G4VCSGface.hh \
+  /usr/local/include/Geant4/G4PolyconeHistorical.hh \
+  /usr/local/include/Geant4/G4Polycone.icc \
+  /usr/local/include/Geant4/G4Polyhedra.hh \
+  /usr/local/include/Geant4/G4PolyhedraSide.hh \
+  /usr/local/include/Geant4/G4PolyhedraHistorical.hh \
+  /usr/local/include/Geant4/G4Polyhedra.icc \
+  /usr/local/include/Geant4/G4TessellatedSolid.hh \
+  /usr/local/include/Geant4/G4Voxelizer.hh \
+  /usr/local/include/Geant4/G4SurfBits.hh \
+  /usr/local/include/Geant4/G4VFacet.hh \
+  /usr/local/include/Geant4/windefs.hh \
+  /usr/local/include/Geant4/G4Voxelizer.icc \
+  /usr/local/include/Geant4/G4VSceneHandler.icc \
+  /usr/local/include/Geant4/G4SceneList.hh \
+  /usr/local/include/Geant4/G4Scene.hh \
+  /usr/local/include/Geant4/G4Scene.icc \
+  /usr/local/include/Geant4/G4TrajectoriesModel.hh \
+  /usr/local/include/Geant4/G4VisManager.icc \
+  /usr/local/include/Geant4/G4VisExecutive.hh \
+  /usr/local/include/Geant4/G4VisManager.hh \
+  /usr/local/include/Geant4/G4VisExecutive.icc \
+  /usr/local/include/Geant4/G4HitFilterFactories.hh \
+  /usr/local/include/Geant4/G4VFilter.hh \
+  /usr/local/include/Geant4/G4VModelFactory.hh \
+  /usr/local/include/Geant4/G4VHit.hh \
+  /usr/local/include/Geant4/G4DigiFilterFactories.hh \
+  /usr/local/include/Geant4/G4VDigi.hh \
+  /usr/local/include/Geant4/G4TrajectoryFilterFactories.hh \
+  /usr/local/include/Geant4/G4TrajectoryModelFactories.hh \
+  /usr/local/include/Geant4/G4VTrajectoryModel.hh \
+  /usr/local/include/Geant4/G4ASCIITree.hh \
+  /usr/local/include/Geant4/G4VTree.hh \
+  /usr/local/include/Geant4/G4DAWNFILE.hh \
+  /usr/local/include/Geant4/G4HepRepFile.hh \
+  /usr/local/include/Geant4/G4HepRepFileXMLWriter.hh \
+  /usr/local/include/Geant4/G4RayTracer.hh \
+  /usr/local/include/Geant4/G4VRML2File.hh \
+  /usr/local/include/Geant4/G4GMocrenFile.hh \
+  /usr/local/include/Geant4/G4ToolsSGOffscreen.hh \
+  /usr/local/include/Geant4/G4UIExecutive.hh \
+  /usr/local/include/Geant4/G4VUIshell.hh \
   ../construction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserDetectorConstruction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Box.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tubs.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PVPlacement.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NistManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NistElementBuilder.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NistMaterialBuilder.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ICRU90StoppingData.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Pow.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exp.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SystemOfUnits.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalSurface.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Physics2DVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Physics2DVector.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SurfaceProperty.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalBorderSurface.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalSurface.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalSurface.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalBorderSurface.icc \
+  /usr/local/include/Geant4/G4VUserDetectorConstruction.hh \
+  /usr/local/include/Geant4/G4VPhysicalVolume.hh \
+  /usr/local/include/Geant4/G4LogicalVolume.hh \
+  /usr/local/include/Geant4/G4Box.hh \
+  /usr/local/include/Geant4/G4Tubs.hh \
+  /usr/local/include/Geant4/G4PVPlacement.hh \
+  /usr/local/include/Geant4/G4NistManager.hh \
+  /usr/local/include/Geant4/G4NistElementBuilder.hh \
+  /usr/local/include/Geant4/G4NistMaterialBuilder.hh \
+  /usr/local/include/Geant4/G4ICRU90StoppingData.hh \
+  /usr/local/include/Geant4/G4Pow.hh \
+  /usr/local/include/Geant4/G4Exp.hh \
+  /usr/local/include/Geant4/G4SystemOfUnits.hh \
+  /usr/local/include/Geant4/G4OpticalSurface.hh \
+  /usr/local/include/Geant4/G4Physics2DVector.hh \
+  /usr/local/include/Geant4/G4Physics2DVector.icc \
+  /usr/local/include/Geant4/G4SurfaceProperty.hh \
+  /usr/local/include/Geant4/G4LogicalBorderSurface.hh \
+  /usr/local/include/Geant4/G4LogicalSurface.hh \
+  /usr/local/include/Geant4/G4LogicalSurface.icc \
+  /usr/local/include/Geant4/G4LogicalBorderSurface.icc \
+  /usr/local/include/Geant4/G4PhysicalConstants.hh \
+  /usr/local/include/Geant4/G4ProductionCuts.hh \
   ../detector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSensitiveDetector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VReadOutGeometry.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SensitiveVolumeList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CollectionNameVector.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSDFilter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManagerState.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisVerbose.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTBaseHnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnInformation.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisUtilities.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BinScheme.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Fcn.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseAnalysisManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/ntuple_booking \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cids \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cid \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/typedefs \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/forit \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VNtupleManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTHnFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tokenizer.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH3ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP1ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP2ToolsManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/base_histo \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/histo_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axes \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axis \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/eqT \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b3 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/profile_data \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2d \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2 \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.icc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.icc \
+  /usr/local/include/Geant4/G4VSensitiveDetector.hh \
+  /usr/local/include/Geant4/G4VReadOutGeometry.hh \
+  /usr/local/include/Geant4/G4SensitiveVolumeList.hh \
+  /usr/local/include/Geant4/G4CollectionNameVector.hh \
+  /usr/local/include/Geant4/G4VSDFilter.hh \
+  /usr/local/include/Geant4/G4AnalysisManager.hh \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.hh \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.hh \
+  /usr/local/include/Geant4/G4AnalysisManagerState.hh \
+  /usr/local/include/Geant4/G4AnalysisVerbose.hh \
+  /usr/local/include/Geant4/G4VTBaseHnManager.hh \
+  /usr/local/include/Geant4/G4HnInformation.hh \
+  /usr/local/include/Geant4/G4AnalysisUtilities.hh \
+  /usr/local/include/Geant4/G4BinScheme.hh \
+  /usr/local/include/Geant4/G4Fcn.hh \
+  /usr/local/include/Geant4/G4VAnalysisManager.icc \
+  /usr/local/include/Geant4/G4HnManager.hh \
+  /usr/local/include/Geant4/G4BaseAnalysisManager.hh \
+  /usr/local/include/Geant4/G4NtupleBookingManager.hh \
+  /usr/local/include/Geant4/tools/ntuple_booking \
+  /usr/local/include/Geant4/tools/cids \
+  /usr/local/include/Geant4/tools/cid \
+  /usr/local/include/Geant4/tools/typedefs \
+  /usr/local/include/Geant4/tools/forit \
+  /usr/local/include/Geant4/G4NtupleBookingManager.icc \
+  /usr/local/include/Geant4/G4VNtupleManager.hh \
+  /usr/local/include/Geant4/G4VFileManager.hh \
+  /usr/local/include/Geant4/G4BaseFileManager.hh \
+  /usr/local/include/Geant4/G4VTHnFileManager.hh \
+  /usr/local/include/Geant4/G4TH1ToolsManager.hh \
+  /usr/local/include/Geant4/G4THnToolsManager.hh \
+  /usr/local/include/Geant4/G4THnManager.hh \
+  /usr/local/include/Geant4/G4THnManager.icc \
+  /usr/local/include/Geant4/G4THnMessenger.hh \
+  /usr/local/include/Geant4/G4THnToolsManager.icc \
+  /usr/local/include/Geant4/G4THnMessenger.icc \
+  /usr/local/include/Geant4/G4Tokenizer.hh \
+  /usr/local/include/Geant4/G4TH2ToolsManager.hh \
+  /usr/local/include/Geant4/G4TH3ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP1ToolsManager.hh \
+  /usr/local/include/Geant4/G4TP2ToolsManager.hh \
+  /usr/local/include/Geant4/tools/histo/h1d \
+  /usr/local/include/Geant4/tools/histo/h1 \
+  /usr/local/include/Geant4/tools/histo/b1 \
+  /usr/local/include/Geant4/tools/histo/base_histo \
+  /usr/local/include/Geant4/tools/histo/histo_data \
+  /usr/local/include/Geant4/tools/histo/axes \
+  /usr/local/include/Geant4/tools/histo/axis \
+  /usr/local/include/Geant4/tools/eqT \
+  /usr/local/include/Geant4/tools/histo/h2d \
+  /usr/local/include/Geant4/tools/histo/h2 \
+  /usr/local/include/Geant4/tools/histo/b2 \
+  /usr/local/include/Geant4/tools/histo/h3d \
+  /usr/local/include/Geant4/tools/histo/h3 \
+  /usr/local/include/Geant4/tools/histo/b3 \
+  /usr/local/include/Geant4/tools/histo/p1d \
+  /usr/local/include/Geant4/tools/histo/p1 \
+  /usr/local/include/Geant4/tools/histo/profile_data \
+  /usr/local/include/Geant4/tools/histo/p2d \
+  /usr/local/include/Geant4/tools/histo/p2 \
+  /usr/local/include/Geant4/G4ToolsAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericAnalysisManager.icc \
+  /usr/local/include/Geant4/G4GenericFileManager.hh \
+  /usr/local/include/Geant4/G4GenericFileManager.icc \
   ../physics.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModularPhysicsList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicsConstructor.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsListHelper.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsListOrderingParameter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreadLocalSingleton.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Cache.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CacheDetails.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Backtrace.hh \
+  /usr/local/include/Geant4/G4VModularPhysicsList.hh \
+  /usr/local/include/Geant4/G4VPhysicsConstructor.hh \
+  /usr/local/include/Geant4/G4PhysicsListHelper.hh \
+  /usr/local/include/Geant4/G4PhysicsListOrderingParameter.hh \
+  /usr/local/include/Geant4/G4ThreadLocalSingleton.hh \
+  /usr/local/include/Geant4/G4Cache.hh \
+  /usr/local/include/Geant4/G4CacheDetails.hh \
+  /usr/local/include/Geant4/G4Backtrace.hh \
   /usr/include/c++/11/cxxabi.h \
   /usr/include/x86_64-linux-gnu/c++/11/bits/cxxabi_tweaks.h \
   /usr/include/execinfo.h \
@@ -3694,189 +3824,156 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
   /usr/include/c++/11/bits/regex.tcc \
   /usr/include/c++/11/bits/regex_executor.h \
   /usr/include/c++/11/bits/regex_executor.tcc \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUPLSplitter.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserPhysicsList.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProductionCutsTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialCutsCouple.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProductionCuts.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MCCIndexConversionTable.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EmStandardPhysics.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalPhysics.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalParameters.hh \
+  /usr/local/include/Geant4/G4VUPLSplitter.hh \
+  /usr/local/include/Geant4/G4VUserPhysicsList.hh \
+  /usr/local/include/Geant4/G4ProductionCutsTable.hh \
+  /usr/local/include/Geant4/G4MaterialCutsCouple.hh \
+  /usr/local/include/Geant4/G4ProductionCuts.hh \
+  /usr/local/include/Geant4/G4MCCIndexConversionTable.hh \
+  /usr/local/include/Geant4/G4EmStandardPhysics.hh \
+  /usr/local/include/Geant4/G4OpticalPhysics.hh \
+  /usr/local/include/Geant4/G4OpticalParameters.hh \
+  /usr/local/include/Geant4/G4Cerenkov.hh \
   ../action.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserActionInitialization.hh \
+  /usr/local/include/Geant4/G4VUserActionInitialization.hh \
   ../generator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleGun.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPrimaryGenerator.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh \
+  /usr/local/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
+  /usr/local/include/Geant4/G4ParticleGun.hh \
+  /usr/local/include/Geant4/G4VPrimaryGenerator.hh \
+  /usr/local/include/Geant4/G4ParticleTable.hh \
   ../run.hh \
-  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserRunAction.hh
+  /usr/local/include/Geant4/G4UserRunAction.hh
 
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUIshell.hh:
+/usr/local/include/Geant4/G4ToolsSGOffscreen.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsSGQtGLES.hh:
+/usr/local/include/Geant4/G4GMocrenFile.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsSGX11GLES.hh:
+/usr/local/include/Geant4/G4HepRepFile.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLQt.hh:
+/usr/local/include/Geant4/G4DAWNFILE.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLStoredX.hh:
+/usr/local/include/Geant4/G4VTree.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsSGOffscreen.hh:
+/usr/local/include/Geant4/G4ASCIITree.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GMocrenFile.hh:
+/usr/local/include/Geant4/G4TrajectoryFilterFactories.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HepRepFileXMLWriter.hh:
+/usr/local/include/Geant4/G4DigiFilterFactories.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HepRepFile.hh:
+/usr/local/include/Geant4/G4VModelFactory.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTree.hh:
+/usr/local/include/Geant4/G4VFilter.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTrajectoryModel.hh:
+/usr/local/include/Geant4/G4VisExecutive.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoryModelFactories.hh:
+/usr/local/include/Geant4/G4TrajectoriesModel.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModelFactory.hh:
+/usr/local/include/Geant4/G4Scene.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFilter.hh:
+/usr/local/include/Geant4/G4PolyhedraHistorical.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/windefs.hh:
+/usr/local/include/Geant4/G4Polycone.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFacet.hh:
+/usr/local/include/Geant4/G4UIExecutive.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SurfBits.hh:
+/usr/local/include/Geant4/G4PolyconeHistorical.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TessellatedSolid.hh:
+/usr/local/include/Geant4/G4VCSGface.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PolyhedraSide.hh:
+/usr/local/include/Geant4/G4Ellipsoid.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polyhedra.hh:
+/usr/local/include/Geant4/G4Trd.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polycone.icc:
+/usr/local/include/Geant4/G4Torus.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PolyconeHistorical.hh:
+/usr/local/include/Geant4/G4Sphere.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VCSGface.hh:
+/usr/local/include/Geant4/G4Para.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Torus.icc:
+/usr/local/include/Geant4/G4Cons.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Sphere.icc:
+/usr/local/include/Geant4/G4THitsCollection.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Para.hh:
+/usr/local/include/Geant4/G4VViewer.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Trd.icc:
+/usr/local/include/Geant4/G4ViewParameters.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Orb.hh:
+/usr/local/include/Geant4/G4VMarker.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Cons.icc:
+/usr/local/include/Geant4/G4Vector3D.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Cons.hh:
+/usr/local/include/Geant4/G4ViewParameters.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PseudoScene.hh:
+/usr/local/include/Geant4/windefs.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THitsCollection.hh:
+/usr/local/include/Geant4/G4VViewer.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THitsMap.hh:
+/usr/local/include/Geant4/G4ViewerList.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VViewer.icc:
+/usr/local/include/Geant4/G4VGraphicsScene.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicalVolumeModel.hh:
+/usr/local/include/Geant4/G4SceneHandlerList.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ViewParameters.icc:
+/usr/local/include/Geant4/G4VModel.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLStoredQt.hh:
+/usr/local/include/Geant4/G4VisAttributes.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VMarker.icc:
+/usr/local/include/Geant4/G4Colour.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VMarker.hh:
+/usr/local/include/Geant4/G4VisAttributes.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ViewParameters.hh:
+/usr/local/include/Geant4/G4VisExtent.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ViewerList.hh:
+/usr/local/include/Geant4/G4VGraphicsSystem.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VGraphicsScene.hh:
+/usr/local/include/Geant4/G4GraphicsSystemList.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSceneHandler.hh:
+/usr/local/include/Geant4/G4VVisManager.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ModelingParameters.icc:
+/usr/local/include/Geant4/G4VisManager.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisAttributes.icc:
+/usr/local/include/Geant4/icomsdefs.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Colour.hh:
+/usr/local/include/Geant4/G4UImanager.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/graphics_reps_defs.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisAttributes.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisExtent.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ModelingParameters.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VVisManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIcommandStatus.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VStateDependent.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/icomsdefs.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UImanager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polyhedra.icc:
+/usr/local/include/Geant4/G4VStateDependent.hh:
 
 ../wcd.cc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VViewer.hh:
+/usr/local/include/Geant4/G4Orb.icc:
 
 ../run.cc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalPhysics.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EmStandardPhysics.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MCCIndexConversionTable.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoriesModel.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProductionCuts.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Vector3D.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialCutsCouple.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserPhysicsList.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUPLSplitter.hh:
-
-/usr/include/c++/11/bits/regex_executor.tcc:
+/usr/local/include/Geant4/G4OpticalPhysics.hh:
 
 /usr/include/c++/11/bits/regex_executor.h:
 
+/usr/include/c++/11/bits/regex.tcc:
+
 /usr/include/c++/11/bits/regex.h:
 
-/usr/include/c++/11/bits/regex_compiler.h:
+/usr/include/c++/11/bits/regex_compiler.tcc:
 
 /usr/include/c++/11/bits/regex_scanner.h:
+
+/usr/include/c++/11/bits/regex_automaton.tcc:
 
 /usr/include/c++/11/bits/regex_automaton.h:
 
 /usr/include/c++/11/bits/regex_constants.h:
 
-/usr/include/c++/11/bits/stl_stack.h:
-
-/usr/include/c++/11/bits/deque.tcc:
+/usr/include/c++/11/bits/stl_deque.h:
 
 /usr/include/c++/11/deque:
+
+/usr/include/c++/11/stack:
+
+/usr/local/include/Geant4/G4RayTracer.hh:
 
 /usr/include/c++/11/bits/regex_scanner.tcc:
 
 /usr/include/c++/11/bits/stream_iterator.h:
-
-/usr/include/c++/11/iterator:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SceneHandlerList.hh:
 
 /usr/include/c++/11/bitset:
 
@@ -3886,15 +3983,9 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
 
 /usr/include/x86_64-linux-gnu/bits/ss_flags.h:
 
-/usr/include/x86_64-linux-gnu/sys/ucontext.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/stack_t.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProductionCutsTable.hh:
-
 /usr/include/x86_64-linux-gnu/bits/sigcontext.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Sphere.hh:
 
 /usr/include/x86_64-linux-gnu/bits/sigaction.h:
 
@@ -3902,389 +3993,351 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
 
 /usr/include/x86_64-linux-gnu/bits/types/sigval_t.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalParameters.hh:
-
 /usr/include/x86_64-linux-gnu/bits/siginfo-consts-arch.h:
 
 /usr/include/x86_64-linux-gnu/bits/siginfo-consts.h:
 
 /usr/include/x86_64-linux-gnu/bits/siginfo-arch.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h:
-
 /usr/include/x86_64-linux-gnu/bits/types/siginfo_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/fenv.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Voxelizer.icc:
-
-/usr/include/x86_64-linux-gnu/bits/unistd_ext.h:
-
-/usr/include/x86_64-linux-gnu/bits/environments.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
-
-/usr/include/execinfo.h:
-
-/usr/include/c++/11/cxxabi.h:
 
 /usr/include/x86_64-linux-gnu/bits/signum-generic.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Backtrace.hh:
+/usr/include/c++/11/csignal:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CacheDetails.hh:
+/usr/include/fenv.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Cache.hh:
+/usr/include/linux/close_range.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreadLocalSingleton.hh:
+/usr/local/include/Geant4/G4Color.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsListOrderingParameter.hh:
+/usr/include/x86_64-linux-gnu/bits/unistd_ext.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsListHelper.hh:
+/usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicsConstructor.hh:
+/usr/include/x86_64-linux-gnu/bits/environments.h:
+
+/usr/include/unistd.h:
+
+/usr/include/execinfo.h:
+
+/usr/local/include/Geant4/G4VisManager.icc:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/cxxabi_tweaks.h:
+
+/usr/include/c++/11/cxxabi.h:
+
+/usr/local/include/Geant4/G4PhysicsListHelper.hh:
+
+/usr/local/include/Geant4/G4VModularPhysicsList.hh:
+
+/usr/local/include/Geant4/G4Torus.icc:
 
 ../physics.cc:
 
 ../generator.cc:
 
-../detector.cc:
+/usr/local/include/Geant4/G4RunManagerKernel.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserSteppingAction.hh:
+/usr/local/include/Geant4/G4TrackingMessenger.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RayTracerX.hh:
+/usr/local/include/Geant4/trkgdefs.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NoProcess.hh:
+/usr/local/include/Geant4/G4VSteppingVerbose.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Trap.icc:
+/usr/local/include/Geant4/G4ProcessVector.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessManager.icc:
+/usr/local/include/Geant4/G4ParticleChange.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessVector.hh:
+/usr/local/include/Geant4/G4VParticleChange.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessManager.hh:
+/usr/local/include/Geant4/G4ModelingParameters.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsTable.icc:
+/usr/local/include/Geant4/G4PhysicsTable.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Navigator.icc:
+/usr/local/include/Geant4/G4VProcess.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VExternalNavigation.hh:
+/usr/local/include/Geant4/G4Navigator.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DAWNFILE.hh:
+/usr/local/include/Geant4/G4VExternalNavigation.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReplicaNavigation.hh:
+/usr/local/include/Geant4/G4RegularNavigation.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParameterisedNavigation.icc:
+/usr/local/include/Geant4/G4ReplicaNavigation.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VVolumeMaterialScanner.hh:
+/usr/local/include/Geant4/G4ParameterisedNavigation.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPVParameterisation.hh:
+/usr/local/include/Geant4/G4ParameterisedNavigation.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParameterisedNavigation.hh:
+/usr/local/include/Geant4/G4VoxelNavigation.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelHeader.hh:
+/usr/local/include/Geant4/G4SmartVoxelHeader.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelNode.icc:
+/usr/local/include/Geant4/G4VVolumeMaterialScanner.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelNode.hh:
+/usr/local/include/Geant4/G4SmartVoxelNode.hh:
 
-/usr/include/c++/11/bits/regex_compiler.tcc:
+/usr/local/include/Geant4/G4BlockingList.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelProxy.icc:
+/usr/local/include/Geant4/G4NavigationLogger.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLogger.hh:
+/usr/local/include/Geant4/G4NormalNavigation.icc:
 
-/usr/include/linux/close_range.h:
+/usr/local/include/Geant4/G4AuxiliaryNavServices.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VoxelNavigation.hh:
+/usr/local/include/Geant4/G4AuxiliaryNavServices.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NormalNavigation.icc:
+/usr/local/include/Geant4/G4TouchableHistoryHandle.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Color.hh:
+/usr/local/include/Geant4/G4GRSSolid.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AuxiliaryNavServices.icc:
+/usr/local/include/Geant4/G4GRSSolid.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistoryHandle.hh:
+/usr/local/include/Geant4/G4GRSVolume.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSSolid.icc:
+/usr/local/include/Geant4/CLHEP/Random/RandStudentT.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleChange.hh:
+/usr/local/include/Geant4/CLHEP/Random/RandStudentT.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSSolid.hh:
+/usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSVolume.hh:
+/usr/local/include/Geant4/G4VTrajectoryModel.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Navigator.hh:
+/usr/local/include/Geant4/CLHEP/Random/RandPoisson.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisManager.icc:
+/usr/local/include/Geant4/G4VParticleChange.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BlockingList.icc:
+/usr/local/include/Geant4/CLHEP/Random/RandLandau.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.icc:
+/usr/local/include/Geant4/CLHEP/Random/RandLandau.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.h:
+/usr/local/include/Geant4/CLHEP/Random/RandGeneral.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisExecutive.hh:
+/usr/local/include/Geant4/CLHEP/Random/RandGaussZiggurat.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.icc:
+/usr/local/include/Geant4/CLHEP/Random/RandGaussQ.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.icc:
+/usr/local/include/Geant4/CLHEP/Random/RandGamma.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.h:
+/usr/local/include/Geant4/CLHEP/Random/RandExpZiggurat.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.h:
+/usr/local/include/Geant4/CLHEP/Random/RandExponential.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.icc:
+/usr/local/include/Geant4/CLHEP/Random/RandFlat.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.h:
+/usr/local/include/Geant4/CLHEP/Utility/thread_local.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.icc:
+/usr/local/include/Geant4/CLHEP/Random/RandFlat.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.h:
+/usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.h:
+/usr/local/include/Geant4/CLHEP/Random/RandBinomial.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExpZiggurat.h:
+/usr/local/include/Geant4/CLHEP/Random/Random.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.icc:
+/usr/local/include/Geant4/CLHEP/Random/RandBinomial.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.h:
+/usr/local/include/Geant4/CLHEP/Random/RanluxppEngine.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.icc:
+/usr/local/include/Geant4/CLHEP/Random/Ranlux64Engine.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.h:
+/usr/local/include/Geant4/CLHEP/Random/RandBit.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.icc:
+/usr/local/include/Geant4/CLHEP/Random/RanluxEngine.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.icc:
+/usr/include/x86_64-linux-gnu/bits/signum-arch.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessType.hh:
+/usr/local/include/Geant4/CLHEP/Random/MTwistEngine.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReplicaNavigation.icc:
+/usr/local/include/Geant4/CLHEP/Random/MixMaxRng.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/thread_local.h:
+/usr/local/include/Geant4/CLHEP/Random/JamesRandom.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.h:
+/usr/local/include/Geant4/CLHEP/Random/RandomEngine.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/memory.h:
+/usr/local/include/Geant4/CLHEP/Random/DualRand.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.icc:
+/usr/local/include/Geant4/CLHEP/Random/Randomize.h:
 
-/usr/include/c++/11/bits/stl_deque.h:
+/usr/local/include/Geant4/Randomize.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.h:
+/usr/local/include/Geant4/G4TrackingManager.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanshiEngine.h:
+/usr/local/include/Geant4/G4SmartTrackStack.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VDigi.hh:
+/usr/local/include/Geant4/G4ClassificationOfNewTrack.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxEngine.h:
+/usr/local/include/Geant4/G4ModelingParameters.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MTwistEngine.h:
+/usr/local/include/Geant4/G4ForceCondition.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MixMaxRng.h:
+/usr/local/include/Geant4/G4EventManager.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/JamesRandom.h:
+/usr/local/include/Geant4/G4VTrajectory.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.icc:
+/usr/local/include/Geant4/G4TrajectoryContainer.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/Randomize.hh:
+/usr/local/include/Geant4/G4DCofThisEvent.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Plane3D.h:
+/usr/local/include/Geant4/G4Polyhedra.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SteppingManager.hh:
+/usr/local/include/Geant4/evtdefs.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryTransformer.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackStack.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StackedTrack.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ClassificationOfNewTrack.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLImmediateQt.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StackManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EventManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTrajectory.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoryContainer.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DCofThisEvent.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Event.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/rundefs.hh:
+/usr/local/include/Geant4/CLHEP/Random/RandChiSquare.h:
 
 /usr/include/c++/11/bits/stl_list.h:
 
 /usr/include/c++/11/list:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RunManager.hh:
+/usr/local/include/Geant4/G4VSDFilter.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSDFilter.hh:
+/usr/local/include/Geant4/G4VUserEventInformation.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CollectionNameVector.hh:
+/usr/local/include/Geant4/G4TouchableHistory.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistory.icc:
+/usr/include/c++/11/bits/regex_executor.tcc:
+
+/usr/local/include/Geant4/G4NavigationHistoryPool.hh:
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/limits.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProcessVector.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GPILSelection.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.h:
-
 /usr/include/string.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelProxy.hh:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/atomic_word.h:
-
-/usr/include/c++/11/bits/stl_bvector.h:
+/usr/include/c++/11/bits/vector.tcc:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h:
 
+/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
+
 /usr/include/c++/11/bits/stl_uninitialized.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTableIterator.hh:
+/usr/local/include/Geant4/G4GenericFileManager.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AllocatorPool.hh:
+/usr/local/include/Geant4/G4VModel.icc:
+
+/usr/local/include/Geant4/G4SmartVoxelHeader.icc:
+
+/usr/include/c++/11/vector:
 
 /usr/include/c++/11/bits/erase_if.h:
 
 /usr/include/stdint.h:
 
-/usr/include/c++/11/bits/ptr_traits.h:
+/usr/local/include/Geant4/CLHEP/Geometry/Transform3D.icc:
 
-/usr/include/c++/11/bits/enable_special_members.h:
+/usr/local/include/Geant4/CLHEP/Vector/RotationY.h:
 
-/usr/include/c++/11/bits/codecvt.h:
+/usr/include/c++/11/bits/hashtable.h:
 
-/usr/include/c++/11/bits/hashtable_policy.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVectorType.hh:
+/usr/local/include/Geant4/CLHEP/Random/RandomEngine.h:
 
 /usr/include/c++/11/bits/refwrap.h:
+
+/usr/local/include/Geant4/G4SmartVoxelProxy.hh:
 
 /usr/include/c++/11/bits/unique_lock.h:
 
 /usr/include/c++/11/climits:
 
+/usr/include/c++/11/bits/sstream.tcc:
+
 /usr/include/c++/11/new:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/cxxabi_tweaks.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/geomwdefs.hh:
 
 /usr/include/c++/11/array:
 
 /usr/include/c++/11/tr1/beta_function.tcc:
 
+/usr/include/c++/11/bits/stl_heap.h:
+
 /usr/include/c++/11/bits/std_abs.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BinScheme.hh:
+/usr/local/include/Geant4/CLHEP/Vector/RotationX.icc:
 
 /usr/include/c++/11/pstl/execution_defs.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.icc:
-
-/usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h:
-
 /usr/include/c++/11/debug/debug.h:
+
+/usr/local/include/Geant4/G4VPVParameterisation.hh:
+
+/usr/local/include/Geant4/CLHEP/Random/Random.icc:
 
 /usr/include/c++/11/bits/stl_relops.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polycone.hh:
+/usr/local/include/Geant4/CLHEP/Random/RandGaussQ.icc:
+
+/usr/local/include/Geant4/G4RunManager.hh:
 
 /usr/include/limits.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tls.hh:
-
-/usr/include/c++/11/stdexcept:
-
-/usr/include/c++/11/pstl/glue_algorithm_defs.h:
-
-/usr/include/c++/11/bits/istream.tcc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2d:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DataVector.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.h:
-
 /usr/include/c++/11/ostream:
+
+/usr/local/include/Geant4/G4VisExecutive.icc:
+
+/usr/local/include/Geant4/G4Event.hh:
+
+/usr/include/c++/11/bits/basic_ios.tcc:
+
+/usr/local/include/Geant4/G4Scene.icc:
+
+/usr/include/c++/11/bits/codecvt.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Trap.hh:
+/usr/include/c++/11/bits/this_thread_sleep.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/ctype_inline.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Types.hh:
+/usr/include/x86_64-linux-gnu/bits/confname.h:
 
-/usr/include/c++/11/bits/streambuf_iterator.h:
+/usr/local/include/Geant4/G4UIcommand.hh:
 
 /usr/include/c++/11/cwctype:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSceneHandler.icc:
+/usr/include/c++/11/stdexcept:
 
-/usr/include/c++/11/fenv.h:
+/usr/local/include/Geant4/CLHEP/Random/RandGeneral.h:
 
-/usr/include/c++/11/bits/uniform_int_dist.h:
+/usr/include/c++/11/pstl/glue_algorithm_defs.h:
+
+/usr/local/include/Geant4/G4Plane3D.hh:
 
 /usr/include/c++/11/utility:
 
-/usr/include/c++/11/ios:
+/usr/local/include/Geant4/G4ProcessManager.hh:
 
 /usr/include/c++/11/bits/stl_vector.h:
 
-/usr/include/c++/11/cstddef:
+/usr/local/include/Geant4/G4HCofThisEvent.hh:
 
 /usr/include/c++/11/bits/basic_string.tcc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1d:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFileManager.hh:
-
-/usr/include/wctype.h:
-
-/usr/include/sched.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh:
-
-/usr/include/x86_64-linux-gnu/bits/errno.h:
+/usr/local/include/Geant4/G4OrderedTable.hh:
 
 /usr/include/c++/11/cerrno:
 
 /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h:
 
+/usr/local/include/Geant4/rundefs.hh:
+
 /usr/include/stdio.h:
 
-/usr/include/c++/11/cstdio:
-
 /usr/include/c++/11/bits/functional_hash.h:
-
-/usr/include/c++/11/string_view:
 
 /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VRML2File.hh:
-
 /usr/include/errno.h:
 
 /usr/include/c++/11/bits/alloc_traits.h:
+
+/usr/local/include/Geant4/G4THnMessenger.hh:
+
+../physics.hh:
+
+/usr/include/c++/11/initializer_list:
+
+/usr/local/include/Geant4/G4ReplicaNavigation.icc:
 
 /usr/include/c++/11/iosfwd:
 
@@ -4292,19 +4345,39 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
 
 /usr/include/c++/11/bits/memoryfwd.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Trd.hh:
+/usr/include/c++/11/ext/alloc_traits.h:
+
+/usr/local/include/Geant4/G4VCSGfaceted.hh:
+
+/usr/include/x86_64-linux-gnu/bits/sched.h:
+
+/usr/include/c++/11/string_view:
+
+/usr/local/include/Geant4/G4ToolsAnalysisManager.hh:
+
+/usr/include/c++/11/bits/algorithmfwd.h:
+
+/usr/include/c++/11/bits/cxxabi_forced.h:
+
+/usr/local/include/Geant4/G4UIcommandStatus.hh:
 
 /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h:
 
 /usr/include/c++/11/bits/ostream_insert.h:
 
+/usr/local/include/Geant4/G4AnalysisManagerState.hh:
+
+/usr/local/include/Geant4/G4ElementVector.hh:
+
 /usr/include/c++/11/string:
 
 /usr/include/x86_64-linux-gnu/bits/uio_lim.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModel.hh:
+/usr/include/c++/11/ios:
 
-/usr/include/c++/11/functional:
+/usr/local/include/Geant4/G4IonisParamElm.hh:
+
+/usr/local/include/Geant4/G4Trd.icc:
 
 /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h:
 
@@ -4312,33 +4385,31 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
 
 /usr/include/c++/11/tr1/legendre_function.tcc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Pow.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GraphicsSystemList.hh:
-
 /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h:
 
-/usr/include/time.h:
+/usr/local/include/Geant4/G4TouchableHistory.hh:
+
+/usr/local/include/Geant4/G4Navigator.hh:
 
 /usr/include/c++/11/bits/invoke.h:
 
-/usr/include/x86_64-linux-gnu/bits/timex.h:
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSolid.icc:
+/usr/local/include/Geant4/G4UserStackingAction.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ForceCondition.hh:
+/usr/local/include/Geant4/tools/histo/b1:
+
+/usr/include/x86_64-linux-gnu/bits/cpu-set.h:
+
+/usr/local/include/Geant4/G4NtupleBookingManager.hh:
 
 /usr/include/c++/11/bits/unordered_map.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh:
-
 /usr/include/asm-generic/errno.h:
 
-/usr/include/x86_64-linux-gnu/bits/sched.h:
-
-/usr/include/c++/11/ext/alloc_traits.h:
+/usr/local/include/Geant4/G4SensitiveVolumeList.hh:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr-default.h:
 
@@ -4346,71 +4417,69 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/gthr.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BlockingList.hh:
-
 /usr/include/ctype.h:
 
-/usr/include/c++/11/bits/ostream.tcc:
+/usr/local/include/Geant4/G4CacheDetails.hh:
 
-/usr/include/c++/11/clocale:
+/usr/include/c++/11/unordered_map:
 
-/usr/include/x86_64-linux-gnu/bits/cpu-set.h:
+/usr/include/c++/11/iomanip:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TwoVector.hh:
+/usr/include/linux/errno.h:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/c++locale.h:
+
+/usr/include/c++/11/cstdint:
 
 /usr/include/x86_64-linux-gnu/bits/waitstatus.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/ntuple_booking:
-
 /usr/include/asm-generic/errno-base.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.icc:
+/usr/local/include/Geant4/G4Cerenkov.hh:
+
+/usr/include/time.h:
+
+/usr/local/include/Geant4/templates.hh:
+
+/usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
 
 /usr/include/c++/11/bits/nested_exception.h:
 
-/usr/include/locale.h:
+/usr/include/c++/11/future:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussZiggurat.h:
+/usr/local/include/Geant4/G4CollectionNameVector.hh:
 
 /usr/include/x86_64-linux-gnu/bits/setjmp.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:
 
-/usr/include/x86_64-linux-gnu/sys/types.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ReferenceCountedHandle.hh:
-
-/usr/include/c++/11/future:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NormalNavigation.hh:
-
 /usr/include/x86_64-linux-gnu/bits/waitflags.h:
+
+/usr/local/include/Geant4/G4MCCIndexConversionTable.hh:
+
+/usr/local/include/Geant4/G4BaseAnalysisManager.hh:
 
 ../construction.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GRSVolume.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh:
-
-/usr/include/x86_64-linux-gnu/bits/long-double.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SandiaTable.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Utility.hh:
+/usr/local/include/Geant4/CLHEP/Random/RandPoissonQ.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/error_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
 
 /usr/include/c++/11/ext/aligned_buffer.h:
 
 /usr/include/c++/11/bits/locale_classes.tcc:
 
+/usr/local/include/Geant4/G4PrimaryTransformer.hh:
+
+/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
+
+/usr/include/c++/11/cstddef:
+
+/usr/local/include/Geant4/G4Polyhedron.hh:
+
 /usr/include/c++/11/bits/concept_check.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPrimaryGenerator.hh:
+/usr/local/include/Geant4/G4VUserPrimaryGeneratorAction.hh:
 
 /usr/include/c++/11/cstring:
 
@@ -4420,99 +4489,177 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
 
 /usr/include/c++/11/bits/locale_classes.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VParticleChange.hh:
+/usr/local/include/Geant4/tools/eqT:
 
 /usr/include/c++/11/tr1/gamma.tcc:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
 
-/usr/include/c++/11/ext/string_conversions.h:
-
-/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
-
-/usr/include/c++/11/bits/stl_iterator.h:
-
 /usr/include/c++/11/tr1/bessel_function.tcc:
+
+/usr/local/include/Geant4/G4THitsMap.hh:
 
 /usr/include/c++/11/bits/stl_algo.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Point3D.hh:
+/usr/local/include/Geant4/tools/forit:
+
+/usr/include/c++/11/bits/ostream.tcc:
+
+/usr/local/include/Geant4/G4Track.icc:
+
+/usr/local/include/Geant4/G4VDigiCollection.hh:
 
 /usr/include/c++/11/tr1/riemann_zeta.tcc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElectronOccupancy.hh:
+/usr/local/include/Geant4/G4ProductionCutsTable.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b3:
+/usr/include/x86_64-linux-gnu/c++/11/bits/ctype_base.h:
 
-/usr/include/c++/11/streambuf:
+/usr/local/include/Geant4/G4Cons.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.hh:
+/usr/include/wctype.h:
 
-/usr/include/features.h:
+/usr/local/include/Geant4/G4VUIshell.hh:
 
-/usr/include/x86_64-linux-gnu/bits/sigstack.h:
+/usr/local/include/Geant4/G4Orb.hh:
 
-/usr/include/c++/11/ext/numeric_traits.h:
+/usr/local/include/Geant4/G4BlockingList.hh:
 
-/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+/usr/include/sched.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisExecutive.icc:
+/usr/include/x86_64-linux-gnu/bits/errno.h:
 
-/usr/include/x86_64-linux-gnu/bits/sigthread.h:
+/usr/local/include/Geant4/G4THnToolsManager.hh:
 
-/usr/include/c++/11/chrono:
+/usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IonisParamMat.hh:
+/usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HCofThisEvent.hh:
+/usr/local/include/Geant4/G4GlobalConfig.hh:
 
-/usr/include/c++/11/istream:
+/usr/include/c++/11/ext/atomicity.h:
 
-/usr/include/c++/11/typeinfo:
+/usr/local/include/Geant4/G4ParticleGun.hh:
 
-/usr/include/x86_64-linux-gnu/bits/getopt_core.h:
+/usr/local/include/Geant4/G4Backtrace.hh:
 
-/usr/include/c++/11/bits/functexcept.h:
+/usr/include/c++/11/algorithm:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleGun.hh:
+/usr/include/x86_64-linux-gnu/bits/long-double.h:
 
-/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
+/usr/include/x86_64-linux-gnu/bits/byteswap.h:
+
+/usr/local/include/Geant4/G4HepRepFileXMLWriter.hh:
+
+/usr/include/c++/11/limits:
 
 ../generator.hh:
 
+/usr/local/include/Geant4/CLHEP/Random/RandBreitWigner.icc:
+
+/usr/local/include/Geant4/G4SteppingManager.hh:
+
 /usr/include/x86_64-linux-gnu/bits/types/__FILE.h:
+
+/usr/local/include/Geant4/tools/histo/h2d:
 
 /usr/include/c++/11/backward/auto_ptr.h:
 
+/usr/include/x86_64-linux-gnu/bits/time64.h:
+
+../action.cc:
+
+/usr/local/include/Geant4/G4TH2ToolsManager.hh:
+
+/usr/local/include/Geant4/G4Polyhedra.icc:
+
+/usr/local/include/Geant4/G4VoxelNavigation.hh:
+
+/usr/include/c++/11/streambuf:
+
+/usr/include/c++/11/bits/hashtable_policy.h:
+
+/usr/local/include/Geant4/G4SteppingControl.hh:
+
+/usr/local/include/Geant4/G4VUserActionInitialization.hh:
+
+/usr/local/include/Geant4/G4Region.icc:
+
+/usr/include/c++/11/bits/range_access.h:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
+
+../detector.cc:
+
+/usr/local/include/Geant4/G4BinScheme.hh:
+
+/usr/local/include/Geant4/G4Voxelizer.icc:
+
+/usr/local/include/Geant4/G4DataVector.icc:
+
+/usr/include/x86_64-linux-gnu/bits/signal_ext.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/c++/11/bits/node_handle.h:
+
+/usr/local/include/Geant4/G4VTHnFileManager.hh:
+
+/usr/local/include/Geant4/G4SurfBits.hh:
+
+/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
+
 /usr/include/c++/11/bits/stl_tempbuf.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
+/usr/include/c++/11/bits/allocator.h:
 
-/usr/include/c++/11/bits/std_function.h:
+/usr/local/include/Geant4/G4ProcessManager.icc:
 
-/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+/usr/include/c++/11/cmath:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/TwoVector.icc:
+/usr/local/include/Geant4/G4VAnalysisManager.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SceneList.hh:
+/usr/include/c++/11/pstl/pstl_config.h:
+
+/usr/local/include/Geant4/G4UIdirectory.hh:
+
+/usr/local/include/Geant4/G4VFacet.hh:
+
+/usr/local/include/Geant4/G4StackManager.hh:
+
+/usr/include/x86_64-linux-gnu/bits/math-vector.h:
+
+/usr/include/c++/11/complex:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h:
+
+/usr/local/include/Geant4/G4HitFilterFactories.hh:
+
+/usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
+
+/usr/local/include/Geant4/G4PhysicalConstants.hh:
+
+/usr/local/include/Geant4/G4NullModel.hh:
 
 /usr/include/x86_64-linux-gnu/asm/errno.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:
 
+/usr/include/c++/11/ext/new_allocator.h:
+
+/usr/local/include/Geant4/CLHEP/Vector/RotationZ.h:
+
+/usr/local/include/Geant4/G4Cache.hh:
+
+/usr/include/c++/11/cstdio:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h:
+
+/usr/local/include/Geant4/G4THnManager.hh:
+
 /usr/include/c++/11/bits/ios_base.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Physics2DVector.hh:
-
 /usr/include/x86_64-linux-gnu/bits/fp-logb.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.hh:
 
 /usr/include/c++/11/bits/streambuf.tcc:
 
@@ -4524,753 +4671,45 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
 
 /usr/include/c++/11/bits/std_thread.h:
 
-/usr/include/x86_64-linux-gnu/c++/11/bits/cpu_defines.h:
-
-/usr/include/c++/11/bits/algorithmfwd.h:
-
-/usr/include/c++/11/bits/cxxabi_forced.h:
-
-/usr/include/c++/11/bits/localefwd.h:
-
-/usr/include/c++/11/tr1/hypergeometric.tcc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.h:
-
-/usr/include/c++/11/bits/postypes.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomConfig.hh:
-
-/usr/include/pthread.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VCSGfaceted.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManagerState.hh:
-
-/usr/include/x86_64-linux-gnu/bits/signum-arch.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DensityEffectCalculator.hh:
-
-/usr/include/c++/11/bits/range_access.h:
-
-/usr/include/x86_64-linux-gnu/bits/stdint-intn.h:
-
-/usr/include/x86_64-linux-gnu/bits/signal_ext.h:
-
-/usr/include/x86_64-linux-gnu/bits/types.h:
-
-/usr/include/c++/11/bits/basic_string.h:
-
-/usr/include/linux/limits.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Voxelizer.hh:
-
-/usr/include/c++/11/bits/shared_ptr_base.h:
-
-/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
-
-/usr/include/x86_64-linux-gnu/bits/endian.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
-
-/usr/include/c++/11/bits/allocator.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackingManager.hh:
-
-/usr/include/c++/11/cmath:
-
-/usr/include/x86_64-linux-gnu/sys/single_threaded.h:
-
-/usr/include/c++/11/type_traits:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Vector3D.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHistory.hh:
-
-/usr/include/c++/11/pstl/pstl_config.h:
-
-/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpenGLImmediateX.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OrderedTable.hh:
-
-/usr/include/stdlib.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH2ToolsManager.hh:
-
-/usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VoxelNavigation.icc:
-
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserActionInitialization.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AffineTransform.hh:
-
-/usr/include/c++/11/limits:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h:
-
-/usr/include/c++/11/bits/exception_defines.h:
-
-/usr/include/c++/11/ext/type_traits.h:
-
-../detector.hh:
-
-/usr/include/c++/11/tr1/modified_bessel_func.tcc:
-
-/usr/include/x86_64-linux-gnu/bits/endianness.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VDigiCollection.hh:
-
-/usr/include/x86_64-linux-gnu/bits/typesizes.h:
-
-/usr/include/c++/11/bits/predefined_ops.h:
-
-/usr/include/math.h:
-
-/usr/include/c++/11/bits/charconv.h:
-
-/usr/include/c++/11/bits/exception_ptr.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NullModel.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AuxiliaryNavServices.hh:
-
-../run.hh:
-
-/usr/include/x86_64-linux-gnu/sys/select.h:
-
-/usr/include/c++/11/algorithm:
-
-/usr/include/c++/11/backward/binders.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModel.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ICRU90StoppingData.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RayTracer.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackStatus.hh:
-
-/usr/include/x86_64-linux-gnu/bits/select.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Profiler.hh:
-
-/usr/include/c++/11/ext/new_allocator.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DynamicParticle.hh:
-
-/usr/include/linux/errno.h:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/c++locale.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UItokenNum.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.h:
-
-/usr/include/strings.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserEventInformation.hh:
-
-/usr/include/c++/11/bits/locale_facets.tcc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h:
-
-/usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AffineTransform.icc:
-
-/usr/include/c++/11/ext/atomicity.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIExecutive.hh:
-
-/usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
-
-/usr/include/c++/11/vector:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP2ToolsManager.hh:
-
-/usr/include/c++/11/bits/move.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Ellipsoid.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/templates.hh:
-
-/usr/include/c++/11/bits/hash_bytes.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/sig_atomic_t.h:
-
-/usr/include/c++/11/tuple:
-
-/usr/include/c++/11/debug/assertions.h:
 
 /usr/include/c++/11/cstdlib:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Para.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RunManagerKernel.hh:
-
 /usr/include/c++/11/bits/stl_iterator_base_types.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserStackingAction.hh:
-
-../action.hh:
 
 /usr/include/c++/11/bits/stringfwd.h:
 
 /usr/include/c++/11/tr1/poly_laguerre.tcc:
 
-/usr/include/x86_64-linux-gnu/bits/math-vector.h:
+/usr/local/include/Geant4/G4GPILSelection.hh:
 
-/usr/include/c++/11/complex:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/error_constants.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GlobalConfig.hh:
-
-/usr/include/c++/11/tr1/ell_integral.tcc:
-
-/usr/include/x86_64-linux-gnu/bits/byteswap.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Point3D.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
-
-/usr/include/c++/11/bits/stl_construct.h:
-
-/usr/include/c++/11/bits/shared_ptr.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModularPhysicsList.hh:
-
-/usr/include/c++/11/tr1/exp_integral.tcc:
-
-/usr/include/c++/11/bits/locale_facets.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Types.hh:
-
-/usr/include/c++/11/bits/exception.h:
-
-/usr/include/c++/11/tr1/poly_hermite.tcc:
-
-/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/FILE.h:
-
-/usr/include/c++/11/sstream:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Orb.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VNtupleManager.hh:
-
-/usr/include/c++/11/tr1/special_function_util.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/clock_t.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserTrackInformation.hh:
-
-/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
-
-/usr/include/c++/11/bits/stl_algobase.h:
-
-/usr/include/c++/11/cwchar:
-
-/usr/include/x86_64-linux-gnu/bits/wchar.h:
-
-/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
-
-/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
-
-/usr/include/c++/11/exception:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Normal3D.hh:
-
-/usr/include/c++/11/bits/cxxabi_init_exception.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cid:
-
-/usr/include/c++/11/bits/string_view.tcc:
-
-/usr/include/x86_64-linux-gnu/bits/locale.h:
-
-/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
-
-/usr/include/x86_64-linux-gnu/bits/local_lim.h:
-
-/usr/include/c++/11/bits/hashtable.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh:
-
-/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevel.icc:
-
-/usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleChange.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ExceptionSeverity.hh:
-
-/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EnvironmentUtils.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/evtdefs.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Scene.hh:
-
-/usr/include/c++/11/bits/locale_facets_nonio.h:
-
-/usr/include/c++/11/ctime:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/time_members.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevelRep.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VParticleChange.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/Rotation.icc:
-
-/usr/include/c++/11/bits/char_traits.h:
-
-/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
-
-/usr/include/libintl.h:
-
-/usr/include/c++/11/bits/locale_facets_nonio.tcc:
-
-/usr/include/x86_64-linux-gnu/bits/confname.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/typedefs:
-
-/usr/include/c++/11/bits/locale_conv.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NistMaterialBuilder.hh:
-
-/usr/include/c++/11/bits/unique_ptr.h:
-
-/usr/include/c++/11/bits/quoted_string.h:
-
-/usr/include/c++/11/map:
-
-/usr/include/c++/11/bits/stl_tree.h:
-
-/usr/include/c++/11/bits/stl_map.h:
-
-/usr/include/c++/11/bits/stl_multimap.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.h:
-
-/usr/include/c++/11/mutex:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertiesIndex.hh:
-
-/usr/include/c++/11/ratio:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DigiFilterFactories.hh:
-
-/usr/include/x86_64-linux-gnu/bits/sigstksz.h:
-
-/usr/include/c++/11/condition_variable:
-
-/usr/include/c++/11/thread:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Scene.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/forit:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Box.icc:
-
-/usr/include/c++/11/bits/parse_numbers.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RegularNavigation.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h:
-
-/usr/include/c++/11/cctype:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSteppingVerbose.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h:
-
-/usr/include/c++/11/bits/stl_heap.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exception.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PDefManager.hh:
-
-/usr/include/c++/11/ext/concurrence.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1d:
-
-/usr/include/c++/11/stdlib.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/pwdefs.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistory.hh:
-
-/usr/include/c++/11/bits/specfun.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Threading.hh:
-
-/usr/include/c++/11/bits/regex_error.h:
-
-/usr/include/c++/11/atomic:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PolyhedraHistorical.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Plane3D.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NistManager.hh:
-
-/usr/include/c++/11/bits/atomic_base.h:
-
-/usr/include/c++/11/bits/atomic_lockfree_defines.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Allocator.hh:
-
-/usr/include/c++/11/locale:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryVertex.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIparameter.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VGraphicsSystem.hh:
-
-/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryParticle.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ASCIITree.hh:
-
-../physics.hh:
-
-/usr/include/c++/11/initializer_list:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevelRep.icc:
-
-/usr/include/c++/11/unordered_map:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleMomentum.hh:
+/usr/local/include/Geant4/tools/histo/b3:
 
 /usr/include/c++/11/bits/std_mutex.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SystemOfUnits.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserRunAction.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackingMessenger.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartTrackStack.hh:
-
-/usr/include/c++/11/bits/uses_allocator.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.hh:
-
-/usr/include/c++/11/cstdint:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationX.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsTable.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepPoint.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.hh:
-
-/usr/include/c++/11/iomanip:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.icc:
-
-/usr/include/x86_64-linux-gnu/bits/fp-fast.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationLevel.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisVerbose.hh:
-
-/usr/include/c++/11/bits/align.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/eqT:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalSurface.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanecuEngine.h:
-
-/usr/include/c++/11/fstream:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4String.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepStatus.hh:
-
-/usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SurfaceProperty.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserTrackingAction.hh:
-
-/usr/include/c++/11/bits/fstream.tcc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.icc:
-
-/usr/include/c++/11/bits/stl_raw_storage_iter.h:
-
-/usr/include/c++/11/bit:
-
-/usr/include/c++/11/bits/shared_ptr_atomic.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTBaseHnManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxppEngine.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3d:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseAnalysisManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnInformation.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisUtilities.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Fcn.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SteppingControl.hh:
-
-/usr/include/c++/11/bits/vector.tcc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.icc:
-
-/usr/include/c++/11/memory:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cids:
-
-/usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Transform3D.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseFileManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VProcess.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSensitiveDetector.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/trkdefs.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Ranlux64Engine.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTHnFileManager.hh:
-
-/usr/include/fenv.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH1ToolsManager.hh:
-
-../construction.cc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Torus.hh:
-
-/usr/include/x86_64-linux-gnu/bits/struct_mutex.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UImessenger.hh:
-
-/usr/include/c++/11/cfenv:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIdirectory.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/trkgdefs.hh:
-
-/usr/include/stdc-predef.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIcommand.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ApplicationState.hh:
-
-/usr/include/x86_64-linux-gnu/bits/time64.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationZ.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH3ToolsManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Profiler.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/DualRand.h:
-
-/usr/include/c++/11/bits/stl_pair.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b1:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/base_histo:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/histo_data:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axes:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axis:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4HitFilterFactories.hh:
-
-/usr/include/x86_64-linux-gnu/bits/floatn.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistory.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2:
-
-/usr/include/x86_64-linux-gnu/bits/time.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1:
-
-/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/profile_data:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2d:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/AxisAngle.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.icc:
-
-/usr/include/c++/11/csignal:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NavigationHistoryPool.hh:
-
-/usr/include/c++/11/bits/basic_ios.tcc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP1ToolsManager.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserDetectorConstruction.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrajectoryFilterFactories.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/geomdefs.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4RotationMatrix.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/Rotation.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LorentzVector.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/LorentzVector.h:
-
-/usr/include/c++/11/stack:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVector.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.icc:
-
-/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
-
-/usr/include/wchar.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/LorentzVector.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/AxisAngle.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationX.icc:
-
-../action.cc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationY.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationY.icc:
-
-/usr/include/c++/11/bits/regex_automaton.tcc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SensitiveVolumeList.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationZ.icc:
-
-/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.icc:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tokenizer.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomSplitter.hh:
+/usr/local/include/Geant4/G4Types.hh:
 
 /usr/include/c++/11/iostream:
 
 /usr/include/x86_64-linux-gnu/bits/uintn-identity.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.hh:
+/usr/local/include/Geant4/G4Step.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Region.icc:
+/usr/include/x86_64-linux-gnu/bits/libc-header-start.h:
 
-/usr/include/c++/11/bits/regex.tcc:
+/usr/include/pthread.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Exp.hh:
+/usr/local/include/Geant4/G4PolyhedraSide.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.hh:
+/usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Box.hh:
+/usr/include/features.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Isotope.hh:
+/usr/include/x86_64-linux-gnu/bits/sigstack.h:
 
-/usr/include/c++/11/pstl/glue_memory_defs.h:
+/usr/include/c++/11/ext/numeric_traits.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4GeomTypes.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4CSGSolid.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSolid.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Polyhedron.hh:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/HepPolyhedron.h:
-
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/TwoVector.h:
+/usr/include/x86_64-linux-gnu/bits/wctype-wchar.h:
 
 /usr/include/features-time64.h:
 
@@ -5278,136 +4717,816 @@ CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc \
 
 /usr/include/x86_64-linux-gnu/bits/types/locale_t.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h:
+/usr/include/c++/11/bits/stl_bvector.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Transform3D.hh:
+/usr/local/include/Geant4/globals.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h:
+/usr/include/stdlib.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Visible.hh:
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
 
-/usr/include/signal.h:
+/usr/include/x86_64-linux-gnu/bits/sigthread.h:
 
-/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
+/usr/include/c++/11/chrono:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Visible.icc:
+/usr/include/c++/11/bits/basic_string.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tubs.hh:
+/usr/local/include/Geant4/G4VDigi.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsVector.icc:
+/usr/include/linux/limits.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tubs.icc:
+/usr/include/c++/11/bits/shared_ptr_base.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b2:
+/usr/include/x86_64-linux-gnu/bits/mathcalls.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialTable.hh:
+/usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
+
+/usr/local/include/Geant4/G4PhysicsTable.hh:
+
+/usr/include/c++/11/bits/postypes.h:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h:
+
+/usr/include/c++/11/bits/exception_defines.h:
+
+/usr/include/c++/11/ext/type_traits.h:
+
+/usr/include/c++/11/tr1/modified_bessel_func.tcc:
+
+/usr/include/x86_64-linux-gnu/bits/endianness.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/c++/11/bits/predefined_ops.h:
+
+/usr/local/include/Geant4/G4StepStatus.hh:
+
+/usr/include/c++/11/backward/binders.h:
+
+/usr/include/x86_64-linux-gnu/bits/select.h:
+
+/usr/include/c++/11/bits/locale_facets.tcc:
+
+/usr/local/include/Geant4/G4TH3ToolsManager.hh:
+
+/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
+
+/usr/local/include/Geant4/G4VSolid.icc:
+
+/usr/local/include/Geant4/G4SceneList.hh:
+
+/usr/local/include/Geant4/G4UserSteppingAction.hh:
+
+/usr/local/include/Geant4/CLHEP/Random/RandPoisson.icc:
+
+/usr/local/include/Geant4/G4VHit.hh:
+
+/usr/include/x86_64-linux-gnu/bits/struct_rwlock.h:
 
 /usr/include/alloca.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PVPlacement.hh:
+/usr/local/include/Geant4/G4StackedTrack.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Material.hh:
+/usr/include/c++/11/bits/specfun.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PolyconeSide.hh:
+/usr/include/c++/11/bits/stl_pair.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Element.hh:
+/usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h:
 
-/usr/include/x86_64-linux-gnu/c++/11/bits/ctype_base.h:
+/usr/include/c++/11/bits/hash_bytes.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IonisParamElm.hh:
+/usr/include/x86_64-linux-gnu/bits/types/sig_atomic_t.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4IsotopeVector.hh:
+/usr/include/c++/11/tuple:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4SmartVoxelHeader.icc:
+/usr/include/x86_64-linux-gnu/c++/11/bits/atomic_word.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElementTable.hh:
+/usr/local/include/Geant4/G4VPhysicalVolume.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertiesTable.hh:
+/usr/local/include/Geant4/G4SandiaTable.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Step.hh:
+/usr/include/c++/11/debug/assertions.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4NistElementBuilder.hh:
+/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4MaterialPropertyVector.hh:
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Log.hh:
+/usr/include/x86_64-linux-gnu/c++/11/bits/error_constants.h:
+
+/usr/include/c++/11/tr1/ell_integral.tcc:
+
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stddef.h:
+
+/usr/include/c++/11/bits/stl_construct.h:
+
+/usr/local/include/Geant4/G4OpticalParameters.hh:
+
+/usr/include/c++/11/tr1/exp_integral.tcc:
+
+/usr/include/c++/11/bits/localefwd.h:
+
+/usr/include/c++/11/bits/locale_facets.h:
+
+/usr/include/c++/11/bits/exception.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/error_t.h:
+
+/usr/local/include/Geant4/G4Normal3D.hh:
+
+/usr/include/c++/11/tr1/poly_hermite.tcc:
+
+/usr/local/include/Geant4/G4VMarker.icc:
+
+/usr/local/include/Geant4/G4AllocatorPool.hh:
+
+/usr/local/include/Geant4/G4String.icc:
+
+/usr/local/include/Geant4/G4Tubs.hh:
+
+/usr/include/c++/11/istream:
+
+/usr/include/c++/11/typeinfo:
+
+/usr/include/math.h:
+
+/usr/include/c++/11/bits/charconv.h:
+
+/usr/include/c++/11/bits/exception_ptr.h:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/c++allocator.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:
+
+/usr/local/include/Geant4/G4Ellipsoid.hh:
+
+/usr/include/c++/11/tr1/special_function_util.h:
+
+/usr/local/include/Geant4/tools/histo/base_histo:
+
+/usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h:
+
+/usr/include/c++/11/ext/string_conversions.h:
+
+/usr/include/x86_64-linux-gnu/bits/iscanonical.h:
+
+/usr/local/include/Geant4/G4NtupleBookingManager.icc:
+
+/usr/include/c++/11/cwchar:
+
+/usr/local/include/Geant4/CLHEP/Geometry/Plane3D.h:
+
+/usr/local/include/Geant4/G4LogicalSurface.hh:
+
+/usr/include/x86_64-linux-gnu/bits/wchar.h:
+
+/usr/include/x86_64-linux-gnu/bits/floatn-common.h:
+
+/usr/local/include/Geant4/G4TrackStack.hh:
+
+/usr/local/include/Geant4/G4ParticleDefinition.icc:
+
+/usr/include/signal.h:
+
+/usr/local/include/Geant4/CLHEP/Random/RandExponential.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/wint_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/types/mbstate_t.h:
+
+/usr/local/include/Geant4/G4GeomConfig.hh:
+
+/usr/include/c++/11/exception:
+
+/usr/local/include/Geant4/G4MaterialPropertyVector.hh:
+
+/usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
+
+/usr/include/wchar.h:
+
+/usr/include/c++/11/bits/cxxabi_init_exception.h:
+
+/usr/include/c++/11/bits/shared_ptr.h:
+
+/usr/local/include/Geant4/G4ParticleDefinition.hh:
+
+/usr/include/c++/11/bits/string_view.tcc:
+
+/usr/local/include/Geant4/G4UserRunAction.hh:
+
+/usr/local/include/Geant4/CLHEP/Random/RandBit.h:
+
+/usr/local/include/Geant4/CLHEP/Utility/memory.h:
+
+/usr/include/x86_64-linux-gnu/bits/locale.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix1_lim.h:
+
+/usr/local/include/Geant4/G4DensityEffectCalculator.hh:
+
+/usr/include/x86_64-linux-gnu/bits/local_lim.h:
+
+/usr/local/include/Geant4/CLHEP/Geometry/Vector3D.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix2_lim.h:
+
+/usr/local/include/Geant4/G4Fcn.hh:
+
+/usr/local/include/Geant4/G4PVPlacement.hh:
+
+/usr/include/x86_64-linux-gnu/bits/xopen_lim.h:
+
+/usr/local/include/Geant4/CLHEP/Vector/ThreeVector.icc:
+
+/usr/local/include/Geant4/G4TrajectoryModelFactories.hh:
+
+/usr/local/include/Geant4/G4Exception.hh:
+
+/usr/local/include/Geant4/G4MaterialCutsCouple.hh:
+
+/usr/local/include/Geant4/CLHEP/Vector/AxisAngle.h:
+
+/usr/local/include/Geant4/G4ExceptionSeverity.hh:
+
+/usr/include/c++/11/bits/istream.tcc:
+
+/usr/local/include/Geant4/G4EnvironmentUtils.hh:
+
+/usr/local/include/Geant4/G4VSceneHandler.icc:
+
+/usr/local/include/Geant4/G4DynamicParticle.hh:
+
+/usr/local/include/Geant4/G4Voxelizer.hh:
+
+/usr/local/include/Geant4/G4UserTrackingAction.hh:
+
+/usr/include/c++/11/ctime:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/time_members.h:
 
 /usr/include/c++/11/bits/basic_ios.h:
 
 /usr/include/x86_64-linux-gnu/c++/11/bits/messages_members.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Track.icc:
+/usr/local/include/Geant4/G4DataVector.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DataVector.hh:
+/usr/local/include/Geant4/G4NormalNavigation.hh:
 
-/usr/include/c++/11/bits/allocated_ptr.h:
+/usr/include/c++/11/bits/char_traits.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.h:
+/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:
 
-/usr/include/assert.h:
+/usr/include/libintl.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Step.icc:
+/usr/local/include/Geant4/G4Material.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalSurface.hh:
+/usr/include/c++/11/bits/locale_facets_nonio.tcc:
 
-/usr/include/c++/11/bits/stl_multiset.h:
+/usr/local/include/Geant4/CLHEP/Random/RanecuEngine.h:
 
-/usr/include/unistd.h:
+/usr/local/include/Geant4/G4VTBaseHnManager.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Physics2DVector.icc:
+/usr/include/c++/11/bits/locale_conv.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalBorderSurface.hh:
+/usr/local/include/Geant4/G4PhysicalVolumeModel.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Randomize.h:
+/usr/local/include/Geant4/G4VPhysicalVolume.hh:
 
-/usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h:
+/usr/local/include/Geant4/CLHEP/Vector/LorentzVector.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalSurface.icc:
+/usr/include/c++/11/bits/unique_ptr.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalBorderSurface.icc:
+/usr/local/include/Geant4/G4GRSVolume.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VHit.hh:
+/usr/include/c++/11/bits/quoted_string.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4StepPoint.hh:
+/usr/local/include/Geant4/G4Trap.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TouchableHandle.hh:
+/usr/include/c++/11/bits/stl_tree.h:
 
-/usr/include/c++/11/bits/node_handle.h:
+/usr/include/c++/11/bits/stl_map.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTouchable.hh:
+/usr/include/x86_64-linux-gnu/sys/ucontext.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Ellipsoid.hh:
+/usr/local/include/Geant4/G4Box.hh:
 
-/usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h:
+/usr/include/c++/11/bits/stl_multimap.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4DynamicParticle.icc:
+/usr/local/include/Geant4/G4Para.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsFreeVector.hh:
+/usr/local/include/Geant4/G4ios.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTouchable.icc:
+/usr/include/c++/11/mutex:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4TrackVector.hh:
+/usr/local/include/Geant4/G4ProcessVector.hh:
 
-/usr/include/c++/11/bits/sstream.tcc:
+/usr/include/x86_64-linux-gnu/bits/time.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/PTL/Globals.hh:
+/usr/local/include/Geant4/trkdefs.hh:
+
+/usr/include/c++/11/ratio:
+
+/usr/include/x86_64-linux-gnu/bits/sigstksz.h:
+
+/usr/include/c++/11/condition_variable:
+
+/usr/include/c++/11/thread:
+
+/usr/include/c++/11/bits/parse_numbers.h:
+
+/usr/local/include/Geant4/CLHEP/Utility/defs.h:
+
+/usr/local/include/Geant4/G4SmartVoxelProxy.icc:
+
+/usr/local/include/Geant4/tools/ntuple_booking:
+
+/usr/include/c++/11/functional:
+
+/usr/local/include/Geant4/CLHEP/Vector/TwoVector.icc:
+
+/usr/local/include/Geant4/G4VPrimaryGenerator.hh:
+
+/usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h:
+
+/usr/local/include/Geant4/G4ThreeVector.hh:
+
+/usr/local/include/Geant4/CLHEP/Vector/ThreeVector.h:
+
+/usr/include/x86_64-linux-gnu/sys/types.h:
+
+/usr/local/include/Geant4/CLHEP/Units/PhysicalConstants.h:
+
+/usr/local/include/Geant4/CLHEP/Units/SystemOfUnits.h:
+
+/usr/local/include/Geant4/G4UItokenNum.hh:
+
+/usr/include/c++/11/bits/locale_facets_nonio.h:
+
+/usr/local/include/Geant4/tools/histo/p1:
+
+/usr/local/include/Geant4/G4PDefManager.hh:
+
+/usr/include/c++/11/stdlib.h:
+
+/usr/local/include/Geant4/G4AutoLock.hh:
+
+/usr/local/include/Geant4/CLHEP/Random/RandGamma.h:
+
+/usr/include/c++/11/bits/ptr_traits.h:
+
+/usr/local/include/Geant4/G4Threading.hh:
+
+/usr/include/c++/11/ext/concurrence.h:
+
+/usr/include/c++/11/bits/regex_error.h:
+
+/usr/include/c++/11/atomic:
+
+/usr/local/include/Geant4/G4SmartVoxelNode.icc:
+
+/usr/include/c++/11/bits/atomic_base.h:
+
+/usr/include/c++/11/bits/atomic_lockfree_defines.h:
+
+/usr/local/include/Geant4/G4VUserDetectorConstruction.hh:
+
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/usr/local/include/Geant4/G4Allocator.hh:
+
+/usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h:
+
+/usr/include/x86_64-linux-gnu/bits/fenv.h:
+
+/usr/local/include/Geant4/G4ParticleMomentum.hh:
+
+/usr/local/include/Geant4/G4TP2ToolsManager.hh:
 
 /usr/include/x86_64-linux-gnu/gnu/stubs.h:
 
 /usr/include/c++/11/set:
 
+/usr/local/include/Geant4/G4ProcessType.hh:
+
+/usr/local/include/Geant4/G4SystemOfUnits.hh:
+
+/usr/local/include/Geant4/G4TessellatedSolid.hh:
+
+/usr/local/include/Geant4/G4VSceneHandler.hh:
+
+/usr/include/x86_64-linux-gnu/bits/types/timer_t.h:
+
+/usr/include/c++/11/bits/std_function.h:
+
+/usr/local/include/Geant4/G4THnMessenger.icc:
+
+/usr/local/include/Geant4/G4ParticleTable.hh:
+
+/usr/local/include/Geant4/G4ParticleTableIterator.hh:
+
+/usr/local/include/Geant4/G4PhysicsVector.hh:
+
+/usr/local/include/Geant4/G4GenericAnalysisManager.hh:
+
+/usr/local/include/Geant4/G4AnalysisVerbose.hh:
+
+/usr/local/include/Geant4/G4MaterialPropertiesIndex.hh:
+
+/usr/include/c++/11/fstream:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h:
+
+/usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h:
+
+/usr/include/c++/11/bits/fstream.tcc:
+
+/usr/include/c++/11/tr1/hypergeometric.tcc:
+
+/usr/local/include/Geant4/G4VAnalysisManager.icc:
+
+/usr/local/include/Geant4/pwdefs.hh:
+
+/usr/include/c++/11/memory:
+
+/usr/include/c++/11/bits/stl_raw_storage_iter.h:
+
+/usr/include/c++/11/bits/align.h:
+
+/usr/local/include/Geant4/graphics_reps_defs.hh:
+
+/usr/local/include/Geant4/G4Tokenizer.hh:
+
+/usr/local/include/Geant4/CLHEP/Vector/Rotation.icc:
+
+/usr/include/c++/11/bit:
+
+/usr/include/c++/11/bits/shared_ptr_atomic.h:
+
+/usr/include/c++/11/pstl/glue_memory_defs.h:
+
+/usr/local/include/Geant4/G4HnInformation.hh:
+
+/usr/include/c++/11/locale:
+
+/usr/local/include/Geant4/G4Physics2DVector.hh:
+
+/usr/local/include/Geant4/G4TrackVector.hh:
+
+/usr/local/include/Geant4/PTL/Utility.hh:
+
+/usr/local/include/Geant4/G4AnalysisUtilities.hh:
+
+/usr/local/include/Geant4/G4ParticleChange.icc:
+
+/usr/local/include/Geant4/G4ToolsAnalysisManager.icc:
+
+/usr/include/locale.h:
+
+/usr/local/include/Geant4/G4HnManager.hh:
+
+/usr/local/include/Geant4/tools/histo/b2:
+
+/usr/local/include/Geant4/tools/cids:
+
+/usr/local/include/Geant4/G4GeomTypes.hh:
+
+/usr/include/c++/11/type_traits:
+
+/usr/local/include/Geant4/tools/cid:
+
+/usr/local/include/Geant4/CLHEP/Random/RandChiSquare.icc:
+
+/usr/local/include/Geant4/CLHEP/Vector/Rotation.h:
+
+../detector.hh:
+
+/usr/local/include/Geant4/tools/histo/p2d:
+
+/usr/local/include/Geant4/tools/typedefs:
+
+/usr/include/c++/11/map:
+
+/usr/local/include/Geant4/G4GenericFileManager.hh:
+
+/usr/include/strings.h:
+
+/usr/local/include/Geant4/G4VNtupleManager.hh:
+
+/usr/local/include/Geant4/G4VFileManager.hh:
+
+/usr/include/c++/11/bits/stl_algobase.h:
+
+/usr/local/include/Geant4/G4VTouchable.icc:
+
+/usr/local/include/Geant4/G4VUserPhysicsList.hh:
+
+/usr/local/include/Geant4/G4String.hh:
+
+/usr/local/include/Geant4/G4THnManager.icc:
+
+/usr/local/include/Geant4/G4UImessenger.hh:
+
+/usr/local/include/Geant4/G4Region.hh:
+
+/usr/local/include/Geant4/G4UIparameter.hh:
+
+/usr/include/c++/11/fenv.h:
+
+/usr/include/c++/11/bits/uniform_int_dist.h:
+
+/usr/local/include/Geant4/G4ApplicationState.hh:
+
+/usr/local/include/Geant4/CLHEP/Geometry/Point3D.h:
+
+/usr/local/include/Geant4/G4VPhysicsConstructor.hh:
+
+/usr/local/include/Geant4/G4THnToolsManager.icc:
+
+/usr/local/include/Geant4/G4Sphere.icc:
+
+/usr/local/include/Geant4/G4TP1ToolsManager.hh:
+
+/usr/local/include/Geant4/CLHEP/Random/RanshiEngine.h:
+
+/usr/local/include/Geant4/tools/histo/h1d:
+
+/usr/include/c++/11/clocale:
+
+/usr/local/include/Geant4/G4VHitsCollection.hh:
+
+/usr/local/include/Geant4/G4EmStandardPhysics.hh:
+
+/usr/local/include/Geant4/tools/histo/h1:
+
+/usr/local/include/Geant4/CLHEP/Geometry/Normal3D.h:
+
+/usr/local/include/Geant4/tools/histo/histo_data:
+
+/usr/local/include/Geant4/tools/histo/axes:
+
+/usr/local/include/Geant4/G4PhysicsListOrderingParameter.hh:
+
+/usr/include/c++/11/bits/streambuf_iterator.h:
+
+/usr/local/include/Geant4/tools/histo/axis:
+
+/usr/include/x86_64-linux-gnu/bits/floatn.h:
+
+/usr/local/include/Geant4/G4VSolid.hh:
+
+/usr/local/include/Geant4/tools/histo/h2:
+
+/usr/local/include/Geant4/G4NavigationLevel.icc:
+
+/usr/local/include/Geant4/tools/histo/h3d:
+
+/usr/local/include/Geant4/tools/histo/p1d:
+
+/usr/local/include/Geant4/tools/histo/profile_data:
+
+/usr/local/include/Geant4/tools/histo/h3:
+
+/usr/local/include/Geant4/tools/histo/p2:
+
+/usr/local/include/Geant4/G4GenericAnalysisManager.icc:
+
+/usr/local/include/Geant4/G4Trap.hh:
+
+/usr/local/include/Geant4/CLHEP/Random/RandGauss.h:
+
+../construction.cc:
+
+/usr/include/c++/11/iterator:
+
+/usr/local/include/Geant4/geomdefs.hh:
+
+/usr/local/include/Geant4/G4RotationMatrix.hh:
+
+/usr/local/include/Geant4/G4Track.hh:
+
+/usr/include/c++/11/bits/regex_compiler.h:
+
+/usr/local/include/Geant4/CLHEP/Vector/RotationInterfaces.h:
+
+/usr/local/include/Geant4/CLHEP/Vector/LorentzVector.icc:
+
+/usr/local/include/Geant4/G4ThreadLocalSingleton.hh:
+
+/usr/local/include/Geant4/G4BaseFileManager.hh:
+
+/usr/local/include/Geant4/G4VTouchable.hh:
+
+/usr/include/x86_64-linux-gnu/bits/stdint-uintn.h:
+
+/usr/include/c++/11/bits/stl_iterator.h:
+
+/usr/local/include/Geant4/CLHEP/Vector/AxisAngle.icc:
+
+/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
+
+/usr/local/include/Geant4/CLHEP/Vector/RotationX.h:
+
+/usr/local/include/Geant4/G4VRML2File.hh:
+
+/usr/local/include/Geant4/CLHEP/Vector/RotationY.icc:
+
+/usr/include/c++/11/bits/deque.tcc:
+
+/usr/local/include/Geant4/G4MaterialTable.hh:
+
+/usr/local/include/Geant4/CLHEP/Vector/RotationZ.icc:
+
+/usr/include/stdc-predef.h:
+
+/usr/local/include/Geant4/G4GeomSplitter.hh:
+
+/usr/local/include/Geant4/geomwdefs.hh:
+
+/usr/local/include/Geant4/G4VUserTrackInformation.hh:
+
+/usr/local/include/Geant4/G4LogicalVolume.icc:
+
+/usr/local/include/Geant4/HepPolyhedron.h:
+
+../action.hh:
+
+/usr/local/include/Geant4/G4TwoVector.hh:
+
+/usr/local/include/Geant4/G4Exp.hh:
+
+/usr/local/include/Geant4/CLHEP/Vector/TwoVector.h:
+
+/usr/local/include/Geant4/G4NavigationHistory.icc:
+
+/usr/local/include/Geant4/G4Point3D.hh:
+
+/usr/include/x86_64-linux-gnu/sys/single_threaded.h:
+
+/usr/local/include/Geant4/CLHEP/Geometry/BasicVector3D.h:
+
+/usr/local/include/Geant4/G4NoProcess.hh:
+
+/usr/local/include/Geant4/G4Transform3D.hh:
+
+/usr/local/include/Geant4/G4Element.hh:
+
+/usr/local/include/Geant4/CLHEP/Geometry/Transform3D.h:
+
+/usr/local/include/Geant4/G4Visible.hh:
+
+/usr/local/include/Geant4/G4Visible.icc:
+
+/usr/local/include/Geant4/G4Box.icc:
+
+/usr/local/include/Geant4/G4Tubs.icc:
+
+/usr/local/include/Geant4/G4NistManager.hh:
+
+/usr/local/include/Geant4/G4VUPLSplitter.hh:
+
+/usr/include/x86_64-linux-gnu/bits/getopt_core.h:
+
+/usr/include/c++/11/bits/functexcept.h:
+
+/usr/local/include/Geant4/G4Isotope.hh:
+
+/usr/include/c++/11/bits/enable_special_members.h:
+
+/usr/local/include/Geant4/G4IsotopeVector.hh:
+
+/usr/local/include/Geant4/G4MaterialPropertiesTable.hh:
+
+/usr/local/include/Geant4/G4PhysicsFreeVector.hh:
+
+/usr/local/include/Geant4/G4Polycone.hh:
+
+/usr/include/c++/11/cctype:
+
+/usr/local/include/Geant4/G4Log.hh:
+
+/usr/local/include/Geant4/G4PhysicsVectorType.hh:
+
+/usr/local/include/Geant4/G4PhysicsVector.icc:
+
+/usr/local/include/Geant4/G4IonisParamMat.hh:
+
+/usr/local/include/Geant4/G4PseudoScene.hh:
+
+/usr/local/include/Geant4/G4Profiler.icc:
+
+/usr/include/c++/11/bits/allocated_ptr.h:
+
+/usr/include/assert.h:
+
+/usr/local/include/Geant4/G4TrackStatus.hh:
+
+/usr/local/include/Geant4/G4TH1ToolsManager.hh:
+
+/usr/local/include/Geant4/G4NistElementBuilder.hh:
+
+/usr/local/include/Geant4/tls.hh:
+
+/usr/local/include/Geant4/G4NistMaterialBuilder.hh:
+
+/usr/local/include/Geant4/G4PrimaryVertex.hh:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/local/include/Geant4/G4ICRU90StoppingData.hh:
+
+/usr/include/c++/11/cfenv:
+
+/usr/local/include/Geant4/G4Pow.hh:
+
+/usr/local/include/Geant4/G4OpticalSurface.hh:
+
+/usr/lib/gcc/x86_64-linux-gnu/11/include/syslimits.h:
+
+/usr/local/include/Geant4/G4Physics2DVector.icc:
+
+/usr/local/include/Geant4/G4ReferenceCountedHandle.hh:
+
+/usr/local/include/Geant4/G4AnalysisManager.hh:
+
+/usr/local/include/Geant4/G4SurfaceProperty.hh:
+
+/usr/include/c++/11/sstream:
+
+/usr/local/include/Geant4/G4LogicalSurface.icc:
+
+/usr/local/include/Geant4/G4PrimaryParticle.hh:
+
+/usr/local/include/Geant4/G4ElectronOccupancy.hh:
+
+/usr/local/include/Geant4/G4LogicalBorderSurface.icc:
+
+/usr/local/include/Geant4/G4LogicalVolume.hh:
+
+/usr/local/include/Geant4/G4ProductionCuts.hh:
+
+/usr/local/include/Geant4/G4NavigationLevelRep.hh:
+
+/usr/include/x86_64-linux-gnu/bits/types/time_t.h:
+
+/usr/local/include/Geant4/G4CSGSolid.hh:
+
+/usr/include/x86_64-linux-gnu/bits/types/FILE.h:
+
+/usr/local/include/Geant4/G4NavigationLevel.hh:
+
+/usr/local/include/Geant4/CLHEP/Random/RandGauss.icc:
+
+../run.hh:
+
+/usr/local/include/Geant4/G4VSensitiveDetector.hh:
+
+/usr/local/include/Geant4/G4PolyconeSide.hh:
+
+/usr/local/include/Geant4/G4StepPoint.hh:
+
+/usr/local/include/Geant4/G4TouchableHandle.hh:
+
+/usr/local/include/Geant4/G4AffineTransform.icc:
+
+/usr/local/include/Geant4/G4StepPoint.icc:
+
+/usr/local/include/Geant4/G4Profiler.hh:
+
+/usr/include/x86_64-linux-gnu/sys/select.h:
+
+/usr/local/include/Geant4/PTL/Globals.hh:
+
+/usr/local/include/Geant4/PTL/Types.hh:
+
 /usr/include/c++/11/bits/stl_set.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VisManager.hh:
+/usr/local/include/Geant4/G4LorentzVector.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Track.hh:
+/usr/include/c++/11/bits/stl_multiset.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsModelCatalog.hh:
+/usr/local/include/Geant4/G4ElementTable.hh:
 
-/usr/include/c++/11/bits/this_thread_sleep.h:
+/usr/local/include/Geant4/G4PhysicsModelCatalog.hh:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ElementVector.hh:
+/usr/include/c++/11/bits/uses_allocator.h:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VHitsCollection.hh:
+/usr/local/include/Geant4/G4Step.icc:
 
-/home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VReadOutGeometry.hh:
+/usr/include/c++/11/bits/stl_stack.h:
+
+/usr/local/include/Geant4/G4LogicalBorderSurface.hh:
+
+/usr/local/include/Geant4/G4DynamicParticle.icc:
+
+/usr/local/include/Geant4/G4VReadOutGeometry.hh:
+
+/usr/include/c++/11/bits/move.h:
+
+/usr/local/include/Geant4/G4NavigationHistory.hh:
+
+/usr/local/include/Geant4/G4ParticleTable.icc:
+
+/usr/local/include/Geant4/G4AffineTransform.hh:
+
+/usr/local/include/Geant4/G4NavigationLevelRep.icc:

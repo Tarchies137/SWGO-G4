@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank
+CMAKE_SOURCE_DIR = /home/usuario/fabian/SIMULADORES/Geant4/SWGO-G4/swgo_0
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank/build
+CMAKE_BINARY_DIR = /home/usuario/fabian/SIMULADORES/Geant4/SWGO-G4/swgo_0/build
 
 # Utility rule file for Estanque.
 
@@ -81,6 +81,6 @@ CMakeFiles/Estanque.dir/clean:
 .PHONY : CMakeFiles/Estanque.dir/clean
 
 CMakeFiles/Estanque.dir/depend:
-	cd /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank/build /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank/build /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank/build/CMakeFiles/Estanque.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/usuario/fabian/SIMULADORES/Geant4/SWGO-G4/swgo_0/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/usuario/fabian/SIMULADORES/Geant4/SWGO-G4/swgo_0 /home/usuario/fabian/SIMULADORES/Geant4/SWGO-G4/swgo_0 /home/usuario/fabian/SIMULADORES/Geant4/SWGO-G4/swgo_0/build /home/usuario/fabian/SIMULADORES/Geant4/SWGO-G4/swgo_0/build /home/usuario/fabian/SIMULADORES/Geant4/SWGO-G4/swgo_0/build/CMakeFiles/Estanque.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Estanque.dir/depend
 
