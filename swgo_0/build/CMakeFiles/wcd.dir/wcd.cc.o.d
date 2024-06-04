@@ -638,6 +638,8 @@ CMakeFiles/wcd.dir/wcd.cc.o: \
  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalSurface.hh \
  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalSurface.icc \
  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalBorderSurface.icc \
+ /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicalConstants.hh \
+ /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProductionCuts.hh \
  /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank/detector.hh \
  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSensitiveDetector.hh \
  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VReadOutGeometry.hh \
@@ -772,6 +774,7 @@ CMakeFiles/wcd.dir/wcd.cc.o: \
  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4EmStandardPhysics.hh \
  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalPhysics.hh \
  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalParameters.hh \
+ /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4Cerenkov.hh \
  /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank/action.hh \
  /home/usuario/fabian/SIMULADORES/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserActionInitialization.hh \
  /home/usuario/fabian/SIMULADORES/Geant4/SIM-G4/wcd_tank/generator.hh \
