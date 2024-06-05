@@ -1,0 +1,4 @@
+/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles/wcd.dir
+/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles/Estanque.dir
+/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles/edit_cache.dir
+/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles/rebuild_cache.dir

@@ -1,8 +1,11 @@
-CMakeFiles/wcd.dir/run.cc.o: \
- /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/run.cc \
+CMakeFiles/wcd.dir/generator.cc.o: \
+ /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/generator.cc \
  /usr/include/stdc-predef.h \
- /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/run.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserRunAction.hh \
+ /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/generator.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleGun.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4Types.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4GlobalConfig.hh \
  /usr/include/c++/11/complex \
@@ -177,14 +180,6 @@ CMakeFiles/wcd.dir/run.cc.o: \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tls.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisManagerState.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisVerbose.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/globals.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ios.hh \
  /usr/include/c++/11/iostream /usr/include/c++/11/algorithm \
  /usr/include/c++/11/utility /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/stl_algo.h \
@@ -241,6 +236,18 @@ CMakeFiles/wcd.dir/run.cc.o: \
  /usr/include/c++/11/bits/parse_numbers.h \
  /usr/include/c++/11/bits/std_mutex.h \
  /usr/include/c++/11/bits/unique_lock.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPrimaryGenerator.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4PDefManager.hh \
+ /usr/include/c++/11/stdlib.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/pwdefs.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4Threading.hh \
  /usr/include/c++/11/condition_variable \
  /usr/include/c++/11/bits/shared_ptr.h \
@@ -251,77 +258,72 @@ CMakeFiles/wcd.dir/run.cc.o: \
  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
  /usr/include/c++/11/bits/atomic_futex.h \
  /usr/include/c++/11/bits/std_thread.h /usr/include/c++/11/thread \
- /usr/include/c++/11/bits/this_thread_sleep.h /usr/include/c++/11/fstream \
+ /usr/include/c++/11/bits/this_thread_sleep.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleDefinition.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryVertex.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4Allocator.hh \
+ /usr/include/c++/11/cstddef \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4AllocatorPool.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4PrimaryParticle.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleMomentum.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4SystemOfUnits.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTableIterator.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/Randomize.hh \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Randomize.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/DualRand.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.h \
+ /usr/include/c++/11/fstream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
- /usr/include/c++/11/bits/fstream.tcc /usr/include/c++/11/memory \
+ /usr/include/c++/11/bits/fstream.tcc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandomEngine.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/JamesRandom.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MixMaxRng.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/MTwistEngine.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanecuEngine.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxEngine.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Ranlux64Engine.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanluxppEngine.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RanshiEngine.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/Random.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/memory.h \
+ /usr/include/c++/11/memory \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
  /usr/include/c++/11/bits/shared_ptr_atomic.h \
  /usr/include/c++/11/backward/auto_ptr.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTBaseHnManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnInformation.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4AnalysisUtilities.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4BinScheme.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4Fcn.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VAnalysisManager.icc \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4HnManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseAnalysisManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/ntuple_booking \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cids \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/cid \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/typedefs \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/forit \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4NtupleBookingManager.icc \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VNtupleManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VFileManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4BaseFileManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VTHnFileManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH1ToolsManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnManager.icc \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4AutoLock.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4UImessenger.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIdirectory.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIcommand.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIparameter.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4UItokenNum.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ApplicationState.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ThreeVector.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/defs.h \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnToolsManager.icc \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4THnMessenger.icc \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4Tokenizer.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH2ToolsManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4TH3ToolsManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP1ToolsManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4TP2ToolsManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1d \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h1 \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b1 \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/base_histo \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/histo_data \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axes \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/axis \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/eqT \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2d \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h2 \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b2 \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3d \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/h3 \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/b3 \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1d \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p1 \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/profile_data \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2d \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/tools/histo/p2 \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsAnalysisManager.icc \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.icc \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.hh \
- /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.icc
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBinomial.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Utility/thread_local.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandFlat.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBreitWigner.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandChiSquare.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExponential.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandExpZiggurat.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandBit.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGamma.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGauss.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussQ.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGaussZiggurat.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandGeneral.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandLandau.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoisson.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandPoissonQ.icc \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.h \
+ /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/CLHEP/Random/RandStudentT.icc

@@ -1,5 +1,5 @@
 CMakeFiles/wcd.dir/wcd.cc.o: \
- /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/wcd.cc \
+ /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/wcd.cc \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -616,7 +616,7 @@ CMakeFiles/wcd.dir/wcd.cc.o: \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ToolsSGQtGLES.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4UIExecutive.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUIshell.hh \
- /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/construction.hh \
+ /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/construction.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserDetectorConstruction.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicalVolume.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalVolume.hh \
@@ -640,7 +640,7 @@ CMakeFiles/wcd.dir/wcd.cc.o: \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4LogicalBorderSurface.icc \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicalConstants.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ProductionCuts.hh \
- /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/detector.hh \
+ /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/detector.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VSensitiveDetector.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VReadOutGeometry.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4SensitiveVolumeList.hh \
@@ -706,7 +706,7 @@ CMakeFiles/wcd.dir/wcd.cc.o: \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericAnalysisManager.icc \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4GenericFileManager.icc \
- /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/physics.hh \
+ /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/physics.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VModularPhysicsList.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPhysicsConstructor.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4PhysicsListHelper.hh \
@@ -775,12 +775,12 @@ CMakeFiles/wcd.dir/wcd.cc.o: \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalPhysics.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4OpticalParameters.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4Cerenkov.hh \
- /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/action.hh \
+ /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/action.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserActionInitialization.hh \
- /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/generator.hh \
+ /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/generator.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleGun.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4VPrimaryGenerator.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4ParticleTable.hh \
- /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/run.hh \
+ /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/run.hh \
  /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/include/Geant4/G4UserRunAction.hh

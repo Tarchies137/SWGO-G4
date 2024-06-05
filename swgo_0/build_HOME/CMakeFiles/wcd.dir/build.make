@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank
+CMAKE_SOURCE_DIR = /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME
+CMAKE_BINARY_DIR = /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME
 
 # Include any dependencies generated for this target.
 include CMakeFiles/wcd.dir/depend.make
@@ -72,100 +72,100 @@ include CMakeFiles/wcd.dir/flags.make
 CMakeFiles/wcd.dir/wcd.cc.o: CMakeFiles/wcd.dir/flags.make
 CMakeFiles/wcd.dir/wcd.cc.o: ../wcd.cc
 CMakeFiles/wcd.dir/wcd.cc.o: CMakeFiles/wcd.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/wcd.dir/wcd.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/wcd.cc.o -MF CMakeFiles/wcd.dir/wcd.cc.o.d -o CMakeFiles/wcd.dir/wcd.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/wcd.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/wcd.dir/wcd.cc.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/wcd.cc.o -MF CMakeFiles/wcd.dir/wcd.cc.o.d -o CMakeFiles/wcd.dir/wcd.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/wcd.cc
 
 CMakeFiles/wcd.dir/wcd.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wcd.dir/wcd.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/wcd.cc > CMakeFiles/wcd.dir/wcd.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/wcd.cc > CMakeFiles/wcd.dir/wcd.cc.i
 
 CMakeFiles/wcd.dir/wcd.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wcd.dir/wcd.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/wcd.cc -o CMakeFiles/wcd.dir/wcd.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/wcd.cc -o CMakeFiles/wcd.dir/wcd.cc.s
 
 CMakeFiles/wcd.dir/action.cc.o: CMakeFiles/wcd.dir/flags.make
 CMakeFiles/wcd.dir/action.cc.o: ../action.cc
 CMakeFiles/wcd.dir/action.cc.o: CMakeFiles/wcd.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/wcd.dir/action.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/action.cc.o -MF CMakeFiles/wcd.dir/action.cc.o.d -o CMakeFiles/wcd.dir/action.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/action.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/wcd.dir/action.cc.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/action.cc.o -MF CMakeFiles/wcd.dir/action.cc.o.d -o CMakeFiles/wcd.dir/action.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/action.cc
 
 CMakeFiles/wcd.dir/action.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wcd.dir/action.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/action.cc > CMakeFiles/wcd.dir/action.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/action.cc > CMakeFiles/wcd.dir/action.cc.i
 
 CMakeFiles/wcd.dir/action.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wcd.dir/action.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/action.cc -o CMakeFiles/wcd.dir/action.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/action.cc -o CMakeFiles/wcd.dir/action.cc.s
 
 CMakeFiles/wcd.dir/construction.cc.o: CMakeFiles/wcd.dir/flags.make
 CMakeFiles/wcd.dir/construction.cc.o: ../construction.cc
 CMakeFiles/wcd.dir/construction.cc.o: CMakeFiles/wcd.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/wcd.dir/construction.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/construction.cc.o -MF CMakeFiles/wcd.dir/construction.cc.o.d -o CMakeFiles/wcd.dir/construction.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/construction.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/wcd.dir/construction.cc.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/construction.cc.o -MF CMakeFiles/wcd.dir/construction.cc.o.d -o CMakeFiles/wcd.dir/construction.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/construction.cc
 
 CMakeFiles/wcd.dir/construction.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wcd.dir/construction.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/construction.cc > CMakeFiles/wcd.dir/construction.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/construction.cc > CMakeFiles/wcd.dir/construction.cc.i
 
 CMakeFiles/wcd.dir/construction.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wcd.dir/construction.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/construction.cc -o CMakeFiles/wcd.dir/construction.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/construction.cc -o CMakeFiles/wcd.dir/construction.cc.s
 
 CMakeFiles/wcd.dir/detector.cc.o: CMakeFiles/wcd.dir/flags.make
 CMakeFiles/wcd.dir/detector.cc.o: ../detector.cc
 CMakeFiles/wcd.dir/detector.cc.o: CMakeFiles/wcd.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/wcd.dir/detector.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/detector.cc.o -MF CMakeFiles/wcd.dir/detector.cc.o.d -o CMakeFiles/wcd.dir/detector.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/detector.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/wcd.dir/detector.cc.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/detector.cc.o -MF CMakeFiles/wcd.dir/detector.cc.o.d -o CMakeFiles/wcd.dir/detector.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/detector.cc
 
 CMakeFiles/wcd.dir/detector.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wcd.dir/detector.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/detector.cc > CMakeFiles/wcd.dir/detector.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/detector.cc > CMakeFiles/wcd.dir/detector.cc.i
 
 CMakeFiles/wcd.dir/detector.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wcd.dir/detector.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/detector.cc -o CMakeFiles/wcd.dir/detector.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/detector.cc -o CMakeFiles/wcd.dir/detector.cc.s
 
 CMakeFiles/wcd.dir/generator.cc.o: CMakeFiles/wcd.dir/flags.make
 CMakeFiles/wcd.dir/generator.cc.o: ../generator.cc
 CMakeFiles/wcd.dir/generator.cc.o: CMakeFiles/wcd.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/wcd.dir/generator.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/generator.cc.o -MF CMakeFiles/wcd.dir/generator.cc.o.d -o CMakeFiles/wcd.dir/generator.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/generator.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/wcd.dir/generator.cc.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/generator.cc.o -MF CMakeFiles/wcd.dir/generator.cc.o.d -o CMakeFiles/wcd.dir/generator.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/generator.cc
 
 CMakeFiles/wcd.dir/generator.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wcd.dir/generator.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/generator.cc > CMakeFiles/wcd.dir/generator.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/generator.cc > CMakeFiles/wcd.dir/generator.cc.i
 
 CMakeFiles/wcd.dir/generator.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wcd.dir/generator.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/generator.cc -o CMakeFiles/wcd.dir/generator.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/generator.cc -o CMakeFiles/wcd.dir/generator.cc.s
 
 CMakeFiles/wcd.dir/physics.cc.o: CMakeFiles/wcd.dir/flags.make
 CMakeFiles/wcd.dir/physics.cc.o: ../physics.cc
 CMakeFiles/wcd.dir/physics.cc.o: CMakeFiles/wcd.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/wcd.dir/physics.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/physics.cc.o -MF CMakeFiles/wcd.dir/physics.cc.o.d -o CMakeFiles/wcd.dir/physics.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/physics.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/wcd.dir/physics.cc.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/physics.cc.o -MF CMakeFiles/wcd.dir/physics.cc.o.d -o CMakeFiles/wcd.dir/physics.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/physics.cc
 
 CMakeFiles/wcd.dir/physics.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wcd.dir/physics.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/physics.cc > CMakeFiles/wcd.dir/physics.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/physics.cc > CMakeFiles/wcd.dir/physics.cc.i
 
 CMakeFiles/wcd.dir/physics.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wcd.dir/physics.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/physics.cc -o CMakeFiles/wcd.dir/physics.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/physics.cc -o CMakeFiles/wcd.dir/physics.cc.s
 
 CMakeFiles/wcd.dir/run.cc.o: CMakeFiles/wcd.dir/flags.make
 CMakeFiles/wcd.dir/run.cc.o: ../run.cc
 CMakeFiles/wcd.dir/run.cc.o: CMakeFiles/wcd.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/wcd.dir/run.cc.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/run.cc.o -MF CMakeFiles/wcd.dir/run.cc.o.d -o CMakeFiles/wcd.dir/run.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/run.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/wcd.dir/run.cc.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/wcd.dir/run.cc.o -MF CMakeFiles/wcd.dir/run.cc.o.d -o CMakeFiles/wcd.dir/run.cc.o -c /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/run.cc
 
 CMakeFiles/wcd.dir/run.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/wcd.dir/run.cc.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/run.cc > CMakeFiles/wcd.dir/run.cc.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/run.cc > CMakeFiles/wcd.dir/run.cc.i
 
 CMakeFiles/wcd.dir/run.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/wcd.dir/run.cc.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/run.cc -o CMakeFiles/wcd.dir/run.cc.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/run.cc -o CMakeFiles/wcd.dir/run.cc.s
 
 # Object files for target wcd
 wcd_OBJECTS = \
@@ -234,7 +234,7 @@ wcd: /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/lib/libG4glob
 wcd: /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/lib/libG4clhep.so
 wcd: /home/fabian/fabian/Simuladores/Geant4/geant4-v11.1.2-install/lib/libG4ptl.so.2.3.3
 wcd: CMakeFiles/wcd.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable wcd"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable wcd"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/wcd.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -246,6 +246,6 @@ CMakeFiles/wcd.dir/clean:
 .PHONY : CMakeFiles/wcd.dir/clean
 
 CMakeFiles/wcd.dir/depend:
-	cd /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME /home/fabian/fabian/Simuladores/Geant4/SIM-G4/wcd_tank/buil_HOME/CMakeFiles/wcd.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0 /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0 /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME /home/fabian/fabian/Simuladores/Geant4/SWGO-G4/swgo_0/build_HOME/CMakeFiles/wcd.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/wcd.dir/depend
 
