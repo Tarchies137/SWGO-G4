@@ -208,7 +208,7 @@ cuts->SetProductionCut(energy_max);
 //  -Habitacion: Caja de 3mx3mx3m con aire se incluye en la simulación 
 // para considerar las partículas entrando desde fuera del estanque	
 
-	G4Box *solidWorld 				= new G4Box("solidWorld", 3*m, 3*m, 3*m);
+	G4Box *solidWorld 				= new G4Box("solidWorld", 10*m, 10*m, 10*m);
 	G4LogicalVolume *logicWorld 	= new G4LogicalVolume(solidWorld,worldMat,"logicWorld");
 	//logicWorld->SetRegion(cherenkovRegion);
 	G4VPhysicalVolume *physWorld	= new G4PVPlacement(
@@ -223,7 +223,7 @@ cuts->SetProductionCut(energy_max);
 //---------------------------------------------------------------------------------
 //  -Estanque: Estanque de 1.2m de diámetro y 1.2m de altura. contiene Agua 
 
-	G4Tubs *solidRadiator = new G4Tubs("solidRadiator", 0., 1.2*m, 1.2*m, 0., 2 * pi);
+	G4Tubs *solidRadiator = new G4Tubs("solidRadiator", 0., 3.5*m, 4.5*m, 0., 2 * pi);
 	G4LogicalVolume *logicRadiator = new G4LogicalVolume(solidRadiator,tankMat, "logicalRadiator");//material worldmat para reducir el procesamiento, cambiar a tankmat
 	G4RotationMatrix* rotation = new G4RotationMatrix();
 	//________________________________
@@ -297,13 +297,13 @@ opticalSurface->SetMaterialPropertiesTable(surfaceProperties);
 //new G4LogicalBorderSurface("OpticalSurfaceInternal", physRadiator, physWorld, opticalSurface);
 
 //----------------------------------------------------------------------------------------	
-	G4Tubs *solidDetector = new G4Tubs("solidDetector", 0., 0.15*m, 0.1*m,0., 2 * pi);
+	G4Tubs *solidDetector = new G4Tubs("solidDetector", 0., 3.5*m, 0.1*m,0., 2 * pi);
 
 	logicDetector = new G4LogicalVolume(solidDetector, worldMat, "logicDetector");
 
 	G4VPhysicalVolume *physDetector = new 
 	G4PVPlacement(rotation, //se aplica misma rotacion que el estanque 
-		G4ThreeVector(0,1.1*m,0), logicDetector,"physDetector",logicWorld, false, 0, true);
+		G4ThreeVector(0,-4.4*m,0), logicDetector,"physDetector",logicWorld, false, 0, true);
 		//
 	//
 
